@@ -1,8 +1,17 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+port: 4003
+title: HEAL610
+description: These are my course notes for HEAL610
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+exclude:
+- .DS_Store
+- .sass-cache/
+- .jekyll-cache/
+- gemfiles/
+- Gemfile
+- Gemfile.lock
