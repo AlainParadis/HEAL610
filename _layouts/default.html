@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+	<link href="{{site.baseurl}}/css/style.css" rel="stylesheet">
+    <script src="filter.js"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul style="list-style: none; display: flex; justify-content: space-around; padding: 0;">
+                <li><a href="/">Home</a></li>
+                <li><a href="sources-by-author.html">By Author</a></li>
+                <li><a href="sources-by-title.html">By Title</a></li>
+                <li><a href="sources-by-year.html">By Year</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        {{ content }}
+    </main>
+</body>
+</html>

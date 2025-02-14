@@ -1,0 +1,88 @@
+/* Use the Apple system font */
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    margin: 0, 0, 0, 1rem;
+    padding: 0;
+}
+
+/* Additional styling for headers */
+h1, h2, h3, h4, h5, h6 {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling for links */
+a {
+    color: #007aff; /* Apple blue */
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+
+/* Remove bullet points and add spacing between list items */
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul li {
+    margin-bottom: 1.5em; /* Add spacing between items */
+}
+
+/* Search bar styling */
+#search-container {
+  margin-bottom: 1em;
+}
+
+#search-input {
+  width: 100%;
+  padding: 0.5em;
+  font-size: 1rem;
+}
+
+/* Flexbox table styling */
+.table {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.table-row {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #ddd; /* Add borders around rows */
+    margin-bottom: 1em; /* Add spacing between rows */
+}
+
+.table-cell {
+    padding: 1em; /* Add padding inside cells */
+}
+
+/* Left Column Styling */
+.left-column {
+    flex: 2; /* Take up more space for detailed information */
+    border-right: 1px solid #ddd; /* Add a vertical separator */
+}
+
+/* Right Column Styling */
+.right-column {
+    flex: 1; /* Take up less space for notes/keywords */
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+    .table-row {
+        flex-direction: column; /* Stack columns vertically on small screens */
+        border-right: none; /* Remove vertical separator for stacked layout */
+    }
+}
