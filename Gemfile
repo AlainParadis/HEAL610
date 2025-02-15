@@ -13,7 +13,7 @@ ruby "3.3.4"
 # Required for Ruby ≥3.4 compatibility
 gem "csv", "~> 3.2"
 gem "base64", "~> 0.2.0"
-gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.9.1"
 
 # Future-proofing for upcoming Ruby versions
 if Gem::Version.new(RUBY_VERSION) >= Gem::Version.new("3.4")

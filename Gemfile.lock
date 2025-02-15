@@ -155,7 +155,7 @@ DEPENDENCIES
   csv (~> 3.2)
   jekyll (~> 4.3.4)
   liquid (~> 4.0.4)
-  webrick (~> 1.8)
+  webrick (~> 1.9.1)
 
 RUBY VERSION
    ruby 3.3.4p94
