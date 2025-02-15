@@ -23,20 +23,13 @@ a {
     text-decoration: underline;
 }
 
+/* Reduce space between paragraphs in the left column */
+.table-cell.left-column p {
+    margin: 0.2em 0; /* Adjust top and bottom margin to reduce spacing */
+}
+
 a:hover {
     text-decoration: none;
-}
-
-
-/* Remove bullet points and add spacing between list items */
-ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-ul li {
-    margin-bottom: 1.5em; /* Add spacing between items */
 }
 
 /* Search bar styling */
@@ -65,7 +58,7 @@ ul li {
 }
 
 .table-cell {
-    padding: 1em; /* Add padding inside cells */
+    padding: 0.5em; /* Add padding inside cells */
 }
 
 /* Left Column Styling */

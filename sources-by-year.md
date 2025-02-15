@@ -20,9 +20,9 @@ title: Sources By Year
     <div class="table-row">
       <!-- Left Column: Title, Author, Year -->
       <div class="table-cell left-column">
+        <p><strong>Year:</strong> {{ source['Year'] }}</p>
         <p><strong>Title:</strong> {{ source.Title }}</p>
         <p><strong>Author:</strong> {{ source.Author }}</p>
-        <p><strong>Year:</strong> {{ source['Year'] }}</p>
       </div>
       
       <!-- Right Column: Notes or Keywords -->
