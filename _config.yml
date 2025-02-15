@@ -13,9 +13,6 @@ baseurl: ""
 # If your GitHub Pages site is hosted at https://username.github.io/my-site,
 # set baseurl to "/my-site".
 
-
-url: https://just-the-docs.github.io
-
 exclude:
 - .DS_Store
 - .sass-cache/
