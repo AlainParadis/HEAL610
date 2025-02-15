@@ -1,10 +1,14 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.4" # installed by `gem jekyll`
+# GitHub Pages gem to manage dependencies
+# gem "github-pages", "~> 227", group: :jekyll_plugins
+
+gem "jekyll", "~> 4.3.4"
+gem "liquid", "~> 4.0.4"
+
+ruby "3.3.4"
+
 # gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
-
-gem "just-the-docs", "0.10.0" # pinned to the current release
-# gem "just-the-docs"        # always download the latest release
 
 # Required for Ruby ≥3.4 compatibility
 gem "csv", "~> 3.2"
