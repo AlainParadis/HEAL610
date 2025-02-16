@@ -10,12 +10,14 @@ layout: default
 -   Structure of Lit Review
 
 ### Work-Integrated Learning: Current Shortcomings and Future Quality
--   Definition of WIL
+
+-   Definition of WIL, including different models of value to our program.
 
 #### The Importance of WIL
 
 -   Improved student retention
 -   Higher student satisfaction
+-   *Find more*
 
 #### The Importance of WIL in My Program
 
@@ -24,10 +26,40 @@ layout: default
 -   Employment pipeline for industry partners
 -   Addresses institutional goals
 -   Benefits faculty with strong network and relevant curriculum
+-   Mentorship is crucial
 
-#### The current state of WIL in My Program
+#### The Current State of WIL in My Program
 
-#### Defining quality WIL
+-   Inconsistent intervals
+-   Vary unpredictably in scope
+-   Lack consistency
+-   Do not conform with institutional standards
+-   Lack of formal documentation
+-   Occurs too late, is too sudden at end of program
+-   Lack variety of formats
+
+#### Defining quality WIL (The end state)
+
+-   Assess quality from each stakeholder’s perspective
+    -   Students:
+        -   Deliver mentorship
+        -   Prepare for industry work
+        -   Build professional network
+        -   Assurance of curriculum alignment
+    -   Faculty:
+        -   Updated and expanded industry network
+        -   Current industry-relevant skills
+        -   Industry-aligned curriculum
+        -   Institutional standards alignment
+    -   Employers:
+        -   Talent pipeline
+        -   Cutting-edge techniques and trends
+        -   *Find more*
+    -   The college:
+        -   Improved recruitment and retention
+        -   Curriculum alignment with industry
+        -   Respond to institutional mission
+-   Fitness for purpose
 
 ### Leadership and Change Management
 
