@@ -1,17 +1,22 @@
 ---
-title: Home
+title: HEAL610 Research Paper
 layout: default
+permalink: /
 ---
-## Claim Statement
 
--   Embedding Work-Integrated Learning (WIL) as a formal learning model in Algonquin College's Graphic Design program will enhance student employability, strengthen stakeholder engagement, and align academic outcomes with industry needs, addressing current inconsistencies and ensuring long-term program success.
+---
+# {{ page.title }}
 
-## Outline
+## Lit Review Outline
 
 ### Intro
 -   Context in Algonquin College and Ontario colleges
 -   Scope of Lit Review
 -   Structure of Lit Review
+
+#### Claim Statement
+
+-   Embedding Work-Integrated Learning (WIL) as a formal learning model in Algonquin College's Graphic Design program will enhance student employability, strengthen stakeholder engagement, and align academic outcomes with industry needs, addressing current inconsistencies and ensuring long-term program success.
 
 ### Work-Integrated Learning: Current Shortcomings and Future Quality
 
@@ -21,6 +26,7 @@ layout: default
 
 -   Improved student retention
 -   Higher student satisfaction
+-   Purveyor of well-trained professionals [[1](/sources/MZKYTB4J.html)] [[2](/sources/MZKYTB4J.html)]
 -   *Find more*
 
 #### The Importance of WIL in My Program
