@@ -16,11 +16,12 @@
     <h1>{{ page.Title }}</h1>
     <p><strong>Author:</strong> {{ page.Author }}</p>
     <p><strong>Title:</strong> {{ page.Title }}</p>
-    <p><strong>Year:</strong> {{ page.Year }}</p>
+    <p><strong>Year:</strong> {{ page["Publication Year"] }}</p>
+    <p><strong>Tags:</strong> {{ page["Manual Tags"] }}</p>
     <hr>
     <p><strong>Notes:</strong> {{ page.Notes }}</p>
     <hr>
-    <p><strong>Abstract:</strong> {{ page.Abstract }}</p>
+    <p><strong>Abstract:</strong> {{ page["Abstract Note"] }}</p>
 </main>
 </body>
 </html>
