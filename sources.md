@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sources By Year
+title: Sources By Author
 ---
 
 <h1>{{ page.title }}</h1>
@@ -15,14 +15,16 @@ title: Sources By Year
 </div>
 
 <div class="table" id="sources-container">
-  {% assign sorted_sources = site.data.sources | sort: "Year" %}
+  {% assign sorted_sources = site.data.sources | sort: "Author" %}
   {% for source in sorted_sources %}
     <div class="table-row">
       <!-- Left Column: Title, Author, Year -->
       <div class="table-cell left-column">
-        <p><strong>Year:</strong> {{ source['Year'] }}</p>
+        <p><strong>Key:</strong> <a href="/sources/{{source.Key}}.html">{{ source.Key }}</a></p>
         <p><strong>Title:</strong> {{ source.Title }}</p>
         <p><strong>Author:</strong> {{ source.Author }}</p>
+        <p><strong>Year:</strong> {{ source["Publication Year"] }}</p>
+        <p><strong>Tags:</strong> {{ source["Manual Tags"] }}</p>
       </div>
       
       <!-- Right Column: Notes or Keywords -->
@@ -32,4 +34,3 @@ title: Sources By Year
     </div>
   {% endfor %}
 </div>
-
