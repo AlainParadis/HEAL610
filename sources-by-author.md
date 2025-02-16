@@ -20,29 +20,16 @@ title: Sources By Author
     <div class="table-row">
       <!-- Left Column: Title, Author, Year -->
       <div class="table-cell left-column">
-<p><strong>Title:</strong>
-{% for source in site.data.sources %}
-<ul class="inline-list">
-  {% for source in sorted_sources %}
-    <li><a href="{{ site.baseurl }}/sources/{{ source.Key }}.html">{{ source.Key }}</a></li>
-  {% endfor %}
-</ul>
-{% endfor %}</p>
-<p><strong>Title:</strong>
-{% for source in site.data.sources %}
-<ul class="inline-list">
-  {% for source in site.data.sources %}
-    <li>{{ source.Title }}</li>
-  {% endfor %}
-</ul>
-{% endfor %}</p>
+        <p><strong>Key:</strong> <a href="/sources/{{source.Key}}.html">{{ source.Key }}</a></p>
+        <p><strong>Title:</strong> {{ source.Title }}</p>
+        <p><strong>Author:</strong> {{ source.Author }}</p>
+        <p><strong>Year:</strong> {{ source['Year'] }}</p>
       </div>
-
+      
       <!-- Right Column: Notes or Keywords -->
       <div class="table-cell right-column">
-        <p><strong>Keywords:</strong> {{ source.Keywords }}</p>
+        <p><strong>Notes:</strong> {{ source.Notes }}</p>
       </div>
     </div>
   {% endfor %}
 </div>
-

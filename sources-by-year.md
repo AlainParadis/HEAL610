@@ -27,7 +27,7 @@ title: Sources By Year
       
       <!-- Right Column: Notes or Keywords -->
       <div class="table-cell right-column">
-        <p><strong>Keywords:</strong> {{ source.Keywords }}</p>
+        <p><strong>Notes:</strong> {{ source.Notes }}</p>
       </div>
     </div>
   {% endfor %}
