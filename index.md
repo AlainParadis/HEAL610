@@ -25,16 +25,10 @@ permalink: /
 #### The Importance of WIL
 
 -   Improved student retention
-    <ul class="sources">
-      {% assign filtered_sources = site.data.sources | where: "Manual Tags", "retention" %}
-      {% for source in filtered_sources %}
-        <li>
-          {{ source.Title | truncate: 40 }} by {{ source.Author }} ({{ source["Publication Year"] }})
-        </li>
-      {% endfor %}
-    </ul>
+    -   [MZKYTB4J](./sources/MZKYTB4J.html), [MZKYTB4J](./sources/MZKYTB4J.html)
 -   Higher student satisfaction
--   Purveyor of well-trained professionals [[MZKYTB4J](./sources/MZKYTB4J.html)]
+    -   [MZKYTB4J](./sources/MZKYTB4J.html)
+-   Purveyor of well-trained professionals 
 -   *Find more*
 
 #### The Importance of WIL in My Program
