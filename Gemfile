@@ -3,7 +3,7 @@ source "https://rubygems.org"
 # GitHub Pages gem to manage dependencies
 # gem "github-pages", "~> 227", group: :jekyll_plugins
 
-gem "jekyll", "~> 4.3.4"
+gem "jekyll", "~> 4.4.1"
 gem "liquid", "~> 4.0.4"
 gem "jekyll-datapage-generator"
 
