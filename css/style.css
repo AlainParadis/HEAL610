@@ -1,4 +1,8 @@
 /* Use the Apple system font */
+:root {
+  --background-color: white;
+  --text-color-black: black;
+}
 
 body {
     font-family: "IBM Plex Mono", serif;
@@ -7,8 +11,27 @@ body {
     font-size: 16px;
     line-height: 1.5;
     color: #333;
-    margin: 0, 0, 0, 1rem;
+    margin: 0<hr>;
     padding: 0;
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+/* Light mode */
+@media (prefers-color-scheme: light) {
+  :root {
+    --background-color: white;
+    --text-color-black: black;
+  }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #121212; /* Dark gray */
+    --text-color: #A9A9A9; /* Light gray */
+    a { color: #008F00 }
+  }
 }
 
 /* Additional styling for headers */
@@ -26,6 +49,25 @@ ul
 	margin-left: 3.5rem;
 	padding-top: 0;
 /*     border: 1px #000 solid; */
+}
+
+.inline-list {
+  display: inline; /* Make the entire list behave like inline content */
+  padding: 0; /* Remove default padding */
+  margin: 0; /* Remove default margin */
+  list-style: none; /* Remove bullets */
+}
+
+.inline-list li {
+  display: inline; /* Make each list item inline */
+}
+
+.inline-list li::after {
+  content: ", "; /* Add a comma and space after each item */
+}
+
+.inline-list li:last-child::after {
+  content: ""; /* Remove the comma after the last item */
 }
 
 
