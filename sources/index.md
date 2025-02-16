@@ -15,7 +15,7 @@ title: Sources
   {% assign sorted_pages = site.pages | sort: "Year" %}
   {% for page in sorted_pages %}
     {% if page.path contains 'sources/' and page.path != '/sources/index.html' %}
-      <li><a href="{{ page.url }}">{{page.Key}}</a>, {{ page.Year }}, {{ page.Title | truncate: 40 }}</li>
+      <li><a href="{{ page.url }}">{{page.Key}}</a>, {{ page["Publication Year"] }}, {{ page.Title | truncate: 100 }}</li>
     {% endif %}
   {% endfor %}
 </ul>
