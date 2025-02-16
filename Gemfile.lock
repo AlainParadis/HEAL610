@@ -61,6 +61,9 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    jekyll-csv (0.1.1)
+      jekyll (>= 3)
+    jekyll-datapage-generator (1.4.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
     jekyll-watch (2.2.1)
@@ -154,6 +157,8 @@ DEPENDENCIES
   base64 (~> 0.2.0)
   csv (~> 3.2)
   jekyll (~> 4.3.4)
+  jekyll-csv
+  jekyll-datapage-generator
   liquid (~> 4.0.4)
   webrick (~> 1.9.1)
 
