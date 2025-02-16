@@ -5,10 +5,10 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # The base URL of your site when hosted
-url: "https://alainparadis.github.io/HEAL610"
+url: "https://alainparadis.github.io/"
 
 # The subdirectory for your repository (leave empty for root-level sites)
-baseurl: ""
+baseurl: "/HEAL610"
 
 plugins:
   - jekyll-datapage-generator

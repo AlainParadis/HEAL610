@@ -6,3 +6,7 @@ updates:
       interval: daily
     allow:
       - dependency-type: direct
+    ignore:
+      - dependency-name: "jekyll"
+        versions:
+          - "4.4.1" # Ignore this specific version
