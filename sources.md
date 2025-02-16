@@ -20,7 +20,7 @@ title: Sources By Author
     <div class="table-row">
       <!-- Left Column: Title, Author, Year -->
       <div class="table-cell left-column">
-        <p><strong>Key:</strong> <a href="/sources/{{source.Key}}.html">{{ source.Key }}</a></p>
+        <p><strong>Key:</strong> <a href="{{ site.baseurl }}/sources/{{ source.Key }}.html">{{ source.Key }}</a></p>
         <p><strong>Title:</strong> {{ source.Title }}</p>
         <p><strong>Author:</strong> {{ source.Author }}</p>
         <p><strong>Year:</strong> {{ source["Publication Year"] }}</p>
