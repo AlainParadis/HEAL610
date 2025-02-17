@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Sources By Author
+title: All Sources
+---
 ---
 
 <h1>{{ page.title }}</h1>
