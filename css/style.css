@@ -17,6 +17,21 @@ body {
     color: var(--text-color);
 }
 
+/* Base styles for the container */
+.container {
+  max-width: 1200px; /* Standard width for desktops */
+  margin: 0 auto;    /* Centers the container horizontally */
+  padding: 0 15px;   /* Adds some padding on smaller screens */
+}
+
+/* Responsive layout for smaller screens */
+@media screen and (max-width: 768px) {
+  .container {
+    max-width: 100%; /* Allows the container to take full width on smaller devices */
+    padding: 0 10px; /* Adjusts padding for smaller screens */
+  }
+}
+
 /* Light mode */
 @media (prefers-color-scheme: light) {
   :root {
