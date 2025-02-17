@@ -3,8 +3,8 @@ title: HEAL610 Research Paper
 layout: default
 permalink: /
 ---
-
 ---
+
 # {{ page.title }}
 
 ## Lit Review Outline
