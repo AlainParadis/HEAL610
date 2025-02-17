@@ -13,6 +13,17 @@ baseurl: "/HEAL610"
 plugins:
   - jekyll-datapage-generator
 
+scholar:
+  bibliography_template: bib
+  style: apa
+  source: /_bibliography
+  bibliography: references.bib
+  details_dir: bibliography
+  details_layout: bibtex.html
+  sort_by: author
+  order: ascending
+  details_link: "More Info"   # Text for links to detail pages
+
 page_gen:
   - data: 'sources' # Name of your CSV file (without extension)
     template: 'sources' # Layout template for individual pages

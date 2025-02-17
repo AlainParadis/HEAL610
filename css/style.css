@@ -160,3 +160,35 @@ a:hover {
         border-right: none; /* Remove vertical separator for stacked layout */
     }
 }
+
+/* Bibliography styling */
+
+.bibliography-list {
+  margin: 20px;
+  padding: 10px;
+}
+.bibliography-list ol {
+  list-style-type: none; /* Removes numbering */
+  padding-left: 0;       /* Removes default padding */
+}
+.bibliography-entry {
+  margin-bottom: 15px; /* Add space between entries */
+  text-indent: -0.5in; /* Negative indent for the first line */
+  padding-left: 0.5in; /* Indent all other lines */
+}
+
+.citation-author {
+  font-weight: normal;
+}
+
+.citation-title {
+  font-style: italic;
+}
+
+.citation-journal {
+  color: #000;
+}
+
+.citation-year {
+  color: #000;
+}

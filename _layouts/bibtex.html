@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h1>{{ page.entry.title }}</h1>
+<h2>By {{ page.entry.author }}</h2>
+<p><strong>Year:</strong> {{ page.entry.year }}</p>
+<p><strong>Publisher:</strong> {{ page.entry.publisher }}</p>
+<p><strong>Abstract:</strong> {{ page.entry.abstract }}</p>
+
+{% if page.entry.doi %}
+<p><a href="https://doi.org/{{ page.entry.doi }}">DOI Link</a></p>
+{% endif %}

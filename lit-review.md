@@ -5,7 +5,7 @@ layout: default
 ---
 <h2 class="center-text">Leading and Managing Change at Algonquin College</h2>
 
-In keeping with the mandate of Ontario’s publicly supported colleges to respond to ever-changing employment needs in the community (Ontario Colleges of Applied Arts and Technology Act, 2002), the Graphic Design program at Algonquin College has maintained strong relations with local, sector-specific employers. The faculty are practicing graphic designers who maintain expansive professional networks. One key component of the program’s success is the provision of Work-Integrated Learning (WIL) experiences, though the quality and consistency of these activities is deteriorating with time. This paper presents a literature review focused on leading and managing change that aims to build sustained stakeholder engagement and to have WIL be an embedded learning model in the Graphic Design program at Algonquin College.
+In keeping This is a reference to {% cite harvey_defining_1993 %}. with the mandate of Ontario’s publicly supported colleges to respond to ever-changing employment needs in the community (Ontario Colleges of Applied Arts and Technology Act, 2002), the Graphic Design program at Algonquin College has maintained strong relations with local, sector-specific employers. The faculty are practicing graphic designers who maintain expansive professional networks. One key component of the program’s success is the provision of Work-Integrated Learning (WIL) experiences, though the quality and consistency of these activities is deteriorating with time. This paper presents a literature review focused on leading and managing change that aims to build sustained stakeholder engagement and to have WIL be an embedded learning model in the Graphic Design program at Algonquin College.
 
 The review examines scholarly works addressing the challenges of implementing sustained, high-quality WIL in the program, with a focus on leading and managing change. The scope includes peer-reviewed studies analyzing stakeholder engagement barriers, and leadership strategies. This review aims to identify evidence-based practices for embedding WIL as a core pedagogical model while addressing faculty workload constraints and inconsistent industry participation.
 
@@ -69,3 +69,10 @@ Assessing the long-term impact of sustained stakeholder engagement in WIL on pro
 
 The proposed plan leverages collaborative leadership, inclusive stakeholder engagement, and strategic resource allocation. Embedding WIL as a formalized learning model within the program ensures sustained quality. Transparent communication and a structured quality assurance framework are crucial to achieving these goals. This approach fosters a culture of continuous improvement, aligning with institutional goals and stakeholder expectations. By adopting this change management strategy, the Graphic Design program can enhance WIL’s impact on student readiness, industry engagement, and program success.
 
+---
+
+<h2 class="center-text">References</h2>
+
+<div class="bibliography-list">
+    {% bibliography --cited %}
+</div>
