@@ -10,9 +10,6 @@ url: "https://alainparadis.github.io/"
 # The subdirectory for your repository (leave empty for root-level sites)
 baseurl: "/HEAL610"
 
-plugins:
-  - jekyll-datapage-generator
-
 scholar:
   bibliography_template: bib
   style: apa
@@ -24,17 +21,20 @@ scholar:
   order: ascending
   details_link: ""   # Text for links to detail pages
 
-page_gen:
-  - data: 'sources' # Name of your CSV file (without extension)
-    template: 'sources' # Layout template for individual pages
-    name: 'Key' # Column to use for naming each page
-    dir: 'sources' # Directory where pages will be generated
+# plugins:
+#   - jekyll-datapage-generator
 
-defaults:
-  - scope:
-      path: "sources"
-    values:
-      layout: "sources"
+# page_gen:
+#   - data: 'sources' # Name of your CSV file (without extension)
+#     template: 'sources' # Layout template for individual pages
+#     name: 'Key' # Column to use for naming each page
+#     dir: 'sources' # Directory where pages will be generated
+
+# defaults:
+#   - scope:
+#       path: "sources"
+#     values:
+#       layout: "sources"
 
 exclude:
 - .DS_Store
