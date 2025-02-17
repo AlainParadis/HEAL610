@@ -3,5 +3,5 @@ layout: bib
 ---
 
 <div class="bibliography-entry">
-    {{ reference }}
+    <strong>{{ entry.key }}</strong>: {{ reference }} <a href="{{ entry.details }}" class="details-link">{{ site.scholar.details_link | default: "More info" }}</a>
 </div>
