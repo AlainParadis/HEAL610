@@ -56,8 +56,12 @@ h1, h2, h3, h4, h5, h6 {
     font-style: normal;
 }
 
-h3 { margin-left: 1.5rem; }
-h4 { margin-left: 2.5rem; }
+.center-text { text-align: center; }
+.center { margin: 0 auto; }
+.ml-15 { margin-left: 1.5rem; }
+.ml-25 { margin-left: 2.5rem; }
+.ml-35 { margin-left: 3.5rem; }
+.ml-45 { margin-left: 5.5rem; }
 
 ul
 {
