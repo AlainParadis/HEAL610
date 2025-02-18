@@ -74,5 +74,5 @@ The proposed plan leverages collaborative leadership, inclusive stakeholder enga
 <h2 class="center-text">References</h2>
 
 <div class="bibliography-list">
-    {% bibliography %}
+    {% bibliography --cited %}
 </div>
