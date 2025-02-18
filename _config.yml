@@ -16,7 +16,8 @@ scholar:
   source: /_bibliography
   bibliography: references.bib
   details_dir: bibliography
-  details_layout: bibtex.html
+  details_layout: bibdetails.html
+  query: "@*"
   sort_by: author
   order: ascending
   details_link: ""   # Text for links to detail pages
