@@ -1,8 +1,8 @@
 ---
-title: HEAL610 Lit Review
+title: HEAL610 Lit Review OLD
 layout: default
 ---
----
+
 <h2 class="center-text">Leading and Managing Change at Algonquin College</h2>
 
 In keeping with the mandate of Ontario’s publicly supported colleges to respond to ever-changing employment needs in the community {% cite noauthor_ontario_2002 %}, the Graphic Design program at Algonquin College has maintained strong relations with local, sector-specific employers. The faculty are practicing graphic designers who maintain expansive professional networks. One key component of the program’s success is the provision of Work-Integrated Learning (WIL) experiences, though the quality and consistency of these activities is deteriorating with time. This paper presents a literature review focused on leading and managing change that aims to build sustained stakeholder engagement and to have WIL be an embedded learning model in the Graphic Design program at Algonquin College.

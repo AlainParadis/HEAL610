@@ -1,8 +1,8 @@
 ---
-title: HEAL610 Lit Review
+title: HEAL610 Lit Review GUIDE
 layout: default
 ---
----
+
 # Expanded Lit Review
 
 ## Introduction
