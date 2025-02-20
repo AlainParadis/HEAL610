@@ -13,45 +13,37 @@ The analysis has the following structure: current deficiencies in WIL delivery, 
 
 <h2 class="center-text">Background</h2>
 
-<div class="guide">
-Context informing the problem of practice – personal, institutional, and geographical<br>
-Rationale for your literature choices (especially if from popular sources)
-</div>
+
+> Context informing the problem of practice – personal, institutional, and geographical  
+> Rationale for your literature choices (especially if from popular sources)
+
 
 Work-Integrated Learning is a part of experiential learning that blends academic studies with their practical application in a work environment {% cite stirling_practical_2024 %}. WIL activities include but are not limited to co-op education, fieldwork, internships, applied research projects, hackathons, competitions, and incubators {% cite cewil_what_2021 kay_emerging_2019 %}. Almost half of Ontario’s higher education learners participate in some form of WIL to be better prepared for the workplace {% cite stirling_practical_2024 %}. Research shows that participants in WIL experience superior labour market outcomes, including a higher likelihood of employment and significantly higher incomes {% cite wyonch_class_2023 %}. Usher {% cite usher_why_2020 %} claims that WIL is a useful talent scouting opportunity for employers, forging new connections with up-and-coming graduates.
 
+<h3>The Importance of WIL in the Graphic Design Program</h3>
+
 <h2 class="center-text">Theme #1: Collaborative Leadership</h2>
 
-<div class="guide">
-Summary and synthesis of literature that contributes to theme one
-</div>
+> Summary and synthesis of literature that contributes to theme one.
 
 <h2 class="center-text">Theme #2: Sustained Stakeholder Engagement</h2>
 
-<div class="guide">
-Summary and synthesis of literature that contributes to theme two
-</div>
+> Summary and synthesis of literature that contributes to theme two
 
 <h2 class="center-text">Theme #2: Strategic Resource Allocation</h2>
 
-<div class="guide">
-Summary and synthesis of literature that contributes to theme three
-</div>
+> Summary and synthesis of literature that contributes to theme three
 
 ## Discussion
 
-<div class="guide">
-Critique and analysis of themes / trends in the literature<br>
-Identification of where there might be voices / perspectives missing<br>
-Identification of other gaps / anomalies<br>
-Problems, issues, or questions that arise from the literature review<br>
-</div>
+> Critique and analysis of themes / trends in the literature  
+> Identification of where there might be voices / perspectives missing  
+> Identification of other gaps / anomalies
+> Problems, issues, or questions that arise from the literature review
 
 ## Conclusion
 
-<div class="guide">
-Summary of why / how the evidence you have reviewed supports your idea for a change management proposal
-</div>
+> Summary of why / how the evidence you have reviewed supports your idea for a change management proposal
 
 ---
 
