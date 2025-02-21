@@ -1,7 +1,7 @@
 ---
-Title: Entry
+layout: bib
 ---
 
 <div class="bibliography-entry">
-<strong>{{ entry.key }}</strong><span class="citation-author">{% if entry.author %}, {{ entry.author }}{% endif %}</span><span class="citation-title">{% if entry.title %}, {{ entry.title }}{% endif %}</span>{% if entry.year %}<span class="citation-year">, ({{ entry.year }})</span>{% endif %}{% if entry.doi %}<span class="doi">, <a href="https://doi.org/{{ entry.doi }}" target="_blank">{{ entry.doi }}</a></span>{% endif %}
+    <!-- <strong>{{ entry.key }}</strong>:  -->{{ reference }} <a href="{{ site.url }}{{ site.baseurl }}/bibliography/{{ entry.key }}.html" class="details-link">Details</a>
 </div>

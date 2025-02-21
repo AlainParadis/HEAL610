@@ -15,8 +15,6 @@ The analysis has the following structure: current deficiencies in WIL delivery, 
 
 Work-Integrated Learning is a part of experiential learning that blends academic studies with their practical application in a work environment {% cite stirling_practical_2024 %}. WIL activities include but are not limited to co-op education, fieldwork, internships, applied research projects, hackathons, competitions, and incubators {% cite cewil_what_2021 kay_emerging_2019 %}. Almost half of Ontario’s higher education learners participate in some form of WIL to be better prepared for the workplace {% cite stirling_practical_2024 %}. Research shows that participants in WIL experience superior labour market outcomes, including a higher likelihood of employment and significantly higher incomes {% cite wyonch_class_2023 %}. Usher {% cite usher_why_2020 %} claims that WIL is a useful talent scouting opportunity for employers, forging new connections with up-and-coming graduates.
 
-<h3>The Importance of WIL</h3>
-
 <h3>The Importance of WIL in the Graphic Design Program</h3>
 
 <h3>Current State of WIL in Graphic Design</h3>
