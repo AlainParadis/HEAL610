@@ -5,9 +5,15 @@ title: Reference Details
 
 <h1>{{ page.entry.title }}</h1>
 <h2>By {{ page.entry.author }}</h2>
+<p><strong>Key:</strong> {{ page.entry.key }}</p>
 <p><strong>Year:</strong> {{ page.entry.year }}</p>
+
+{% if page.entry.publisher %}
 <p><strong>Publisher:</strong> {{ page.entry.publisher }}</p>
+{% endif %}
+{% if page.entry.abstract %}
 <p><strong>Abstract:</strong> {{ page.entry.abstract }}</p>
+{% endif %}
 
 {% if page.entry.doi %}
 <p><a href="https://doi.org/{{ page.entry.doi }}">DOI Link</a></p>
