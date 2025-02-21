@@ -6,6 +6,13 @@ permalink: /
 
 # {{ page.title }}
 
+## Notes
+
+-   The purpose of your literature review is really threefold:
+    1.  Provide a general overview of work previously done in this area
+    2.  Make an argument for the importance of your proposed change process
+    3.  Substantiate your change plan with evidence.
+
 ## Lit Review Outline
 
 ### Intro
