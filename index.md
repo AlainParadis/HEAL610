@@ -6,6 +6,11 @@ permalink: /
 
 # {{ page.title }}
 
+## Questions
+
+-   Is it poor practice to over-cite <a href="./bibliography/stirling_practical_2024.html">one document</a>? I have one that is 200 pages that contains a lot of relevant information on WIL.
+-   I don't have a section literally addressing *Change Management*, but it's woven through my content. Is that ok?
+
 ## Notes
 
 -   The purpose of your literature review is really threefold:
@@ -48,26 +53,6 @@ permalink: /
 -   [Cheng etal.](./sources/GIWCZV87.html) address who's responsible for enhancing employability.
 -   [Jackson & Rowe](./sources/UVSCWYCT.html) describe the value of WIL.
 
-#### The Importance of WIL in My Program
-
--   Graphic design is applied, so WIL is appropriate
--   Students building a network with industry is valuable
--   Employment pipeline for industry partners
--   Addresses institutional goals
--   Benefits faculty with strong network and relevant curriculum
--   Mentorship is crucial
-
-#### The Current State of WIL in My Program
-
--   Inconsistent intervals
--   Vary unpredictably in scope
--   Lack consistency
--   Do not conform with institutional standards
--   Lack of formal documentation
--   Occurs too late, is too sudden at end of program
--   Lack variety of typologies
-    -   [Mabungela lists typologies](./sources/6WIPGS5Y.html), [Patrick et al. typologies, remote WIL](./sources/C4HYE3S8.html)
-
 #### Defining quality WIL (The end state)
 
 -   [Doolan](./sources/XE5Z43JC.html) advocates for WIL (EWIL) at regular intervals
@@ -106,19 +91,6 @@ permalink: /
 -   Faculty engagement despite increased workload
     -   [Mabungelaa](.sources/6WIPGS5Y.html): WIL coordinators are responsible for supervising WIL.
 -   Embedding WIL allows for continuous improvement
-
-#### Leading Change
-
--   Leaders navigate competing tensions, maintain academic quality, and manage both fiscal and human resources in institutions that often have decentralized leadership. [Drew](./sources/G7FREG65.html)
--   [Conner](./sources/2JVLKKGI.html): *Committing to Change* addresses stages of commitment.
--   Why transformation fails [Kotter](./sources/BQ6N2JZM.html)
--   [Lauer's book](./sources/YT6833MG.html) on change management
--   Distributed leadership [Jones & Harvey](http://localhost:4003/HEAL610/sources/NBVPIXZN.html)
--   Leading change in HE [Herman & Loewenstein](./sources/T8F6NK4H.html)
--   [Failure of leadership](./sources/TSKPHE84.html)
--   [Failure of organizational change](./sources/S4XP48EV.html)
--   Leadership expertise requires experience and refinement [Patton](./sources/CMQJP5Y6.html)
--   Evidence-based change management [Rousseau & ten Have](./sources/UTY22PF8.html)
 
 #### Assessing Readiness for Change
 
