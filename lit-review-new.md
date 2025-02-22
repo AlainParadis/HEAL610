@@ -24,6 +24,12 @@ Work-Integrated Learning is an educational approach which is a part of experient
 
 ### The Importance of WIL in Graphic Design
 
+-   [Cheng etal.](./bibliography/cheng_employability_2022.html) address who's responsible for enhancing employability.
+-   [Jackson & Rowe](./bibliography/jackson_impact_2023.html) describe the value of WIL.
+-   WIL has become increasingly popular in HE
+    -   [Chatoor, Balata](./bibliography/chatoor_student_2023.html), [Smigiel](./bibliography/smigiel_managing_2015.html), [Tunny et al.](.bibliography/tunny_future_2022.html)
+
+
 In the Graphic Design program, WIL is particularly relevant due to the collaborative nature of the field, where mentorship and professional engagement play pivotal roles in shaping students’ skills and career readiness {% cite cutean_impact_2023 mcrae_work-integrated_2018 %}.
 
 Students who participate in WIL have a higher GPA than those who do not. They are more satisfied with their programs, and are less worried about their studies {% cite drysdale_motivation_2018 macdonald_realizing_2014 raelin_gendered_2014 parker_differential_2016 purdie_are_2013 raelin_gendered_2014 ramirez_academic_2015 %}
@@ -45,8 +51,6 @@ Almost half of Ontario’s higher education learners participate in some form of
 [Drysdale](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Drysdale%2C+M.T.B.&btnG=&inst=8545375229648679180) has a lot of evidence on how WIL benefits students psychologically.
 
 Some educators view the need for HEI to cater to the workplace as being problematic. They claim their imperative is to serve a higher educational purpose. {% cite billett_realising_2009 %}
-
-
 
 ### The Current State
 
