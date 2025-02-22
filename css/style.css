@@ -1,246 +1,184 @@
-/* Use the Apple system font */
-:root {
-  --background-color: white;
-  --text-color-black: black;
+:root
+{
+	--background-color: white;
+	--text-color-black: black;
+	--apple-blue: #007aff;
 }
 
-body {
-    font-family: "IBM Plex Mono", serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 16px;
-    line-height: 1.5;
-    color: #333;
-    margin: 0;
-    padding: 0;
-    background-color: var(--background-color);
-    color: var(--text-color);
+body
+{
+	font-family: "IBM Plex Mono", serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+	background-color: var(--background-color);
+	color: var(--text-color);
+}
+
+a { color: var(--apple-blue); }
+a:hover { text-decoration: none; }
+
+nav a
+{
+	font-family: "IBM Plex Mono", serif;
+	font-weight: 700;
+	font-style: normal;
 }
 
 /* Base styles for the container */
-.container {
-  max-width: 1200px; /* Standard width for desktops */
-  margin: 0 auto;    /* Centers the container horizontally */
-  padding: 0 15px;   /* Adds some padding on smaller screens */
+.container
+{
+	max-width: 1200px;
+	/* Standard width for desktops */
+	margin: 0 auto;
+	/* Centers the container horizontally */
+	padding: 0 15px;
+	/* Adds some padding on smaller screens */
 }
 
 /* Responsive layout for smaller screens */
-@media screen and (max-width: 768px) {
-  .container {
-    max-width: 100%; /* Allows the container to take full width on smaller devices */
-    padding: 0 10px; /* Adjusts padding for smaller screens */
-  }
+
+@media screen and (max-width: 768px)
+{
+	.container
+	{
+		max-width: 100%;
+		/* Allows the container to take full width on smaller devices */
+		padding: 0 10px;
+		/* Adjusts padding for smaller screens */
+	}
 }
 
 /* Light mode */
-@media (prefers-color-scheme: light) {
-  :root {
-    --background-color: white;
-    --text-color-black: black;
-  }
+
+@media (prefers-color-scheme: light)
+{
+	:root
+	{
+		--background-color: white;
+		--text-color-black: black;
+	}
 }
 
 /* Dark mode */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background-color: #121212; /* Dark gray */
-    --text-color: #A9A9A9; /* Light gray */
-    a { color: #007aff; }
-blockquote {
-    background: #424242;
-    border: solid 1px #C0C0C0;
-    max-width: 90%;
-    color: #929292;
-    font-size: .85rem;
-    margin: 2rem 0;
-    padding: 0 0.5rem;
-    line-height: 1.5rem
-}
-  }
+
+@media (prefers-color-scheme: dark)
+{
+	:root
+	{
+		--background-color: #121212;
+		--text-color: #A9A9A9;
+	}
+	
+	blockquote
+	{
+		background: #212121;
+		border: solid 1px #919191;
+		max-width: 90%;
+		color: #919191;
+		font-size: .85rem;
+		margin: 2rem 0;
+		padding: 0 0.5rem;
+		line-height: 1.5rem;
+	}
 }
 
 /* Additional styling for headers */
-h1, h2, h3, h4, h5, h6 {
-    font-family: "IBM Plex Mono", serif;
-    font-weight: 700;
-    font-style: normal;
+h1, h2, h3, h4, h5, h6
+{
+	font-weight: 700;
+	font-style: normal;
 }
 
 .center-text { text-align: center; }
+.right-text { text-align: right; }
 .center { margin: 0 auto; }
 .ml-15 { margin-left: 1.5rem; }
 .ml-25 { margin-left: 2.5rem; }
 .ml-35 { margin-left: 3.5rem; }
 .ml-45 { margin-left: 5.5rem; }
 
-hr {
-    border: 0;
-    height: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid #007aff;
+hr
+{
+	border: 0;
+	height: 0;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+	border-bottom: 1px solid #007aff;
 }
 
-blockquote {
-    background: #EBEBEB;
-    border: solid 1px #C0C0C0;
-    max-width: 90%;
-    color: #797979;
-    font-size: .85rem;
-    margin: 2rem 0;
-    padding: 0 0.5rem;
-    line-height: 1.5rem
-}
-
-.guide {
-    background: #EBEBEB;
-    border: solid 1px #C0C0C0;
-    padding: 0.5rem;
-    max-width: 90%;
-    color: #797979;
-    font-size: .85rem;
-}
+.blue { color: var(--apple-blue); }
+.bold { font-weight: bold; }
 
 ul
 {
-/*     margin-left: 3.5rem; */
-    padding-top: 0;
-/*     border: 1px #000 solid; */
-}
-
-ul.sources { margin-block-start: 0; margin-block-end: 0; }
-
-.inline-list {
-  display: inline; /* Make the entire list behave like inline content */
-  padding: 0; /* Remove default padding */
-  margin: 0; /* Remove default margin */
-  list-style: none; /* Remove bullets */
-}
-
-.inline-list li {
-  display: inline; /* Make each list item inline */
-}
-
-.inline-list li::after {
-  content: ", "; /* Add a comma and space after each item */
-}
-
-.inline-list li:last-child::after {
-  content: ""; /* Remove the comma after the last item */
-}
-
-
-nav a {
-    font-family: "IBM Plex Mono", serif;
-    font-weight: 700;
-    font-style: normal;
-}
-
-/* Styling for links */
-a {
-    color: #007aff; /* Apple blue */
-    text-decoration: underline;
-}
-
-/* Reduce space between paragraphs in the left column */
-.table-cell.left-column p {
-    margin: 0.2em 0; /* Adjust top and bottom margin to reduce spacing */
-}
-
-a:hover {
-    text-decoration: none;
+	/*     margin-left: 3.5rem; */
+	padding-top: 0;
+	/*     border: 1px #000 solid; */
 }
 
 /* Search bar styling */
-#search-container {
-  margin-bottom: 1em;
-}
+#search-container { margin-bottom: 1em; }
 
-#search-input {
-  width: 100%;
-  padding: 0.5em;
-  font-size: 1rem;
-}
-
-/* Flexbox table styling */
-.table {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-}
-
-.table-row {
-    display: flex;
-    flex-direction: row;
-    border: 1px solid #ddd; /* Add borders around rows */
-    margin-bottom: 1em; /* Add spacing between rows */
-}
-
-.table-cell {
-    padding: 0.5em; /* Add padding inside cells */
-}
-
-/* Left Column Styling */
-.left-column {
-    flex: 2; /* Take up more space for detailed information */
-    border-right: 1px solid #ddd; /* Add a vertical separator */
-}
-
-/* Right Column Styling */
-.right-column {
-    flex: 1; /* Take up less space for notes/keywords */
+#search-input
+{
+	width: 100%;
+	padding: 0.5em;
+	font-size: 1rem;
 }
 
 /* Responsive adjustments for smaller screens */
-@media (max-width: 768px) {
-    .table-row {
-        flex-direction: column; /* Stack columns vertically on small screens */
-        border-right: none; /* Remove vertical separator for stacked layout */
-    }
+
+@media (max-width: 768px)
+{
+	.table-row
+	{
+		flex-direction: column;
+		/* Stack columns vertically on small screens */
+		border-right: none;
+		/* Remove vertical separator for stacked layout */
+	}
 }
 
 /* Bibliography styling */
-
-.bibliography-list {
-  margin: 20px;
-  padding: 10px;
-}
-.bibliography-list ol {
-  list-style-type: none; /* Removes numbering */
-  padding-left: 0;       /* Removes default padding */
-}
-.bibliography-entry {
-  margin-bottom: 15px; /* Add space between entries */
-  text-indent: -0.5in; /* Negative indent for the first line */
-  padding-left: 0.5in; /* Indent all other lines */
+.bibliography-list
+{
+	margin: 20px;
+	padding: 10px;
 }
 
-.citation-author {
-  font-weight: normal;
+.bibliography-list ol
+{
+	list-style-type: none;
+	/* Removes numbering */
+	padding-left: 0;
+	/* Removes default padding */
 }
 
-.citation-title {
-  font-style: italic;
+.bibliography-entry
+{
+	margin-bottom: 15px;
+	/* Add space between entries */
+	text-indent: -0.5in;
+	/* Negative indent for the first line */
+	padding-left: 0.5in;
+	/* Indent all other lines */
 }
 
-.citation-journal {
-  color: #000;
-}
-
-.citation-year {
-  color: #000;
-}
+.citation-author { font-weight: normal; }
+.citation-title { font-style: italic; }
+.citation-journal { color: #000; }
+.citation-year { color: #000; }
 
 /* References Details page next and previous navigation */
-.PageNavigation {
-  display: flex;
-  justify-content: space-between;
-  margin: 20px 0;
+.PageNavigation
+{
+	display: flex;
+	justify-content: space-between;
+	margin: 20px 0;
 }
 
-.PageNavigation .prev {
-  text-align: left;
-}
-
-.PageNavigation .next {
-  text-align: right;
-}
+.PageNavigation .prev { text-align: left; }
+.PageNavigation .next { text-align: right; }
