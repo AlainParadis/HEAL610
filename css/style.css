@@ -229,3 +229,18 @@ a:hover {
 .citation-year {
   color: #000;
 }
+
+/* References Details page next and previous navigation */
+.PageNavigation {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+.PageNavigation .prev {
+  text-align: left;
+}
+
+.PageNavigation .next {
+  text-align: right;
+}
