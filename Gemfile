@@ -3,7 +3,11 @@ source "https://rubygems.org"
 # GitHub Pages gem to manage dependencies
 # gem "github-pages", "~> 227", group: :jekyll_plugins
 
-gem 'jekyll-scholar', group: :jekyll_plugins
+# gem 'jekyll-scholar', group: :jekyll_plugins
+
+group :jekyll_plugins do
+  gem "jekyll-scholar"
+end
 
 gem "jekyll", "~> 4.3.4"
 gem "liquid", "~> 4.0.4"
