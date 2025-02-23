@@ -5,13 +5,11 @@ layout: default
 
 <h2 class="center-text">Leading and Managing Change at Algonquin College</h2>
 
-In keeping with the mandate of Ontario’s publicly supported colleges to provide a labour force that's workplace ready {% cite canlii_ontario_2017 %}, the Graphic Design program at Algonquin College has maintained strong relationships with local, sector-specific employers. A key component of the program’s ties to industry is the provision of Work-Integrated Learning (WIL), though its quality and consistency is deteriorating with time. **This paper presents a literature review focused on leading and managing an organizational change process to embed Work-Integrated Learning as a learning model in the Graphic Design program at Algonquin College. That change process will be grounded in collaborative leadership, sustained stakeholder engagement, and strategic resource allocation.**
+In keeping with the mandate of Ontario’s publicly supported colleges to provide a labour force that's workplace ready {% cite canlii_ontario_2017 %}, the Graphic Design program at Algonquin College has maintained strong relationships with local, sector-specific employers. A key component of the program’s ties to industry is the provision of Work-Integrated Learning (WIL), though its quality and consistency is deteriorating with time. <span class="blue">This paper presents a literature review focused on leading and managing an organizational change process to embed Work-Integrated Learning as a learning model in the Graphic Design program at Algonquin College. Grounded in Kotter’s change management theory and Deming’s continuous improvement framework, this review contends that WIL’s long-term viability depends on sustained stakeholder engagement, collaborative leadership, and strategic resource allocation.</span>
 
 The review examines scholarly works published internationally addressing the challenges of implementing sustained, high-quality WIL in higher education, with a focus on leading and managing change. The scope includes peer-reviewed studies published from 1992 to 2024 analyzing stakeholder engagement barriers, and leadership strategies. This review aims to identify evidence-based practices for embedding WIL as a core pedagogical model while addressing faculty workload constraints and inconsistent industry participation.
 
 The analysis has the following structure: the background and context of the problem of practice, current deficiencies in WIL delivery leadership approaches, and mechanisms for sustaining engagement (...).
-
-By evaluating sources through the lens of Kotter’s change management theory, and Deming’s continuous improvement framework, this review contends that WIL’s long-term viability depends on sustained stakeholder engagement, collaborative leadership, and strategic resource allocation.
 
 <span class="blue">[claim statement]</span> Embedding Work-Integrated Learning in Algonquin College's Graphic Design program is essential for enhancing student employability, building a strong industry talent pipeline, and maintaining faculty currency. Achieving this requires a collaborative leadership approach, sustained stakeholder engagement, and strategic resource allocation to align WIL initiatives with institutional objectives, address existing inconsistencies, and ensure the program’s long-term success.
 
@@ -22,23 +20,23 @@ By evaluating sources through the lens of Kotter’s change management theory, a
 
 ### What is WIL?
 
-Work-Integrated Learning is an educational approach which is a part of experiential learning that integrates academic learning with practical experience in a professional setting. It is designed to bridge the gap between theory and practice, enabling students to develop industry-relevant skills. WIL can take various forms, including but not limited to co-op programs, internships, apprenticeships, clinical placements, research partnerships, and community service learning. These experiences may be paid or unpaid, required or optional, and can occur at different points within a program of study. The defining characteristic of WIL is its structured integration within the curriculum, ensuring that workplace experiences contribute meaningfully to students’ academic and professional development {% cite cewil_what_2021 %}, {% cite kay_emerging_2019 %}, {% cite mabungela_accelerating_2024 %}, {% cite stirling_practical_2024 %}, {% cite wyonch_class_2023 %}.
+Work-Integrated Learning is an educational approach which is a part of experiential learning that integrates academic learning with practical experience in a professional setting. It is designed to bridge the gap between theory and practice, enabling students to develop industry-relevant skills. WIL can take various forms, including but not limited to co-op programs, internships, apprenticeships, clinical placements, research partnerships, and project-based work. These experiences may be paid or unpaid, required or optional, and can occur at different points within a program of study. They can occur on-campus or off. The defining feature is that it contributes to students’ academic *and* professional development {% cite cewil_what_2021 %}, {% cite kay_emerging_2019 %}, {% cite mabungela_accelerating_2024 %}, {% cite sachs_2017_2017 %}, {% cite stirling_practical_2024 %}, {% cite wyonch_class_2023 %}.
 
-### The Current State
+### Why is the Change Needed?
 
--   Does not conform with institutional standards
--   Lack of formal documentation
--   Lack variety of typologies
-    -   [Mabungela lists typologies](./bibliography/mabungela_accelerating_2024.html), [Patrick et al. typologies, remote WIL](./bibliography/patrick_wil_2008.html)
-
+<!--
+-   What is the current state?
+-   Why is WIL important to stakeholders?
+-   Why is embedding it important?
+-->
 
 The Graphic Design program is six semesters long, running in the fall and winter semesters. Despite its importance, WIL in the Graphic Design program is currently limited to a single fieldwork component in the final semester {% cite  algonquin_college_of_applied_arts_and_technology_graphic_2024 %}. During five of the six semesters students participate in no WIL activities.
 
-This insufficient integration fails to meet the demands of both students and industry partners. One WIL experience at the end of the Program of Study delivers too little industry contact, too late in students’ education. Learners benefit from earlier, consistent, high-quality WIL activities with models that are varied and innovative {% cite  mabungela_accelerating_2024 orrell_good_2011 %}. A properly prepared aspiring graphic designer has WIL experiences of varied models in increasing intensity at all stages of their academic journey. Students are exposed to theory then practice in a scaffolded structure progressing throughout the academic curriculum. This model builds momentum, making a smoother transition towards the workplace and future career success {% cite doolan_benefits_2019 kay_emerging_2019 stirling_practical_2024 wyonch_class_2023 %}  rather than an abrupt intensive experience at the end of their studies.
+This insufficient integration fails to meet the demands of both students and industry partners. Algonquin College recognizes a wide range of WIL typologies, including field projects, applied research projects, learning enterprises, and more {% cite algonquin_college_of_applied_arts_and_technology_wil_2019 %}. One WIL experience at the end of the Program of Study delivers too little industry contact, too late in students’ education. Learners benefit from earlier, consistent, high-quality WIL activities with models that are varied and innovative. A properly prepared aspiring graphic designer has WIL experiences of varied models in increasing intensity at all stages of their academic journey {% cite  mabungela_accelerating_2024 %} {% cite orrell_good_2011 %} {% cite dean_institutional_2020 %} {% cite doolan_benefits_2019 %}. Students are exposed to theory then practice in a scaffolded structure progressing throughout the academic curriculum. This model builds momentum, making a smoother transition towards the workplace and future career success {% cite doolan_benefits_2019 %}, {% cite kay_emerging_2019 %}, {% cite stirling_practical_2024 %}, {% cite wyonch_class_2023 %} rather than an abrupt intensive experience at the end of their studies.
 
-That said, strong disciplinary expertise alone is not adequate preparation for the workplace {% cite crebert_developing_2004 doolan_benefits_2019 %}. Frequent WIL fosters the timely development of professional skills such as teamwork, communication, and problem-solving {% cite cutean_impact_2023 %}. Early WIL experiences support the student’s choice of vocation early-on, as well as student satisfaction and retention {% cite freudenberg_its_2008 %}. For such frequent and varied WIL activities to happen, all stakeholders must be prepared, enthusiastic, and adequately resourced (Dzingirai, 2020).
+That said, strong disciplinary expertise alone is not adequate preparation for the workplace. Frequent WIL fosters the timely development of professional skills such as teamwork, communication, and problem-solving {% cite cutean_impact_2023 %}, {% cite crebert_developing_2004 %}, {% cite doolan_benefits_2019 %}. Early WIL experiences support the student’s choice of vocation early-on, as well as student satisfaction and retention {% cite freudenberg_its_2008 %}, {% cite sachs_2017_2017 %}.
 
-### The Importance of WIL to All Stakeholders
+### The Importance of WIL to Each Stakeholder
 
 -   Benefits of WIL to each stakeholder: {% cite sattler_work-integrated_2011 %} p.64
 
