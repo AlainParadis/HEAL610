@@ -20,3 +20,12 @@ permalink: /
     1.  Provide a general overview of work previously done in this area
     2.  Make an argument for the importance of your proposed change process
     3.  Substantiate your change plan with evidence.
+    
+## Standout Authors
+
+-   [Denise Jackson](https://scholar.google.ca/citations?hl=en&user=24GmN7IAAAAJ), WIL
+-   [Adrianna Kezar](https://scholar.google.ca/citations?hl=en&user=LF9HFAQAAAAJ), HE Leadership
+-   [Franziska Trede](https://scholar.google.ca/citations?hl=en&user=tTTLS3MAAAAJ), Professional Identity
+-   [John Kotter](https://www.kotterinc.com/methodology/8-steps/), Leading Change
+-   [W.E. Deming](https://deming.org/explore/pdsa/), PDSA Cycle
+-   [Eric Barends](https://scholar.google.ca/citations?hl=en&user=fL4Dgk0AAAAJ), Evidence-Based Management
