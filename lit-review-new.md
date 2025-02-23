@@ -36,7 +36,7 @@ In recent years, WIL's acceptance as a valued learning model has grown, as has i
 
 This insufficient integration fails to meet the demands of both students and industry partners. Algonquin College recognizes a wide range of WIL typologies, including field projects, applied research projects, learning enterprises, and more {% cite algonquin_college_of_applied_arts_and_technology_wil_2019 %}, yet there is only one WIL experience at the end of the Program of Study. This delivers too little industry contact, too late in students’ education.
 
-#### Benefits to Students
+#### Importance to Students
 
 Learners benefit from earlier, consistent, high-quality WIL activities with models that are varied and innovative. A properly prepared aspiring graphic designer has WIL experiences of increasing intensity at all stages of their academic journey. They are exposed to theory then practice in a scaffolded structure progressing throughout the academic curriculum. {% cite  mabungela_accelerating_2024 %} {% cite orrell_good_2011 %} {% cite dean_institutional_2020 %} {% cite doolan_benefits_2019 %}. This model builds momentum, making a smoother transition towards the workplace and future career success {% cite doolan_benefits_2019 %}, {% cite kay_emerging_2019 %}, {% cite stirling_practical_2024 %}, {% cite wyonch_class_2023 %} rather than an abrupt intensive experience at the end of their studies.
 
@@ -48,24 +48,19 @@ In the academic context, students who participate in WIL have a higher GPA than 
 
 In the professional context, almost half of Ontario’s higher education learners participate in some form of WIL to be better prepared for the workplace {% cite stirling_practical_2024 %}. Research shows that participants in WIL experience superior labour market outcomes, including a higher likelihood of employment and significantly higher incomes {% cite wyonch_class_2023 %}.
 
-#### Benefits to Employers
+#### Importance to Employers
 
 Employers play a crucial role in WIL initiatives, benefiting from several advantages. WIL serves as a pipeline for recruiting skilled graduates who are familiar with industry practices and expectations. It is a useful talent scouting opportunity for employers, forging new connections with up-and-coming graduates {% cite usher_why_2020 %}. Employers report reduced recruitment costs and risks when hiring graduates who have participated in WIL. Students bring fresh perspectives, innovative ideas and cutting-edge knowledge to the workplace, contributing to organizational growth and problem-solving. Collaborating with educational institutions fosters long-term relationships that support workforce development {% cite bilgin_impact_2024 %}, {% cite chatoor_working_2023 %},
 {% cite doolan_benefits_2019 %}, {% cite freudenberg_its_2008 %}, {% cite mcrae_work-integrated_2018 %}, {% cite stirling_practical_2024 %}
 
-#### Benefits to Institutions
+#### Importance to the College
 
--   {% cite sachs_2017_2017 %}, {% cite stirling_practical_2024 %}: 
-    -	Increased community engagement
-    -	Increased communication with government, community and industry
-    -	Opportunities for curriculum enhancement with applied content that is inclusive and accessible for all students
-    -	Enhanced student education, satisfaction and engagement
-    -	Enhanced student recruitment
--   Faculty currency and network building {% cite provosts_task_force_on_experiential_education_experiential_2017 %}
-
--    WIL can be a way of attracting prospective students and be a vehicle for facilitating strong partnerships with industry. Such partnerships can lead to better engagement and retention rates {% cite ferns_driving_2016 %} {% cite patrick_wil_2008 %}.
-
-Some educators view the need for HEI to cater to the workplace as being problematic. They claim their imperative is to serve a higher educational purpose. {% cite billett_realising_2009 %}
+-   Incorporating meaningful experiential learning opportunities keeps students engaged academically, reducing dropout rates {% cite mabungela_accelerating_2024 %}.
+-   A robust WIL program positions Algonquin College as a leader in experiential education, attracting prospective students and industry partners alike {% cite sachs_2017_2017 %} {% cite stirling_practical_2024 %}.
+-   Embedding WIL supports the college’s commitment to preparing graduates for the workforce while fulfilling its mandate under the Ontario Colleges of Applied Arts and Technology Act {% cite canlii_ontario_2017 %}.
+-   Faculty currency and network building {% cite ferns_driving_2016 %}, {% cite patrick_wil_2008 %}, {% cite provosts_task_force_on_experiential_education_experiential_2017 %}, {% cite vailasseri_embedding_2021 %}
+-    WIL attracts prospective students. It is a vehicle for facilitating strong partnerships with industry which lead to better engagement and retention rates {% cite ferns_driving_2016 %} {% cite patrick_wil_2008 %}.
+-   Faculty members also benefit from embedding WIL in the curriculum. Engaging with industry partners ensures curriculum remains aligned with current professional practices and trends. Partnering with employers also provides faculty with insights into workplace demands, enabling them to design more consequential learning experiences in the classroom. Faculty gain opportunities to expand their networks and stay connected to industry developments, enhancing their teaching effectiveness {% cite stirling_practical_2024 %}.
 
 ### Why Embedding WIL is a Good Thing
 
@@ -133,7 +128,7 @@ Employers play a central role in assessing student success while learning in the
 
 Then fostering their readiness to undertake the change initiative {% cite chappell_exploring_2016 conner_committing_1992 drew_issues_2010 gelaidan_employee_2018 janich_facilitator_2016 kotter_leading_2007 radwan_lead_2020 %}. With this shared understanding, each party recognizes the benefits enjoyed by participating. This builds intrinsic motivation for continued engagement. Absent these robust relationships, distrust can build, resulting in abandonment by some. Creating a strong coalition of stakeholders with clear understanding of the merits of WIL participation ensures ongoing stakeholder engagement. Of the stakeholders, faculty hold a special position as the initiators of WIL activities.
 
-### Addressing Challenges & Obstacles
+### Challenges
 
 -   {% cite lester_work-integrated_2016  %}
 -   [Failure of leadership](./bibliography/kunert_failure_2018-1.html)
