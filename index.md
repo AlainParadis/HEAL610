@@ -10,7 +10,7 @@ permalink: /
 
 ## Questions
 
--   Should our claim statement act like a thesis statement for our lit review? I have one of each. Should they be combined?
+-   Should our claim statement act like a thesis statement for our lit review? Should they be combined?
 -   Is it poor practice to over-cite <a href="./bibliography/stirling_practical_2024.html">one document</a>? I have one that is 200 pages that contains a lot of relevant information on WIL.
 -   I don't have a section literally addressing *Change Management*, but it's woven through my content. Is that ok?
 
@@ -23,9 +23,10 @@ permalink: /
     
 ## Standout Authors
 
+-   [Eric Barends](https://scholar.google.ca/citations?hl=en&user=fL4Dgk0AAAAJ), Evidence-Based Management
+-   [W.E. Deming](https://deming.org/explore/pdsa/), PDSA Cycle
 -   [Denise Jackson](https://scholar.google.ca/citations?hl=en&user=24GmN7IAAAAJ), WIL
 -   [Adrianna Kezar](https://scholar.google.ca/citations?hl=en&user=LF9HFAQAAAAJ), HE Leadership
--   [Franziska Trede](https://scholar.google.ca/citations?hl=en&user=tTTLS3MAAAAJ), Professional Identity
 -   [John Kotter](https://www.kotterinc.com/methodology/8-steps/), Leading Change
--   [W.E. Deming](https://deming.org/explore/pdsa/), PDSA Cycle
--   [Eric Barends](https://scholar.google.ca/citations?hl=en&user=fL4Dgk0AAAAJ), Evidence-Based Management
+-   [Peggy Sattler](https://scholar.google.ca/citations?user=NgzgYooAAAAJ&hl=en&inst=8545375229648679180&oi=sra), WIL in Ontario
+-   [Franziska Trede](https://scholar.google.ca/citations?hl=en&user=tTTLS3MAAAAJ), Professional Identity
