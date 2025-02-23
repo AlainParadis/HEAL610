@@ -84,14 +84,14 @@ nav a
 		padding: 0 0.5rem;
 		line-height: 1.5rem;
 	}
+h1, h2, h3, h4, h5, h6
+{
+	color: #D6D6D6;
+}
+
 }
 
 /* Additional styling for headers */
-h1, h2, h3, h4, h5, h6
-{
-	font-weight: 700;
-	font-style: normal;
-}
 
 .center-text { text-align: center; }
 .right-text { text-align: right; }
