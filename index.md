@@ -10,7 +10,7 @@ permalink: /
 
 ## Questions
 
--   Should our claim statement act like a thesis statement for our lit review? Should they be combined?
+-   Should our *Claim Statement* act like a thesis statement for our lit review? Should they be combined?
 -   Is it poor practice to over-cite <a href="./bibliography/stirling_practical_2024.html">one document</a>? I have one that is 200 pages that contains a lot of relevant information on WIL.
 -   I don't have a section literally addressing *Change Management*, but it's woven through my content. Is that ok?
 
@@ -32,8 +32,11 @@ permalink: /
 -   [Peggy Sattler](https://scholar.google.ca/citations?user=NgzgYooAAAAJ&hl=en&inst=8545375229648679180&oi=sra), WIL in Ontario
 -   [Franziska Trede](https://scholar.google.ca/citations?hl=en&user=tTTLS3MAAAAJ), Professional Identity
 
-## Notes
+<!-- 
+#### Dumping Ground
 
 -   Benefits of WIL to each stakeholder: {% cite sattler_work-integrated_2011 %} p.64
 -   It has become the responsibility of higher education institutions to make students employment-ready {% cite cheng_employability_2022 %}.
+-   Some educators view the need for HEI to cater to the workplace as being problematic. They claim their imperative is to serve a higher educational purpose. {% cite billett_realising_2009 %}
 -   {% cite freudenberg_its_2008 %} addresses employment readiness.
+ -->
