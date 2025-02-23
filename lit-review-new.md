@@ -5,11 +5,13 @@ layout: default
 
 <h2 class="center-text">Leading and Managing Change at Algonquin College</h2>
 
-In keeping with the mandate of Ontario’s publicly supported colleges to respond to ever-changing employment needs in the region {% cite canlii_ontario_2017 %}, the Graphic Design program at Algonquin College has maintained strong relations with local, sector-specific employers. A key component of the program’s ties to industry is the provision of Work-Integrated Learning (WIL), ~~though the quality and consistency of these activities is deteriorating with time~~. **This paper presents a literature review focused on leading and managing an organizational change process to embed Work-Integrated Learning as a learning model in the Graphic Design program at Algonquin College. That change process will be grounded in collaborative leadership, sustained stakeholder engagement, and strategic resource allocation.**
+In keeping with the mandate of Ontario’s publicly supported colleges to provide a labour force that's workplace ready {% cite canlii_ontario_2017 %}, the Graphic Design program at Algonquin College has maintained strong relationships with local, sector-specific employers. A key component of the program’s ties to industry is the provision of Work-Integrated Learning (WIL), though its quality and consistency is deteriorating with time. **This paper presents a literature review focused on leading and managing an organizational change process to embed Work-Integrated Learning as a learning model in the Graphic Design program at Algonquin College. That change process will be grounded in collaborative leadership, sustained stakeholder engagement, and strategic resource allocation.**
 
 The review examines scholarly works published internationally addressing the challenges of implementing sustained, high-quality WIL in higher education, with a focus on leading and managing change. The scope includes peer-reviewed studies published from 1992 to 2024 analyzing stakeholder engagement barriers, and leadership strategies. This review aims to identify evidence-based practices for embedding WIL as a core pedagogical model while addressing faculty workload constraints and inconsistent industry participation.
 
-The analysis has the following structure: current deficiencies in WIL delivery, definitions of quality across stakeholders, leadership approaches for overcoming resistance to change, and mechanisms for sustaining engagement. By evaluating sources through the lens of Kotter’s change management theory, and Deming’s continuous improvement framework, this review contends that WIL’s long-term viability depends on sustained stakeholder engagement, collaborative leadership, and strategic resource allocation.
+The analysis has the following structure: the background and context of the problem of practice, current deficiencies in WIL delivery leadership approaches, and mechanisms for sustaining engagement (...).
+
+By evaluating sources through the lens of Kotter’s change management theory, and Deming’s continuous improvement framework, this review contends that WIL’s long-term viability depends on sustained stakeholder engagement, collaborative leadership, and strategic resource allocation.
 
 <span class="blue">[claim statement]</span> Embedding Work-Integrated Learning in Algonquin College's Graphic Design program is essential for enhancing student employability, building a strong industry talent pipeline, and maintaining faculty currency. Achieving this requires a collaborative leadership approach, sustained stakeholder engagement, and strategic resource allocation to align WIL initiatives with institutional objectives, address existing inconsistencies, and ensure the program’s long-term success.
 
@@ -21,46 +23,6 @@ The analysis has the following structure: current deficiencies in WIL delivery, 
 ### What is WIL?
 
 Work-Integrated Learning is an educational approach which is a part of experiential learning that integrates academic learning with practical experience in a professional setting. It is designed to bridge the gap between theory and practice, enabling students to develop industry-relevant skills. WIL can take various forms, including but not limited to co-op programs, internships, apprenticeships, clinical placements, research partnerships, and community service learning. These experiences may be paid or unpaid, required or optional, and can occur at different points within a program of study. The defining characteristic of WIL is its structured integration within the curriculum, ensuring that workplace experiences contribute meaningfully to students’ academic and professional development {% cite cewil_what_2021 %}, {% cite kay_emerging_2019 %}, {% cite mabungela_accelerating_2024 %}, {% cite stirling_practical_2024 %}, {% cite wyonch_class_2023 %}.
-
-### The Importance of WIL in Graphic Design
-
-WIL has become increasingly popular in HE {% cite chatoor_student_2023 %}, {% cite smigiel_managing_2015 %}, {% cite tunny_future_2022 %}, {% cite ross_developing_2019 %}
-
-It has become the responsibility of higher education institutions to make students employment-ready {% cite cheng_employability_2022 %}.
-
-WIL plays a central role in supporting the development students' professional identity {% cite trede_role_2012 %}.
-
-In the Graphic Design program, WIL is particularly relevant due to the collaborative nature of the field, where mentorship and professional engagement play pivotal roles in shaping students’ skills and career readiness {% cite cutean_impact_2023 mcrae_work-integrated_2018 %}.
-
-Students who participate in WIL have a higher GPA than those who do not. They are more satisfied with their programs, are less worried about their studies and experience superior labour market outcomes {% cite drysdale_motivation_2018 jackson_impact_2023 macdonald_realizing_2014 raelin_gendered_2014 parker_differential_2016 purdie_are_2013 raelin_gendered_2014 ramirez_academic_2015 %}
-
-WIL activities support students in building a professional network {% cite usher_why_2020 %} {% cite jackson_impact_2023 %}, {% cite mabungela_accelerating_2024 %}, {% cite provosts_task_force_on_experiential_education_experiential_2017 %}, {% cite ross_developing_2019 %}, {% cite sattler_work-integrated_2011 %}, {% cite sattler_work-integrated_2012 %}
-
-Employers play a crucial role in WIL initiatives, benefiting from several advantages. WIL serves as a pipeline for recruiting skilled graduates who are familiar with industry practices and expectations. Employers report reduced recruitment costs and risks when hiring graduates who have participated in WIL. Students bring fresh perspectives, innovative ideas and cutting-edge knowledge to the workplace, contributing to organizational growth and problem-solving. Collaborating with educational institutions fosters long-term relationships that support workforce development {% cite bilgin_impact_2024 %}, {% cite chatoor_working_2023 %},
-{% cite doolan_benefits_2019 %}, {% cite freudenberg_its_2008 %}, {% cite mcrae_work-integrated_2018 %}, {% cite stirling_practical_2024 %}
-
--   {% cite lester_work-integrated_2016  %}:
-    -   Collaboration and engagement by employers:
-        -   Patterns and motivations of engagement,
-        -   Barriers to engagement,
-        -   Solutions and success factors  
-
-{% cite sattler_work-integrated_2011 %}  
-{% cite sattler_work-integrated_2012 %}  
-{% cite usher_why_2020 %}
-
-{% cite freudenberg_its_2008 %} addresses employment readiness.  
-Graduate skills demanded by employers include being confident communicators, team players, critical thinkers, problem solvers and having initiative (Harvey, Moon and Geall, 1997)
-
--   Faculty currency and network building {% cite provosts_task_force_on_experiential_education_experiential_2017 %}
-
--   Addresses institutional goals
-
-Almost half of Ontario’s higher education learners participate in some form of WIL to be better prepared for the workplace {% cite stirling_practical_2024 %}. Research shows that participants in WIL experience superior labour market outcomes, including a higher likelihood of employment and significantly higher incomes {% cite wyonch_class_2023 %}. Usher {% cite usher_why_2020 %} claims that WIL is a useful talent scouting opportunity for employers, forging new connections with up-and-coming graduates.
-
-[Drysdale](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Drysdale%2C+M.T.B.&btnG=&inst=8545375229648679180) has a lot of evidence on how WIL benefits students psychologically.
-
-Some educators view the need for HEI to cater to the workplace as being problematic. They claim their imperative is to serve a higher educational purpose. {% cite billett_realising_2009 %}
 
 ### The Current State
 
@@ -76,6 +38,39 @@ This insufficient integration fails to meet the demands of both students and ind
 
 That said, strong disciplinary expertise alone is not adequate preparation for the workplace {% cite crebert_developing_2004 doolan_benefits_2019 %}. Frequent WIL fosters the timely development of professional skills such as teamwork, communication, and problem-solving {% cite cutean_impact_2023 %}. Early WIL experiences support the student’s choice of vocation early-on, as well as student satisfaction and retention {% cite freudenberg_its_2008 %}. For such frequent and varied WIL activities to happen, all stakeholders must be prepared, enthusiastic, and adequately resourced (Dzingirai, 2020).
 
+### The Importance of WIL to All Stakeholders
+
+-   Benefits of WIL to each stakeholder: {% cite sattler_work-integrated_2011 %} p.64
+
+WIL has become increasingly popular in HE {% cite chatoor_student_2023 %}, {% cite smigiel_managing_2015 %}, {% cite tunny_future_2022 %}, {% cite ross_developing_2019 %}
+
+It has become the responsibility of higher education institutions to make students employment-ready {% cite cheng_employability_2022 %}.
+
+*Benefit to students*: WIL supports students in clarifying their career goals. They can use their WIL experiences to determine if their choice of sector or industry is right for them. It also bolsters their résumés with the addition of their WIL position. They can gain contracts in their field of practice. WIL activities support students in building a professional network {% cite usher_why_2020 %} {% cite jackson_impact_2023 %}, {% cite mabungela_accelerating_2024 %}, {% cite provosts_task_force_on_experiential_education_experiential_2017 %}, {% cite ross_developing_2019 %}, {% cite sattler_work-integrated_2011 %}, {% cite sattler_work-integrated_2012 %}
+
+WIL plays a central role in supporting the development students' professional identity {% cite trede_role_2012 %}.
+
+In the Graphic Design program, WIL is particularly relevant due to the collaborative nature of the field, where mentorship and professional engagement play pivotal roles in shaping students’ skills and career readiness {% cite cutean_impact_2023 mcrae_work-integrated_2018 %}.
+
+Students who participate in WIL have a higher GPA than those who do not. They are more satisfied with their programs, are less worried about their studies and experience superior labour market outcomes {% cite drysdale_motivation_2018 jackson_impact_2023 macdonald_realizing_2014 raelin_gendered_2014 parker_differential_2016 purdie_are_2013 raelin_gendered_2014 ramirez_academic_2015 %}
+
+Employers play a crucial role in WIL initiatives, benefiting from several advantages. WIL serves as a pipeline for recruiting skilled graduates who are familiar with industry practices and expectations. Employers report reduced recruitment costs and risks when hiring graduates who have participated in WIL. Students bring fresh perspectives, innovative ideas and cutting-edge knowledge to the workplace, contributing to organizational growth and problem-solving. Collaborating with educational institutions fosters long-term relationships that support workforce development {% cite bilgin_impact_2024 %}, {% cite chatoor_working_2023 %},
+{% cite doolan_benefits_2019 %}, {% cite freudenberg_its_2008 %}, {% cite mcrae_work-integrated_2018 %}, {% cite stirling_practical_2024 %}
+
+{% cite sattler_work-integrated_2012 %}  
+{% cite usher_why_2020 %}
+
+{% cite freudenberg_its_2008 %} addresses employment readiness.  
+Graduate skills demanded by employers include being confident communicators, team players, critical thinkers, problem solvers and having initiative (Harvey, Moon and Geall, 1997)
+
+-   Faculty currency and network building {% cite provosts_task_force_on_experiential_education_experiential_2017 %}
+
+Almost half of Ontario’s higher education learners participate in some form of WIL to be better prepared for the workplace {% cite stirling_practical_2024 %}. Research shows that participants in WIL experience superior labour market outcomes, including a higher likelihood of employment and significantly higher incomes {% cite wyonch_class_2023 %}. Usher {% cite usher_why_2020 %} claims that WIL is a useful talent scouting opportunity for employers, forging new connections with up-and-coming graduates.
+
+[Drysdale](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Drysdale%2C+M.T.B.&btnG=&inst=8545375229648679180) has a lot of evidence on how WIL benefits students psychologically.
+
+Some educators view the need for HEI to cater to the workplace as being problematic. They claim their imperative is to serve a higher educational purpose. {% cite billett_realising_2009 %}
+
 ### Why Embedding WIL is Good
 
 -   {% cite bosco_embedding_2014 %}
@@ -84,6 +79,31 @@ That said, strong disciplinary expertise alone is not adequate preparation for t
 -   {% cite jackson_embedding_2021 %}
 
 Embedding WIL as a learning model in the Program of Study ensures it persists. It also improves quality, notwithstanding institutional changes or budgetary constraints. Institutional recognition of WIL as a learning model in the Graphic Design program contributes to its quality {% cite mcrae_work-integrated_2018 patrick_wil_2008 rosenbaum_planned_2018 %}. With WIL embedded in the program, the college can measure quality through its institutional key performance indicators such as retention graduation, and post-graduation sector-specific employment rates. These results allow stakeholders to respond with adjustments to WIL practice in a continuous improvement process {% cite deming_pdsa_nodate bobby_abcs_2014 %}. Formalizing the inclusion of WIL in the Graphic Design program bolsters its quality into the future. This demonstrates a commitment by the college to endorse WIL as part of its vision of experiential learning.
+
+### Challenges
+
+{% cite sattler_work-integrated_2011 %}
+
+#### Institution
+
+-   Administrative burden
+-   WIL supply and demand (availability)
+-   Managing Expectations
+-   WIL curriculum development
+-   Faculty workload
+-   Faculty recognition
+-   Faculty training
+
+#### Employers
+
+-   Financial pressures
+-   Workload & Staffing
+-   Managing Expectations
+-   WIL supply and demand (availability)
+-   Institutional processes (bureaucracy)
+-   Placement Length
+-   Student Quality
+-   Workplace Limitations, Location
 
 <h2 class="center-text">Theme #1: Collaborative Leadership</h2>
 
