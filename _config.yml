@@ -20,7 +20,7 @@ scholar:
   query: "@*"
   sort_by: author
   order: ascending
-  details_link: ""   # Text for links to detail pages
+  details_link: ""
 
 # plugins:
 #   - jekyll-datapage-generator
