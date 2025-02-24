@@ -42,8 +42,9 @@ permalink: /
 -   Some educators view the need for HEI to cater to the workplace as being problematic. They claim their imperative is to serve a higher educational purpose. {% cite billett_realising_2009 %}
 -   {% cite freudenberg_its_2008 %} addresses employment readiness.
 
-#### Defining quality WIL (The end state)
-
+-   {% cite stirling_postsecondary_2017 %} addresses that reflection is an important part of WIL. It says that WIL needs to be connected to classroom theory.
+-   {% cite vu_challenges_2022 %} addresses adaptations to WIL that need to be made for international students. I'm not sure I'm going to address this yet.
+-   {% cite yorke_workengaged_2011 %} deals with employers assessing students. There's not much in it.
 -   [Doolan](./sources/XE5Z43JC.html) advocates for WIL (EWIL) at regular intervals
 -   Assess quality from each stakeholder’s perspective
     -   [Patrick et al.](./sources/C4HYE3S8.html) and [Lester](./sources/YJGWCDFQ.html) list motivations by stakeholder
