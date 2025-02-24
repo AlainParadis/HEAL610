@@ -11,6 +11,7 @@ permalink: /
 ## Questions
 
 -   Should our *Claim Statement* act like a thesis statement for our lit review? Should they be combined?
+-   I'm not sure how to formulate a *rationale for your literature choices* in the Background section.
 -   Is it poor practice to over-cite <a href="./bibliography/stirling_practical_2024.html">one document</a>? I have one that is 200 pages that contains a lot of relevant information on WIL.
 -   I don't have a section literally addressing *Change Management*, but it's woven through my content. Is that ok?
 
@@ -26,6 +27,7 @@ permalink: /
 -   [Eric Barends](https://scholar.google.ca/citations?hl=en&user=fL4Dgk0AAAAJ), Evidence-Based Management
 -   [W.E. Deming](https://deming.org/explore/pdsa/), PDSA Cycle
 -   [Sonia Ferns](https://scholar.google.ca/citations?hl=en&user=y3RVpscAAAAJ), WIL
+-   [Peter Gronn](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Peter+Gronn&btnG=&inst=8545375229648679180), Distributed Leadership
 -   [Denise Jackson](https://scholar.google.ca/citations?hl=en&user=24GmN7IAAAAJ), WIL
 -   [Adrianna Kezar](https://scholar.google.ca/citations?hl=en&user=LF9HFAQAAAAJ), HE Leadership
 -   [John Kotter](https://www.kotterinc.com/methodology/8-steps/), Leading Change
@@ -39,4 +41,50 @@ permalink: /
 -   It has become the responsibility of higher education institutions to make students employment-ready {% cite cheng_employability_2022 %}.
 -   Some educators view the need for HEI to cater to the workplace as being problematic. They claim their imperative is to serve a higher educational purpose. {% cite billett_realising_2009 %}
 -   {% cite freudenberg_its_2008 %} addresses employment readiness.
+
+#### Defining quality WIL (The end state)
+
+-   [Doolan](./sources/XE5Z43JC.html) advocates for WIL (EWIL) at regular intervals
+-   Assess quality from each stakeholder’s perspective
+    -   [Patrick et al.](./sources/C4HYE3S8.html) and [Lester](./sources/YJGWCDFQ.html) list motivations by stakeholder
+    -   Students:
+        -   Deliver mentorship
+        -   Improved employability, [6WIPGS5Y](.sources/6WIPGS5Y.html)
+        -   Build professional network
+        -   Assurance of curriculum alignment
+    -   Faculty:
+        -   Updated and expanded industry network
+        -   Current industry-relevant skills
+        -   Industry-aligned curriculum
+        -   Institutional standards alignment
+    -   Employers:
+        -   Talent pipeline
+        -   Cutting-edge techniques and trends
+        -   *Find more*
+    -   The college:
+        -   Improved recruitment and retention
+        -   Curriculum alignment with industry
+        -   Respond to institutional mission
+-   Fitness for purpose
+    -   [Bobby](./sources/8HV44DK7.html), [Dzingirai](./sources/ZHBVYAE7.html), [Harvey & Green](./sources/75YNKWXH.html)
+
+### Leadership and Change Management
+
+#### Addressing Challenges and Barriers
+
+-   Equity and access
+    -   [Patrick et al.](./sources/C4HYE3S8.html)
+-   Resourcing WIL
+    -   [Patrick et al.](./sources/C4HYE3S8.html)
+-   Collaborative leadership approach to increase stakeholder engagement
+-   Faculty engagement despite increased workload
+    -   [Mabungelaa](.sources/6WIPGS5Y.html): WIL coordinators are responsible for supervising WIL.
+
+#### Assessing Readiness for Change
+
+-   [Why teams fail](./sources/BZE7F32V.html)
+-   Stakeholders must be ready for change. [Gelaidan](./sources/HT9UF9K5.html)
+
+-   Evidence from multiple sources supported by storytelling is needed
+    -   [Andrews](./sources/EURWC4MD.html), [Franz](./sources/WG4T76XP.html), [Kunert](./sources/4LKRXEDS.html), [Sundin](./sources/LRS6IDJG.html), [Herman & Loewenstein](./sources/T8F6NK4H.html)
  -->
