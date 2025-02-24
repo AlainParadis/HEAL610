@@ -112,6 +112,13 @@ hr
 .blue { color: var(--apple-blue); }
 .bold { font-weight: bold; }
 
+blockquote
+{
+    background: #EBEBEB;
+    border: solid 1px #919191;
+    color: #919191;
+	padding: 0 0.5rem;
+}
 ul
 {
 	/*     margin-left: 3.5rem; */
