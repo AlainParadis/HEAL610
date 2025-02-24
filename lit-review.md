@@ -2,7 +2,6 @@
 title: HEAL610 Lit Review
 layout: default
 ---
-
 <h2 class="center-text">Leading and Managing Change at Algonquin College</h2>
 
 In keeping with the mandate of Ontario’s publicly supported colleges to provide a labour force that's workplace ready {% cite canlii_ontario_2017 %}, the Graphic Design program at Algonquin College has maintained strong relationships with local, sector-specific employers. A key component of the program’s ties to industry is the provision of Work-Integrated Learning (WIL), though its quality and consistency is deteriorating with time. <span class="blue">This paper presents a literature review focused on leading and managing an organizational change process to embed Work-Integrated Learning as a learning model in the Graphic Design program at Algonquin College. Grounded in Kotter’s change management theory and Deming’s continuous improvement framework, this review contends that WIL’s long-term viability depends on sustained stakeholder engagement, collaborative leadership, and strategic resource allocation.</span>
@@ -30,7 +29,7 @@ Work-Integrated Learning is an educational approach which is a part of experient
 -   Why is embedding it important?
 -->
 
-In recent years, WIL's acceptance as a valued learning model has grown, as has its provision in higher education {% cite chatoor_student_2023 %}, {% cite smigiel_managing_2015 %}, {% cite tunny_future_2022 %}, {% cite ross_developing_2019 %}. In the Graphic Design program, WIL is particularly relevant due to the collaborative nature of the field, where mentorship and professional engagement play pivotal roles in shaping students’ skills and career readiness {% cite cutean_impact_2023 mcrae_work-integrated_2018 %}. The Graphic Design program is six semesters long, running in the fall and winter semesters. Yet, despite its importance, WIL is limited to a single fieldwork component in the final semester {% cite  algonquin_college_of_applied_arts_and_technology_graphic_2024 %}. During five of the six semesters students participate in no WIL activities.
+In recent years, WIL's acceptance as a valued learning model has grown, as has its provision in higher education {% cite chatoor_student_2023 %}, {% cite smigiel_managing_2015 %}, {% cite tunny_future_2022 %}, {% cite ross_developing_2019 %}. In the Graphic Design program, WIL is particularly relevant due to the collaborative nature of the field, where mentorship and professional engagement play pivotal roles in shaping students’ skills and career readiness {% cite cutean_impact_2023 %}, {% cite mcrae_work-integrated_2018 %}, {% cite smith_impact_2014 %}. The Graphic Design program is six semesters long, running in the fall and winter semesters. Yet, despite its importance, WIL is limited to a single fieldwork component in the final semester {% cite  algonquin_college_of_applied_arts_and_technology_graphic_2024 %}. During five of the six semesters students participate in no WIL activities.
 
 ### The Importance of WIL to Each Stakeholder
 
@@ -38,15 +37,15 @@ This insufficient integration fails to meet the demands of both students and ind
 
 #### Importance to Students
 
-Learners benefit from earlier, consistent, high-quality WIL activities with models that are varied and innovative. A properly prepared aspiring graphic designer has WIL experiences of increasing intensity at all stages of their academic journey. They are exposed to theory then practice in a scaffolded structure progressing throughout the academic curriculum. {% cite  mabungela_accelerating_2024 %} {% cite orrell_good_2011 %} {% cite dean_institutional_2020 %} {% cite doolan_benefits_2019 %}. This model builds momentum, making a smoother transition towards the workplace and future career success {% cite doolan_benefits_2019 %}, {% cite kay_emerging_2019 %}, {% cite stirling_practical_2024 %}, {% cite wyonch_class_2023 %} rather than an abrupt intensive experience at the end of their studies.
+Learners benefit from earlier, consistent, high-quality WIL activities with models that are varied and innovative. A properly prepared aspiring graphic designer has WIL experiences of increasing intensity at all stages of their academic journey. They are exposed to theory then practice in a scaffolded structure progressing throughout the academic curriculum. {% cite  mabungela_accelerating_2024 %}, {% cite orrell_good_2011 %}, {% cite dean_institutional_2020 %}, {% cite doolan_benefits_2019 %}. This model builds momentum, making a smoother transition towards the workplace and future career success {% cite doolan_benefits_2019 %}, {% cite kay_emerging_2019 %}, {% cite stirling_practical_2024 %}, {% cite wyonch_class_2023 %} rather than an abrupt intensive experience at the end of their studies.
 
-Additionally, WIL experiences sooner in students' progress through the program support their choice of vocation early-on {% cite freudenberg_its_2008 %}, {% cite sachs_2017_2017 %}. Because WIL helps students clarify their career goals, they can use their experiences to determine if their choice of sector or industry is right for them. It also bolsters their résumés with the addition of their WIL position. They can gain contracts in their field of practice, which can help build a professional network {% cite usher_why_2020 %} {% cite jackson_impact_2023 %}, {% cite mabungela_accelerating_2024 %}, {% cite provosts_task_force_on_experiential_education_experiential_2017 %}, {% cite ross_developing_2019 %}, {% cite sattler_work-integrated_2011 %}, {% cite sattler_work-integrated_2012 %}.
+Additionally, WIL experiences sooner in students' progress through the program support their choice of vocation early-on {% cite freudenberg_its_2008 %}, {% cite sachs_2017_2017 %}. Because WIL helps students clarify their career goals, they can use their experiences to determine if their choice of sector or industry is right for them. It also bolsters their résumés with the addition of their WIL position. They can gain contracts in their field of practice, which can help build a professional network {% cite usher_why_2020 %}, {% cite jackson_impact_2023 %}, {% cite mabungela_accelerating_2024 %}, {% cite provosts_task_force_on_experiential_education_experiential_2017 %}, {% cite ross_developing_2019 %}, {% cite sattler_work-integrated_2011 %}, {% cite sattler_work-integrated_2012 %}.
 
 Beyond the disciplinary expertise gained in the course of their regular studies, frequent WIL fosters the timely development of professional skills such as teamwork, communication, and problem-solving {% cite cutean_impact_2023 %}, {% cite crebert_developing_2004 %}, {% cite doolan_benefits_2019 %}. Finally, WIL plays a central role in supporting the development students' professional identity {% cite trede_role_2012 %}.
 
 In the academic context, students who participate in WIL have a higher GPA than those who do not. They are more satisfied with their programs, are less worried about their studies and experience superior labour market outcomes {% cite drysdale_motivation_2018 jackson_impact_2023 macdonald_realizing_2014 raelin_gendered_2014 parker_differential_2016 purdie_are_2013 raelin_gendered_2014 ramirez_academic_2015 %}
 
-In the professional context, almost half of Ontario’s higher education learners participate in some form of WIL to be better prepared for the workplace {% cite stirling_practical_2024 %}. Research shows that participants in WIL experience superior labour market outcomes, including a higher likelihood of employment and significantly higher incomes {% cite cheng_employability_2022 %} {% cite wyonch_class_2023 %}.
+In the professional context, almost half of Ontario’s higher education learners participate in some form of WIL to be better prepared for the workplace {% cite stirling_practical_2024 %}. Research shows that participants in WIL experience superior labour market outcomes, including a higher likelihood of employment and significantly higher incomes {% cite cheng_employability_2022 %}, {% cite wyonch_class_2023 %}.
 
 #### Importance to Employers
 
@@ -57,10 +56,10 @@ Employers play a crucial role in WIL initiatives, benefiting from several advant
 
 -   {% cite abeysekera_issues_2006 %}: Benefits to faculty
 -   Incorporating meaningful experiential learning opportunities keeps students engaged academically, reducing dropout rates {% cite mabungela_accelerating_2024 %}.
--   A robust WIL program positions Algonquin College as a leader in experiential education, attracting prospective students and industry partners alike {% cite sachs_2017_2017 %} {% cite stirling_practical_2024 %}.
+-   A robust WIL program positions Algonquin College as a leader in experiential education, attracting prospective students and industry partners alike {% cite sachs_2017_2017 %}, {% cite stirling_practical_2024 %}.
 -   Embedding WIL supports the college’s commitment to preparing graduates for the workforce while fulfilling its mandate under the Ontario Colleges of Applied Arts and Technology Act {% cite canlii_ontario_2017 %}.
 -   Faculty currency and network building {% cite ferns_driving_2016 %}, {% cite patrick_wil_2008 %}, {% cite provosts_task_force_on_experiential_education_experiential_2017 %}, {% cite vailasseri_embedding_2021 %}
--    WIL attracts prospective students. It is a vehicle for facilitating strong partnerships with industry which lead to better engagement and retention rates {% cite ferns_driving_2016 %} {% cite patrick_wil_2008 %}.
+-    WIL attracts prospective students. It is a vehicle for facilitating strong partnerships with industry which lead to better engagement and retention rates {% cite ferns_driving_2016 %}, {% cite patrick_wil_2008 %}.
 -   Faculty members also benefit from embedding WIL in the curriculum. Engaging with industry partners ensures curriculum remains aligned with current professional practices and trends. Partnering with employers also provides faculty with insights into workplace demands, enabling them to design more consequential learning experiences in the classroom. Faculty gain opportunities to expand their networks and stay connected to industry developments, enhancing their teaching effectiveness {% cite stirling_practical_2024 %}.
 
 ### Why Embedding WIL is a Good Thing
@@ -71,6 +70,7 @@ To read:
 -   {% cite bosco_embedding_2014 %}
 -   {% cite doolan_benefits_2019 %}
 -   {% cite dorland_entrepreneurial_2020 %}
+-   {% cite edwards_integrating_2007 %}
 -   {% cite ferns_driving_2016 %}
 -   {% cite jackson_embedding_2021 %}
 
@@ -78,11 +78,12 @@ To read:
 
 Despite the many benefits WIL brings to the college and to the region's graphic design employers, these stakeholders do face challenges in doing so. The administrative burden can be a heavy one for the program and the department, as is the workload for faculty facilitating WIL {% cite clark_power_2016 %}. They often receive insufficient training and recognition for developing and delivering WIL curriculum {% cite doolan_benefits_2019 %},  {% cite jackson_work-integrated_2024 %}, {% cite sattler_work-integrated_2011 %}.
 
-Both institutions and organizations participating in WIL need to navigate fluctuations in supply and demand of opportunities. The region's employers have challenges all their own, financial, workload and staffing constraints being chief among them. Furthermore, they may be faced with more institutional processes (bureaucracy) than they're used to when dealing with the college. Employers also need to manage student and college expectations as to placement duration, and the type of projects they undertake while at work. Student quality is also an unpredictable factor for employers {% cite clayton_australias_2019 %} {% cite jackson_employer_2017 %} {% cite sattler_work-integrated_2011 %}.
+Both institutions and organizations participating in WIL need to navigate fluctuations in supply and demand of opportunities. The region's employers have challenges all their own, financial, workload and staffing constraints being chief among them. Furthermore, they may be faced with more institutional processes (bureaucracy) than they're used to when dealing with the college. Employers also need to manage student and college expectations as to placement duration, and the type of projects they undertake while at work. Student quality is also an unpredictable factor for employers {% cite clayton_australias_2019 %}, {% cite jackson_employer_2017 %}, {% cite sattler_work-integrated_2011 %}.
 
 To read:
 -   {% cite abeysekera_issues_2006 %}: Challenges designing WIL, mostly relating to faculty.
 -   Designing inclusive WIL {% cite bowen_examining_2020 %}
+-   Differences in WIL experiences by gender: {% cite paisey_developing_2010 %}
 -   WIL can ensure curriculum aligns with professional practice {% cite bowen_examining_2020 %}
 
 
@@ -90,7 +91,7 @@ To read:
 
 > Summary and synthesis of literature that contributes to theme one.
 
--   Communication strategies: Broadcasting WIL messages and best practices to all stakeholders is crucial {% cite ferns_driving_2016 %} {% cite bendermacher_unravelling_2017 %}
+-   Communication strategies: Broadcasting WIL messages and best practices to all stakeholders is crucial {% cite ferns_driving_2016 %}, {% cite bendermacher_unravelling_2017 %}, {% cite pundyke_change_2020 %}
 -   More on stakeholder communication: {% cite cooper_university_2016 %}
 -   {% cite kang_guiding_2022 %}: an emergent, iterative application of Kotter’s change model.
 -   {% cite davis_work_2014 %}
@@ -98,6 +99,7 @@ To read:
 -   [Peter Gronn](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Peter+Gronn&btnG=&inst=8545375229648679180): Distributed leadership
 -   {% cite kezar_change_2013 %}: Encounters with Resistance and Obstacles
 -   {% cite kezar_how_2018 %}: Understanding, Leading, and Enacting Change
+-   {% cite radwan_lead_2020 %} reducing resistance with Kotter's 8-step model
 -   {% cite kotter_leading_2012 %}
     1. Establishing a Sense of Urgency
     2. Creating the Guiding Coalition
@@ -108,13 +110,10 @@ To read:
     7. Consolidating Gains and Producing More Change
     8. Anchoring New Approaches in the Culture
 
--   Deming
+-   Deming, to read:
     -   {% cite hughey_application_2000 %}:
-        -   to read
     -   {% cite stensaasen_application_1995 %}:
-        -   to read
     -   {% cite temponi_continuous_2005 %}: 
-        -   to read
 
 ### Build a Guiding Coalition
 
@@ -127,7 +126,9 @@ A collaborative approach is useful, where stakeholders share a language, mutual 
 Employers play a central role in assessing student success while learning in the workplace. Consequently, employers and faculty need to employ a collaborative approach to ensure students have attained requisite learning outcomes through a rigorous, coordinated assessment process {% cite henderson_strengthening_2017 %}
 
 - Story telling:
-    - {% cite andrews_telling_2018 %}
+    -   {% cite sundin_rethinking_2018 %}
+    -   {% cite franz_extension_2016 %}
+    -   {% cite andrews_telling_2018 %}
 -   {% cite schaub_failure_2018 %}: Building a successful team
 -   Challenges about getting engagement for the change process. How leaders can overcome resistance {% cite drew_issues_2010 %}.
 -   collective decision-making, {% cite henderson_strengthening_2017 %}
@@ -139,24 +140,24 @@ Employers play a central role in assessing student success while learning in the
 
 ### Fostering Readiness for Change 
 
--   [Rousseau & ten Have](./bibliography/rousseau_evidence-based_2022.html)
-
-Then fostering their readiness to undertake the change initiative {% cite chappell_exploring_2016 conner_committing_1992 drew_issues_2010 gelaidan_employee_2018 janich_facilitator_2016 kotter_leading_2007 radwan_lead_2020 %}. With this shared understanding, each party recognizes the benefits enjoyed by participating. This builds intrinsic motivation for continued engagement. Absent these robust relationships, distrust can build, resulting in abandonment by some. Creating a strong coalition of stakeholders with clear understanding of the merits of WIL participation ensures ongoing stakeholder engagement. Of the stakeholders, faculty hold a special position as the initiators of WIL activities.
+Then fostering their readiness to undertake the change initiative {% cite chappell_exploring_2016 %}, {% cite conner_committing_1992 %}, {% cite drew_issues_2010 %}, {% cite gelaidan_employee_2018 %}, {% cite janich_facilitator_2016 %}, {% cite kotter_leading_2007 %}, {% cite radwan_lead_2020 %}. With this shared understanding, each party recognizes the benefits enjoyed by participating. This builds intrinsic motivation for continued engagement. Absent these robust relationships, distrust can build, resulting in abandonment by some. Creating a strong coalition of stakeholders with clear understanding of the merits of WIL participation ensures ongoing stakeholder engagement. Of the stakeholders, faculty hold a special position as the initiators of WIL activities.
 
 ### Challenges
 
+Without continued faculty engagement in WIL activities, its quality and frequency diminish. Stirling {% cite stirling_practical_2024 %} highlights that instructors must educate themselves about their roles as WIL facilitators and design curriculum that connects with workplace practice. This adds to already burdensome workloads, which, if not included in their standard workload formula, is generally met with resistance {% cite sony_barriers_2020 %}. This lack of recognition is remedied by allocating financial and human resources as a matter of course. This ensures the continuation of WIL activities for the long term, weathering changes in faculty and administrative staff.
+
+To read:
+-   {% cite peus_leading_2009 %}: Lots of content about resistance to change here.
+-   {% cite peus_leading_2009 %}: The article discusses the variables that have been identified as success factors for organizational change initiatives. These include individual difference variables and objective characteristics of the changes, but in particular aspects of the implementation, such as fairness and trust, adequate communication strategies, leadership, and participation.
 -   {% cite lester_work-integrated_2016  %}
 -   [Failure of leadership](./bibliography/kunert_failure_2018-1.html)
 -   [Failure of organizational change](./bibliography/burnes_success_2011.html)
 -   Why transformation fails [Kotter](./bibliography/kotter_leading_2007.html)
-
-Without continued faculty engagement in WIL activities, its quality and frequency diminish. Stirling {% cite stirling_practical_2024 %} highlights that instructors must educate themselves about their roles as WIL facilitators and design curriculum that connects with workplace practice. This adds to already burdensome workloads, which, if not included in their standard workload formula, is generally met with resistance {% cite sony_barriers_2020 %}. This lack of recognition is remedied by allocating financial and human resources as a matter of course. This ensures the continuation of WIL activities for the long term, weathering changes in faculty and administrative staff.
-
 -   Leaders navigate competing tensions, maintain academic quality, and manage both fiscal and human resources in institutions that often have decentralized leadership. [Drew](./bibliography/drew_issues_2010.html)
 -   [Conner](./bibliography/conner_committing_1992.html): *Committing to Change* addresses stages of commitment.
 -   [Lauer's book](./bibliography/lauer_change_2021.html) on change management
 -   Leading change in HE [Herman & Loewenstein](./bibliography/herman_evidencebased_2017.html)
--   Evidence-based change management [Rousseau & ten Have](./bibliography/rousseau_evidence-based_2022.html)
+-   {% cite rousseau_evidence-based_2022 %}: Four sources of evidence
 -   {% cite barends_evidence-based_2014 %}: Sources of evidence
 
 <h2 class="center-text">Theme #2: Sustained, Inclusive Stakeholder Engagement</h2>
@@ -175,11 +176,10 @@ Without continued faculty engagement in WIL activities, its quality and frequenc
 
 -   {% cite bates_work-integrated_2011 %}
 -   {% cite brimble_will_2010 %}
--   {% cite rook_challenges_2017 %}
--   {% cite talbot_australias_2019 %}
--   {% cite weisz_critical_2005 %}
-
+-   {% cite clayton_australias_2019 %}
 -   {% cite lester_work-integrated_2016  %}: Funding-backed policy is critical to the development of WIL activities.
+-   {% cite rook_challenges_2017 %}
+-   {% cite weisz_critical_2005 %}
 
 ## Discussion
 
