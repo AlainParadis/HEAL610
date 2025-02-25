@@ -19,7 +19,7 @@ The analysis has the following structure: the background and context of the prob
 
 ### What is WIL?
 
-Work-Integrated Learning is an educational approach which is a part of experiential learning that integrates academic learning with practical experience in a professional setting. It is designed to bridge the gap between theory and practice, enabling students to develop industry-relevant skills. WIL can take various forms, including but not limited to co-op programs, internships, apprenticeships, clinical placements, research partnerships, and project-based work. These experiences may be paid or unpaid, required or optional, and can occur at different points within a program of study. They can occur on-campus or off. The defining feature is that it contributes to students’ academic *and* professional development {% cite cewil_what_2021 %}, {% cite kay_emerging_2019 %}, {% cite mabungela_accelerating_2024 %}, {% cite sachs_2017_2017 %}, {% cite stirling_practical_2024 %}, {% cite wyonch_class_2023 %}.
+Though definitions of WIL vary in the literature, Work-Integrated Learning is an educational approach which is a part of experiential learning that integrates academic learning with practical experience in a professional setting. It is designed to bridge the gap between theory and practice, enabling students to develop industry-relevant skills. WIL can take various forms, including but not limited to co-op programs, internships, apprenticeships, clinical placements, research partnerships, and project-based work. These experiences may be paid or unpaid, required or optional, and can occur at different points within a program of study. They can occur on-campus or off. The defining feature is that it contributes to students’ academic *and* professional development {% cite cewil_what_2021 %}, {% cite kay_emerging_2019 %}, {% cite mabungela_accelerating_2024 %}, {% cite sachs_2017_2017 %}, {% cite stirling_practical_2024 %}, {% cite wyonch_class_2023 %}.
 
 ### Why is the Change Needed?
 
@@ -29,7 +29,7 @@ Work-Integrated Learning is an educational approach which is a part of experient
 -   Why is embedding it important?
 -->
 
-In recent years, WIL's acceptance as a valued learning model has grown, as has its provision in higher education {% cite chatoor_student_2023 %}, {% cite smigiel_managing_2015 %}, {% cite tunny_future_2022 %}, {% cite ross_developing_2019 %}. In the Graphic Design program, WIL is particularly relevant due to the collaborative nature of the field, where mentorship and professional engagement play pivotal roles in shaping students’ skills and career readiness {% cite cutean_impact_2023 %}, {% cite mcrae_work-integrated_2018 %}, {% cite smith_impact_2014 %}. The Graphic Design program is six semesters long, running in the fall and winter semesters. Yet, despite its importance, WIL is limited to a single fieldwork component in the final semester {% cite  algonquin_college_of_applied_arts_and_technology_graphic_2024 %}. During five of the six semesters students participate in no WIL activities.
+In recent years, WIL's acceptance as a valued learning model has grown, as has its provision in higher education {% cite chatoor_student_2023 %}, {% cite smigiel_managing_2015 %}, {% cite tunny_future_2022 %}, {% cite ross_developing_2019 %}. In the Graphic Design program, WIL is particularly relevant due to the collaborative nature of the field {% cite smith_impact_2014 %}, where mentorship and professional engagement play pivotal roles in shaping students’ skills and career readiness {% cite cutean_impact_2023 %}, {% cite mcrae_work-integrated_2018 %}, {% cite smith_impact_2014 %}. The Graphic Design program is six semesters long, running in the fall and winter semesters. Yet, despite its importance, WIL is limited to a single fieldwork component in the final semester {% cite  algonquin_college_of_applied_arts_and_technology_graphic_2024 %}. During five of the six semesters students participate in no WIL activities.
 
 ### The Importance of WIL to Each Stakeholder
 
@@ -41,7 +41,7 @@ Learners benefit from earlier, consistent, high-quality WIL activities with mode
 
 Additionally, WIL experiences sooner in students' progress through the program support their choice of vocation early-on {% cite freudenberg_its_2008 %}, {% cite sachs_2017_2017 %}. Because WIL helps students clarify their career goals, they can use their experiences to determine if their choice of sector or industry is right for them. It also bolsters their résumés with the addition of their WIL position. They can gain contracts in their field of practice, which can help build a professional network {% cite usher_why_2020 %}, {% cite jackson_impact_2023 %}, {% cite mabungela_accelerating_2024 %}, {% cite provosts_task_force_on_experiential_education_experiential_2017 %}, {% cite ross_developing_2019 %}, {% cite sattler_work-integrated_2011 %}, {% cite sattler_work-integrated_2012 %}.
 
-Beyond the disciplinary expertise gained in the course of their regular studies, frequent WIL fosters the timely development of professional skills such as teamwork, communication, and problem-solving {% cite cutean_impact_2023 %}, {% cite crebert_developing_2004 %}, {% cite doolan_benefits_2019 %}. Finally, WIL plays a central role in supporting the development students' professional identity {% cite trede_role_2012 %}.
+Beyond the disciplinary expertise gained in the course of their regular studies, frequent WIL fosters the timely development of professional skills such as teamwork, communication, and problem-solving {% cite cutean_impact_2023 %}, {% cite crebert_developing_2004 %}, {% cite doolan_benefits_2019 %} {% cite smith_impact_2014 %}. Finally, WIL plays a central role in supporting the development students' professional identity {% cite trede_role_2012 %}.
 
 In the academic context, students who participate in WIL have a higher GPA than those who do not. They are more satisfied with their programs, are less worried about their studies and experience superior labour market outcomes {% cite drysdale_motivation_2018 jackson_impact_2023 macdonald_realizing_2014 raelin_gendered_2014 parker_differential_2016 purdie_are_2013 raelin_gendered_2014 ramirez_academic_2015 %}
 
@@ -50,17 +50,14 @@ In the professional context, almost half of Ontario’s higher education learner
 #### Importance to Employers
 
 Employers play a crucial role in WIL initiatives, benefiting from several advantages. WIL serves as a pipeline for recruiting skilled graduates who are familiar with industry practices and expectations. It is a useful talent scouting opportunity for employers, forging new connections with up-and-coming graduates {% cite usher_why_2020 %}. Employers report reduced recruitment costs and risks when hiring graduates who have participated in WIL. Students bring fresh perspectives, innovative ideas and cutting-edge knowledge to the workplace, contributing to organizational growth and problem-solving. Collaborating with educational institutions fosters long-term relationships that support workforce development {% cite bilgin_impact_2024 %}, {% cite chatoor_working_2023 %},
-{% cite doolan_benefits_2019 %}, {% cite freudenberg_its_2008 %}, {% cite mcrae_work-integrated_2018 %}, {% cite stirling_practical_2024 %}
+{% cite doolan_benefits_2019 %}, {% cite freudenberg_its_2008 %}, {% cite mcrae_work-integrated_2018 %}, {% cite provosts_task_force_on_experiential_education_experiential_2017 %}, {% cite stirling_practical_2024 %}
 
 #### Importance to the College
 
+Embedding WIL pays dividends to faculty as it does for the institution as a whole. For Algonquin College, incorporating meaningful experiential learning opportunities keeps students engaged academically, reducing dropout rates {% cite billett_realising_2009 %} {% cite parker_differential_2016 %}. WIL also attracts prospective students. A robust WIL program positions the institution as a leader in experiential education, attracting prospective students and industry partners alike {% cite sachs_2017_2017 %}, {% cite stirling_practical_2024 %}. Embedded WIL supports the college’s commitment to preparing graduates for the workforce while fulfilling its mandate under the Ontario Colleges of Applied Arts and Technology Act {% cite canlii_ontario_2017 %}. It is a vehicle for facilitating strong partnerships with industry which lead to better engagement and retention rates {% cite ferns_driving_2016 %}, {% cite patrick_wil_2008 %}.
+
 -   {% cite abeysekera_issues_2006 %}: Benefits to faculty
--   Incorporating meaningful experiential learning opportunities keeps students engaged academically, reducing dropout rates {% cite mabungela_accelerating_2024 %}.
--   A robust WIL program positions Algonquin College as a leader in experiential education, attracting prospective students and industry partners alike {% cite sachs_2017_2017 %}, {% cite stirling_practical_2024 %}.
--   Embedding WIL supports the college’s commitment to preparing graduates for the workforce while fulfilling its mandate under the Ontario Colleges of Applied Arts and Technology Act {% cite canlii_ontario_2017 %}.
--   Faculty currency and network building {% cite ferns_driving_2016 %}, {% cite patrick_wil_2008 %}, {% cite provosts_task_force_on_experiential_education_experiential_2017 %}, {% cite vailasseri_embedding_2021 %}
--    WIL attracts prospective students. It is a vehicle for facilitating strong partnerships with industry which lead to better engagement and retention rates {% cite ferns_driving_2016 %}, {% cite patrick_wil_2008 %}.
--   Faculty members also benefit from embedding WIL in the curriculum. Engaging with industry partners ensures curriculum remains aligned with current professional practices and trends. Partnering with employers also provides faculty with insights into workplace demands, enabling them to design more consequential learning experiences in the classroom. Faculty gain opportunities to expand their networks and stay connected to industry developments, enhancing their teaching effectiveness {% cite stirling_practical_2024 %}.
+Faculty members also benefit from embedding WIL in the curriculum, principally by enhancing their currency. Engaging with industry partners ensures curriculum remains aligned with current professional practices and trends. Partnering with employers also provides faculty with insights into workplace demands, enabling them to design more consequential learning experiences in the classroom. Faculty gain opportunities to expand their networks and stay connected to industry developments, enhancing their teaching effectiveness {% cite ferns_driving_2016 %}, {% cite patrick_wil_2008 %}, {% cite provosts_task_force_on_experiential_education_experiential_2017 %}, {% cite stirling_practical_2024 %}, {% cite vailasseri_embedding_2021 %}.
 
 ### Why Embedding WIL is a Good Thing
 
@@ -170,7 +167,7 @@ To read:
 -   {% cite wait_multi-stakeholder_2016 %}: Multi-stakeholder work integrated learning model for higher education
 -   {% cite jackson_employer_2017 %}: Employer understanding of Work-Integrated Learning and the challenges of engaging in work placement opportunities
 
-<h2 class="center-text">Theme #3: Strategic Resource Allocation</h2>
+<h2 class="center-text">Theme #3: Resource Allocation</h2>
 
 > Summary and synthesis of literature that contributes to theme three
 
@@ -180,6 +177,16 @@ To read:
 -   {% cite lester_work-integrated_2016  %}: Funding-backed policy is critical to the development of WIL activities.
 -   {% cite rook_challenges_2017 %}
 -   {% cite weisz_critical_2005 %}
+
+### Stakeholder Resistance
+
+#### Fear
+
+#### Risks
+
+Risks to stakeholders:
+-   {% cite effeney_risk_2020 %} p.5
+-   {% cite cameron_strategic_2017 %}
 
 ## Discussion
 
