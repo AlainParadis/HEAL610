@@ -96,6 +96,14 @@ nav a
 	h1, h2, h3, h4, h5, h6 { color: #D6D6D6; }
 }
 
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid #919191;
+	padding: 4px;
+}
+
 /* Additional styling for headers */
 .center-text { text-align: center; }
 .right-text { text-align: right; }
