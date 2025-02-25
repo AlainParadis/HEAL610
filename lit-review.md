@@ -64,6 +64,8 @@ Faculty members also benefit from embedding WIL in the curriculum, principally b
 Embedding WIL as a learning model in the Program of Study ensures it persists. It also improves quality, notwithstanding institutional changes or budgetary constraints. Institutional recognition of WIL as a learning model in the Graphic Design program contributes to its quality {% cite mcrae_work-integrated_2018 patrick_wil_2008 rosenbaum_planned_2018 %}. With WIL embedded in the program, the college can measure quality through its institutional key performance indicators such as retention graduation, and post-graduation sector-specific employment rates. These results allow stakeholders to respond with adjustments to WIL practice in a continuous improvement process {% cite deming_pdsa_nodate bobby_abcs_2014 %}. Formalizing the inclusion of WIL in the Graphic Design program bolsters its quality into the future. This demonstrates a commitment by the college to endorse WIL as part of its vision of experiential learning.
 
 To read:
+-   {% cite tezcan_scaffolded_2020 %}: this is specifically about a design program.
+-   {% cite meth_design_2022 %}: this is specifically about a design program.
 -   {% cite bosco_embedding_2014 %}
 -   {% cite doolan_benefits_2019 %}
 -   {% cite dorland_entrepreneurial_2020 %}
@@ -87,6 +89,12 @@ To read:
 
 > Summary and synthesis of literature that contributes to theme one.
 
+The central idea of collaborative leadership is to bring together stakeholders to participate in planning and decision-making, giving input and agency to everyone involved, including students.
+
+### Co-Design with Students
+
+-   {% cite de_oliveira_how_2023 %}: has a definition and more benefits of collaborative leadership.
+-   "Kotter’s (2007) dual operating system theory provides a framework for overcoming the program’s siloed curriculum development. Case studies from Queensland University of Technology’s Design Futures initiative demonstrate that co-governed WIL committees—comprising 40% industry representatives, 30% faculty, 20% students, and 10% administrators—increase partnership longevity by 63% compared to top-down models."
 -   Communication strategies: Broadcasting WIL messages and best practices to all stakeholders is crucial {% cite ferns_driving_2016 %}, {% cite bendermacher_unravelling_2017 %}, {% cite pundyke_change_2020 %}
 -   More on stakeholder communication: {% cite cooper_university_2016 %}
 -   If WIL is organized in a siloed manner, there's a risk that participation is compartmentalized by role. As a result, input and feedback may be provided at cross-purposes. It is best to accept each stakeholder's contributions, even if they don't align with their typical responsibilities. For example, an employer may design an assessment task, or a student may provide new ideas for teaching practice {% cite ferns_engaging_2021 %}.
@@ -142,6 +150,15 @@ Then fostering their readiness to undertake the change initiative {% cite chappe
 ### Challenges
 
 Without continued faculty engagement in WIL activities, its quality and frequency diminish. Stirling {% cite stirling_practical_2024 %} highlights that instructors must educate themselves about their roles as WIL facilitators and design curriculum that connects with workplace practice. This adds to already burdensome workloads, which, if not included in their standard workload formula, is generally met with resistance {% cite sony_barriers_2020 %}. This lack of recognition is remedied by allocating financial and human resources as a matter of course. This ensures the continuation of WIL activities for the long term, weathering changes in faculty and administrative staff.
+
+### Integration of Kotter & Deming
+
+| Kotter's Steps | Integration with PDSA |
+|----------------|------------------------|
+| 1-3: Create urgency, Build coalition, Form vision | **Plan Phase**: Define what you're trying to achieve with WIL, identify problems with current approach, and develop solutions |
+| 4-6: Communicate vision, Remove barriers, Create short-term wins | **Do Phase**: Implement your WIL initiatives on a small scale first (perhaps in select courses) |
+| 7: Maintain momentum | **Study Phase**: Evaluate outcomes, analyze what worked and what didn't |
+| 8: Anchor the change | **Act Phase**: Adjust approach based on findings, standardize successful elements, and begin the cycle again |
 
 To read:
 -   {% cite peus_leading_2009 %}: Lots of content about resistance to change here.
