@@ -5,3 +5,8 @@ layout: default
 <div class="bibliography-entry">
     {{ reference }} Details:&nbsp;<a href="{{ site.url }}{{ site.baseurl }}/bibliography/{{ entry.key }}.html" class="details-link">{{ entry.key }}</a>
 </div>
+<div class="abstract">
+{% if page.url contains "_abstract" %}
+    {{ entry.abstract }}
+{% endif %}
+</div>
