@@ -155,10 +155,9 @@ Without continued faculty engagement in WIL activities, its quality and frequenc
 
 ### Integration of ADKAR & Deming
 
-Integrating the ADKAR (Awareness, Desire, Knowledge, Ability, Reinforcement) model with Deming's Plan-Do-Study-Act cycle creates a powerful framework for implementing and sustaining the WIL initiative in the program. The two approaches complement each other, with ADKAR providing a people-centred change leadership approach, and Deming offering the continuous improvement process.
+Integrating the Prosci ADKAR (Awareness, Desire, Knowledge, Ability, Reinforcement) model with Deming's Plan-Do-Study-Act (PDSA) cycle creates a powerful framework for implementing and sustaining the WIL initiative in the program. The two approaches complement each other, with ADKAR providing a people-centred change leadership approach, and Deming's PDSA cycle offering the continuous improvement process.
 
-The Plan phase includes defining the end-state of the change process, identifying the problems with the current approach, then developing solutions. It is during this stage that a evidence is used to demonstrate why the current state cannot continue. The evidence shows that the current fieldwork model doesn't meet students' nor employers' needs. This urgency fosters stakeholder support.
-
+The Plan phase incorporate ADKAR's Awareness and Desire elements to ensure stakeholders understand why change is needed and want to participate. The Do phase applies ADKAR's Knowledge and Ability components to ensure people have the information and skills needed to implement the planned changes. The Study phase evaluates both process outcomes and individual adoption, identifying barriers in each individual's change journey. Finally, the Act Phase uses ADKAR's Reinforcement strategies to sustain changes while making necessary adjustments to the overall approach.
 
 To read:
 -   {% cite peus_leading_2009 %}: Lots of content about resistance to change here.
