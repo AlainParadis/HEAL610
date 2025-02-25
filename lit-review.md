@@ -83,13 +83,13 @@ To read:
 -   Differences in WIL experiences by gender: {% cite paisey_developing_2010 %}
 -   WIL can ensure curriculum aligns with professional practice {% cite bowen_examining_2020 %}
 
-
 <h2 class="center-text">Theme #1: Collaborative Leadership</h2>
 
 > Summary and synthesis of literature that contributes to theme one.
 
 -   Communication strategies: Broadcasting WIL messages and best practices to all stakeholders is crucial {% cite ferns_driving_2016 %}, {% cite bendermacher_unravelling_2017 %}, {% cite pundyke_change_2020 %}
 -   More on stakeholder communication: {% cite cooper_university_2016 %}
+-   If WIL is organized in a siloed manner, there's a risk that participation is compartmentalized by role. As a result, input and feedback may be provided at cross-purposes. It is best to accept each stakeholder's contributions, even if they don't align with their typical responsibilities. For example, an employer may design an assessment task, or a student may provide new ideas for teaching practice {% cite ferns_engaging_2021 %}.
 -   {% cite kang_guiding_2022 %}: an emergent, iterative application of Kotter’s change model.
 -   {% cite davis_work_2014 %}
 - Kezar has alot to say about [leading change in HE](https://scholar.google.ca/citations?user=LF9HFAQAAAAJ&hl=en&inst=8545375229648679180&oi=sra)
@@ -161,6 +161,11 @@ To read:
 
 > Summary and synthesis of literature that contributes to theme two
 
+-   {% cite grashow_practice_nodate %}: Not sure about this one. it's a section of a book. I may need to go look for the book chapters if there's anything of use.
+-   {% cite fleming_successful_2018 %}: To read.
+-   {% cite ferns_engaging_2021 %}
+    -   Curriculum co-creation makes it more engaging to diverse students
+    -   Addresses many good points about resistance and obstacles to employer participation.
 -   Employers are more inclined to advance discussions and make the required commitments to supervision, evaluation, and feedback in order to ensure high-quality student outcomes if they see the possible advantages and benefits {% cite henderson_strengthening_2017 %}.
 -   Part of engaging employers as WIL participants is to prepare their staff to be educators in the workplace {% cite henderson_strengthening_2017 %}.
 -   {% cite ferns_enhancing_2016 %}: Engaging employers
@@ -171,6 +176,7 @@ To read:
 
 > Summary and synthesis of literature that contributes to theme three
 
+-   {% cite dean_resourcing_2023 %}
 -   {% cite bates_work-integrated_2011 %}
 -   {% cite brimble_will_2010 %}
 -   {% cite clayton_australias_2019 %}
