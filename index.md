@@ -15,6 +15,13 @@ permalink: /
 -   Is it poor practice to over-cite <a href="./bibliography/stirling_practical_2024.html">one document</a>? I have one that is 200 pages that contains a lot of relevant information on WIL.
 -   I don't have a section literally addressing *Change Management*, but it's woven through my content. Is that ok?
 
+-   Arguing the value of embedding WIL.
+-   I should be stating that I limited my research. The formats, etc...
+-   I leaned heavily on a single document.
+-   In my rationale of the literature, I can state that I searched for Canadian content.
+-   Stakeholder salience theory. What is their influence on the process. Address power imbalances.
+-   I need to describe the idea of a town hall 
+
 ## Purpose
 
 -   The purpose of your literature review is really threefold:
@@ -34,7 +41,6 @@ permalink: /
 -   [Peggy Sattler](https://scholar.google.ca/citations?user=NgzgYooAAAAJ&hl=en&inst=8545375229648679180&oi=sra), WIL in Ontario
 -   [Franziska Trede](https://scholar.google.ca/citations?hl=en&user=tTTLS3MAAAAJ), Professional Identity
 
-<!-- 
 #### Dumping Ground
 
 -   Benefits of WIL to each stakeholder: {% cite sattler_work-integrated_2011 %} p.64
@@ -88,4 +94,6 @@ permalink: /
 
 -   Evidence from multiple sources supported by storytelling is needed
     -   [Andrews](./sources/EURWC4MD.html), [Franz](./sources/WG4T76XP.html), [Kunert](./sources/4LKRXEDS.html), [Sundin](./sources/LRS6IDJG.html), [Herman & Loewenstein](./sources/T8F6NK4H.html)
- -->
+
+{% cite abeysekera_issues_2006 %}
+
