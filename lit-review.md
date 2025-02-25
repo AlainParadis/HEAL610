@@ -153,6 +153,10 @@ Without continued faculty engagement in WIL activities, its quality and frequenc
 
 ### Integration of Kotter & Deming
 
+Integrating Kotter's 8-step model with Deming's Plan-Do-Study-Act cycle creates a powerful framework for implementing and sustaining the WIL initiative in the program. The two approaches complement each other, with Kotter providing the change leadership approach, and Deming offering the continuous improvement process.
+
+The Plan phase includes defining the end-state of the change process, identifying the problems with the current approach, then developing solutions. It is during this stage that a evidence is used to demonstrate why the current state cannot continue. The evidence shows that the current fieldwork model doesn't meet students' nor employers' needs. This urgency fosters stakeholder support.
+
 | Kotter's Steps | Integration with PDSA |
 |----------------|------------------------|
 | 1-3: Create urgency, Build coalition, Form vision | **Plan Phase**: Define what you're trying to achieve with WIL, identify problems with current approach, and develop solutions |
