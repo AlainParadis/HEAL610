@@ -61,6 +61,14 @@ nav a
 		--background-color: white;
 		--text-color-black: black;
 	}
+	
+	blockquote
+	{
+		background: #EBEBEB;
+		border: solid 1px #919191;
+		color: #919191;
+		padding: 0 0.5rem;
+	}
 }
 
 /* Dark mode */
@@ -84,15 +92,11 @@ nav a
 		padding: 0 0.5rem;
 		line-height: 1.5rem;
 	}
-h1, h2, h3, h4, h5, h6
-{
-	color: #D6D6D6;
-}
-
+	
+	h1, h2, h3, h4, h5, h6 { color: #D6D6D6; }
 }
 
 /* Additional styling for headers */
-
 .center-text { text-align: center; }
 .right-text { text-align: right; }
 .center { margin: 0 auto; }
@@ -112,13 +116,6 @@ hr
 .blue { color: var(--apple-blue); }
 .bold { font-weight: bold; }
 
-blockquote
-{
-    background: #EBEBEB;
-    border: solid 1px #919191;
-    color: #919191;
-	padding: 0 0.5rem;
-}
 ul
 {
 	/*     margin-left: 3.5rem; */
@@ -129,11 +126,12 @@ ul
 /* Search bar styling */
 #search-container { margin-bottom: 1em; }
 
-#search-input
+.search-input
 {
-	width: 100%;
+	width: 90%;
 	padding: 0.5em;
 	font-size: 1rem;
+	margin-left: 2.5rem;
 }
 
 /* Responsive adjustments for smaller screens */
@@ -152,8 +150,8 @@ ul
 /* Bibliography styling */
 .bibliography-list
 {
-	margin: 20px;
-	padding: 10px;
+	margin: 1rem;
+	padding: 1rem;
 }
 
 .bibliography-list ol
@@ -166,18 +164,52 @@ ul
 
 .bibliography-entry
 {
-	margin-bottom: 15px;
+	margin-bottom: 1rem;
 	/* Add space between entries */
-	text-indent: -0.5in;
+	text-indent: -2.5rem;
 	/* Negative indent for the first line */
-	padding-left: 0.5in;
+	padding-left: 3.5rem;
 	/* Indent all other lines */
 }
 
-.citation-author { font-weight: normal; }
-.citation-title { font-style: italic; }
-.citation-journal { color: #000; }
-.citation-year { color: #000; }
+.abstract
+{
+	border-bottom: solid 1px #A9A9A9;
+	padding-bottom: 1rem;
+	margin-bottom: 2rem;
+	margin-left: 3.5rem;
+}
+
+.reference-entry
+{
+	margin-bottom: 2em;
+	padding: 1rem;
+	border-bottom: 1px solid #eee;
+}
+
+.reference-title
+{
+	font-weight: bold;
+	font-size: 1.1em;
+	margin-bottom: 0.5em;
+}
+
+.reference-authors
+{
+	font-style: italic;
+	margin-bottom: 0.3em;
+}
+
+.reference-details { font-size: 0.9em; }
+.reference-links { margin-top: 0.5em; }
+
+.doi-link
+{
+	padding: 0.2em 0.5em;
+	background: #f5f5f5;
+	border-radius: 3px;
+	text-decoration: none;
+}
 
 /* References Details page next and previous navigation */
 .PageNavigation
