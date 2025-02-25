@@ -4,7 +4,7 @@ layout: default
 ---
 <h2 class="center-text">Leading and Managing Change at Algonquin College</h2>
 
-In keeping with the mandate of Ontario’s publicly supported colleges to provide a labour force that's workplace ready {% cite canlii_ontario_2017 %}, the Graphic Design program at Algonquin College has maintained strong relationships with local, sector-specific employers. A key component of the program’s ties to industry is the provision of Work-Integrated Learning (WIL), though its quality and consistency is deteriorating with time. <span class="blue">This paper presents a literature review focused on leading and managing an organizational change process to embed Work-Integrated Learning as a learning model in the Graphic Design program at Algonquin College. Grounded in Kotter’s change management theory and Deming’s continuous improvement framework, this review contends that WIL’s long-term viability depends on sustained stakeholder engagement, collaborative leadership, and strategic resource allocation.</span>
+In keeping with the mandate of Ontario’s publicly supported colleges to provide a labour force that's workplace ready {% cite canlii_ontario_2017 %}, the Graphic Design program at Algonquin College has maintained strong relationships with local, sector-specific employers. A key component of the program’s ties to industry is the provision of Work-Integrated Learning (WIL), though its quality and consistency is deteriorating with time. <span class="blue">This paper presents a literature review focused on leading and managing an organizational change process to embed Work-Integrated Learning as a learning model in the Graphic Design program at Algonquin College. Grounded in the ADKAR change model and Deming’s continuous improvement framework, this review contends that WIL’s long-term viability depends on sustained stakeholder engagement, collaborative leadership, and strategic resource allocation.</span>
 
 The review examines scholarly works published internationally addressing the challenges of implementing sustained, high-quality WIL in higher education, with a focus on leading and managing change. The scope includes peer-reviewed studies published from 1992 to 2024 analyzing stakeholder engagement barriers, and leadership strategies. This review aims to identify evidence-based practices for embedding WIL as a core pedagogical model while addressing faculty workload constraints and inconsistent industry participation.
 
@@ -94,17 +94,18 @@ The central idea of collaborative leadership is to bring together stakeholders t
 ### Co-Design with Students
 
 -   {% cite de_oliveira_how_2023 %}: has a definition and more benefits of collaborative leadership.
--   "Kotter’s (2007) dual operating system theory provides a framework for overcoming the program’s siloed curriculum development. Case studies from Queensland University of Technology’s Design Futures initiative demonstrate that co-governed WIL committees—comprising 40% industry representatives, 30% faculty, 20% students, and 10% administrators—increase partnership longevity by 63% compared to top-down models."
+-   Case studies from Queensland University of Technology’s Design Futures initiative demonstrate that co-governed WIL committees—comprising 40% industry representatives, 30% faculty, 20% students, and 10% administrators—increase partnership longevity by 63% compared to top-down models."
 -   Communication strategies: Broadcasting WIL messages and best practices to all stakeholders is crucial {% cite ferns_driving_2016 %}, {% cite bendermacher_unravelling_2017 %}, {% cite pundyke_change_2020 %}
 -   More on stakeholder communication: {% cite cooper_university_2016 %}
 -   If WIL is organized in a siloed manner, there's a risk that participation is compartmentalized by role. As a result, input and feedback may be provided at cross-purposes. It is best to accept each stakeholder's contributions, even if they don't align with their typical responsibilities. For example, an employer may design an assessment task, or a student may provide new ideas for teaching practice {% cite ferns_engaging_2021 %}.
--   {% cite kang_guiding_2022 %}: an emergent, iterative application of Kotter’s change model.
+<!-- -   {% cite kang_guiding_2022 %}: an emergent, iterative application of Kotter’s change model. -->
 -   {% cite davis_work_2014 %}
 - Kezar has alot to say about [leading change in HE](https://scholar.google.ca/citations?user=LF9HFAQAAAAJ&hl=en&inst=8545375229648679180&oi=sra)
 -   [Peter Gronn](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Peter+Gronn&btnG=&inst=8545375229648679180): Distributed leadership
 -   {% cite kezar_change_2013 %}: Encounters with Resistance and Obstacles
 -   {% cite kezar_how_2018 %}: Understanding, Leading, and Enacting Change
--   {% cite radwan_lead_2020 %} reducing resistance with Kotter's 8-step model
+<!-- -   {% cite radwan_lead_2020 %} reducing resistance with Kotter's 8-step model -->
+<!-- 
 -   {% cite kotter_leading_2012 %}
     1. Establishing a Sense of Urgency
     2. Creating the Guiding Coalition
@@ -114,6 +115,7 @@ The central idea of collaborative leadership is to bring together stakeholders t
     6. Generating Short-Term Wins
     7. Consolidating Gains and Producing More Change
     8. Anchoring New Approaches in the Culture
+ -->
 
 -   Deming, to read:
     -   {% cite hughey_application_2000 %}:
@@ -122,7 +124,7 @@ The central idea of collaborative leadership is to bring together stakeholders t
 
 ### Build a Guiding Coalition
 
-Collaborative leadership serves as the foundation for driving this change initiative. The approach involves forming a guiding coalition, a WIL team, consisting of faculty members, students, industry partners, and college administrators. This coalition is composed of individuals with enough authority and influence to lead the change process. They spur stakeholders to work together, to implement needed strategies, and to oversee them during implementation {% cite kotter_leading_2007 bryson_strategic_2018 %}.
+Collaborative leadership serves as the foundation for driving this change initiative. The approach involves forming a guiding coalition, a WIL team, consisting of faculty members, students, industry partners, and college administrators. This coalition is composed of individuals with enough authority and influence to lead the change process. They spur stakeholders to work together, to implement needed strategies, and to oversee them during implementation.
 
 The team holds strategic planning sessions to explore and identify roles and responsibilities of each team member. A vision is formulated, including strategic goals of the team, that are aligned with the end state of embedded WIL in the Graphic Design program curriculum {% cite ferns_driving_2016 %}, {% cite lester_work-integrated_2016  %}.
 
@@ -145,24 +147,18 @@ Employers play a central role in assessing student success while learning in the
 
 ### Fostering Readiness for Change 
 
-Then fostering their readiness to undertake the change initiative {% cite chappell_exploring_2016 %}, {% cite conner_committing_1992 %}, {% cite drew_issues_2010 %}, {% cite gelaidan_employee_2018 %}, {% cite janich_facilitator_2016 %}, {% cite kotter_leading_2007 %}, {% cite radwan_lead_2020 %}. With this shared understanding, each party recognizes the benefits enjoyed by participating. This builds intrinsic motivation for continued engagement. Absent these robust relationships, distrust can build, resulting in abandonment by some. Creating a strong coalition of stakeholders with clear understanding of the merits of WIL participation ensures ongoing stakeholder engagement. Of the stakeholders, faculty hold a special position as the initiators of WIL activities.
+Then fostering their readiness to undertake the change initiative {% cite chappell_exploring_2016 %}, {% cite conner_committing_1992 %}, {% cite drew_issues_2010 %}, {% cite gelaidan_employee_2018 %}, {% cite janich_facilitator_2016 %}, {% cite radwan_lead_2020 %}. With this shared understanding, each party recognizes the benefits enjoyed by participating. This builds intrinsic motivation for continued engagement. Absent these robust relationships, distrust can build, resulting in abandonment by some. Creating a strong coalition of stakeholders with clear understanding of the merits of WIL participation ensures ongoing stakeholder engagement. Of the stakeholders, faculty hold a special position as the initiators of WIL activities.
 
 ### Challenges
 
 Without continued faculty engagement in WIL activities, its quality and frequency diminish. Stirling {% cite stirling_practical_2024 %} highlights that instructors must educate themselves about their roles as WIL facilitators and design curriculum that connects with workplace practice. This adds to already burdensome workloads, which, if not included in their standard workload formula, is generally met with resistance {% cite sony_barriers_2020 %}. This lack of recognition is remedied by allocating financial and human resources as a matter of course. This ensures the continuation of WIL activities for the long term, weathering changes in faculty and administrative staff.
 
-### Integration of Kotter & Deming
+### Integration of ADKAR & Deming
 
-Integrating Kotter's 8-step model with Deming's Plan-Do-Study-Act cycle creates a powerful framework for implementing and sustaining the WIL initiative in the program. The two approaches complement each other, with Kotter providing the change leadership approach, and Deming offering the continuous improvement process.
+Integrating the ADKAR (Awareness, Desire, Knowledge, Ability, Reinforcement) model with Deming's Plan-Do-Study-Act cycle creates a powerful framework for implementing and sustaining the WIL initiative in the program. The two approaches complement each other, with ADKAR providing a people-centred change leadership approach, and Deming offering the continuous improvement process.
 
 The Plan phase includes defining the end-state of the change process, identifying the problems with the current approach, then developing solutions. It is during this stage that a evidence is used to demonstrate why the current state cannot continue. The evidence shows that the current fieldwork model doesn't meet students' nor employers' needs. This urgency fosters stakeholder support.
 
-| Kotter's Steps | Integration with PDSA |
-|----------------|------------------------|
-| 1-3: Create urgency, Build coalition, Form vision | **Plan Phase**: Define what you're trying to achieve with WIL, identify problems with current approach, and develop solutions |
-| 4-6: Communicate vision, Remove barriers, Create short-term wins | **Do Phase**: Implement your WIL initiatives on a small scale first (perhaps in select courses) |
-| 7: Maintain momentum | **Study Phase**: Evaluate outcomes, analyze what worked and what didn't |
-| 8: Anchor the change | **Act Phase**: Adjust approach based on findings, standardize successful elements, and begin the cycle again |
 
 To read:
 -   {% cite peus_leading_2009 %}: Lots of content about resistance to change here.
