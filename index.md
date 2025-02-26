@@ -10,12 +10,20 @@ permalink: /
 
 ## Notes
 
+-   Should I do a gap analysis to uncover shortcomings in student skills they could learn through WIL {% cite dorland_entrepreneurial_2020 %}
 -   Arguing the value of embedding WIL.
 -   I should be stating that I limited my research. The formats, etc...
 -   I leaned heavily on a single document.
 -   In my rationale of the literature, I can state that I searched for Canadian content.
 -   Stakeholder salience theory. What is their influence on the process. Address power imbalances.
 -   I need to describe the idea of a town hall 
+
+To read:
+-   {% cite jackson_embedding_2021 %} has a section on challenges for embedding WIL.
+-   {% cite abeysekera_issues_2006 %}: Challenges designing WIL, mostly relating to faculty.
+-   Designing inclusive WIL {% cite bowen_examining_2020 %}
+-   Differences in WIL experiences by gender: {% cite paisey_developing_2010 %}
+-   WIL can ensure curriculum aligns with professional practice {% cite bowen_examining_2020 %}
 
 ## Purpose
 
@@ -26,6 +34,7 @@ permalink: /
     
 ## Standout Authors
 
+-   {% cite bosco_embedding_2014 %} discusses authentic assessment in WIL. I'm not using it yet.
 -   [Eric Barends](https://scholar.google.ca/citations?hl=en&user=fL4Dgk0AAAAJ), Evidence-Based Management
 -   [W.E. Deming](https://deming.org/explore/pdsa/), PDSA Cycle
 -   [Sonia Ferns](https://scholar.google.ca/citations?hl=en&user=y3RVpscAAAAJ), WIL
