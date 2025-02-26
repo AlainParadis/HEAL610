@@ -8,12 +8,7 @@ permalink: /
 
 [Moodle Assignment](https://moodle.royalroads.ca/moodle/mod/assign/view.php?id=783948)
 
-## Questions
-
--   Should our *Claim Statement* act like a thesis statement for our lit review? Should they be combined?
--   I'm not sure how to formulate a *rationale for your literature choices* in the Background section.
--   Is it poor practice to over-cite <a href="./bibliography/stirling_practical_2024.html">one document</a>? I have one that is 200 pages that contains a lot of relevant information on WIL.
--   I don't have a section literally addressing *Change Management*, but it's woven through my content. Is that ok?
+## Notes
 
 -   Arguing the value of embedding WIL.
 -   I should be stating that I limited my research. The formats, etc...
