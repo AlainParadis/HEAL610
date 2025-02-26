@@ -18,6 +18,10 @@ body
 	color: var(--text-color);
 }
 
+p {
+  text-indent: 3em;
+}
+
 a { color: var(--apple-blue); }
 a:hover { text-decoration: none; }
 
