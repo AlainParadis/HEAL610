@@ -43,6 +43,9 @@ permalink: /
 
 #### Dumping Ground
 
+-   According to Mulvihill, Hart, Northmore, Wolff, and Pratt (2011, p.11), “Each university must negotiate – and re-negotiate - the meaning, value and purpose of engagement with their communities if they are to ensure successful and sustainable partnerships in the long term”.
+-   {% cite jackson_employability_2015 %} addresses scaffolded WIL specifically.
+-   There's a lot about using our network within the college in {% cite kezar_redesigning_2006 %}.
 -   Benefits of WIL to each stakeholder: {% cite sattler_work-integrated_2011 %} p.64
 -   It has become the responsibility of higher education institutions to make students employment-ready {% cite cheng_employability_2022 %}.
 -   Some educators view the need for HEI to cater to the workplace as being problematic. They claim their imperative is to serve a higher educational purpose. {% cite billett_realising_2009 %}
