@@ -14,9 +14,6 @@ The analysis has the following structure: the background and context of the prob
 
 <h2 class="center-text">Background</h2>
 
-> Context informing the problem of practice – personal, institutional, and geographical  
-> Rationale for your literature choices (especially if from popular sources)
-
 ### What is WIL?
 
 Though definitions of WIL vary broadly in the literature, Work-Integrated Learning is an educational approach which is a part of experiential learning that integrates academic learning with practical experience in a professional setting. It is designed to bridge the gap between theory and practice, enabling students to develop industry-relevant skills. WIL can take various forms, including but not limited to co-op programs, internships, apprenticeships, clinical placements, research partnerships, and project-based work. These experiences may be paid or unpaid, required or optional, and can occur at different points within a program of study. They can occur on-campus or off. The defining feature is that it contributes to students’ academic *and* professional development {% cite cewil_what_2021 %}, {% cite kay_emerging_2019 %}, {% cite mabungela_accelerating_2024 %}, {% cite sachs_2017_2017 %}, {% cite stirling_practical_2024 %}, {% cite wyonch_class_2023 %}.
@@ -78,23 +75,33 @@ Both institutions and organizations participating in WIL need to navigate fluctu
 
 Wood and Gray {% cite wood_toward_1991 %} have formulated a definition of collaborative leadership that aligns well with the desired leadership approach for this change process: “Collaboration occurs when a group of autonomous stakeholders of a problem domain engage in an interactive process, using shared rules, norms, and structures to act or decide on issues related to that domain” (p. 143) The central idea of using collaborative leadership is to bring together stakeholders to participate in planning and decision-making, giving input and agency to everyone involved, including students. Collaboration comes with its own intrinsic rewards, like meeting new individuals inside and outside the college, and accomplishing goals an individual alone could not attain {% cite kezar_redesigning_2006 %}.
 
+#### Open Communications
+
+References to successful change initiatives in the literature consistently include the importance of communication as foundational to sustaining relationships. Open, honest, transparent communication plays an indispensable role in the proposed collaborative leadership approach. It can take place in person, in written form, as electronic communication, even including social media. One reason for adopting open communications is because when communications address stakeholders' uncertainty, it positively affects their openness to change {% cite peus_leading_2009 %}.
+
+Communication among stakeholders does not only include formal work-related conversations. It also takes the form of casual, collegial chatter. It is often durning these talks that cynicism or resistance surfaces. These negative views risk propagating. To mitigate this risk, change leaders need to recognize those who have positive views of changes share those with others {% cite peus_leading_2009 %} {% cite ferns_driving_2016 %}.
+
+Positive, motivating outcomes result from open communications. Take participant recognition and promotion of their reputation as examples. Ongoing, clear communication bolsters the reciprocity of the partnerships in the WIL implementation process, building trust among stakeholders {% cite fleming_successful_2018 %}. Yet, communications need to be exclusively positive to be constructive. If they are to be truly open, exchanges must also include the sharing of negative information, which may include the poor state of WIL in the program (the rationale for the change itself). This has the effect of immunizing the recipients of the information, reducing uncertainty and anxiety {% cite peus_leading_2009 %}.
+
+The first and most important message to share is the vision for the proposed change {% cite kotter_leading_2007 %}. Having a well articulated vision that is clearly communicated brings stakeholders together with a clear understanding of each others' expectations {% cite fleming_successful_2018 %}. Re-articulating the vision on a regular basis helps keep everyone on track {% cite kezar_redesigning_2006 %}. Likewise, dissemination of WIL best practices to all stakeholders promotes their use {% cite ferns_driving_2016 %}.
+
+More on stakeholder communication: {% cite cooper_university_2016 %}
+
+#### Challenges to Collaboration
+
 If WIL is organized in a siloed manner rather than collaboratively, there's a risk that participation is compartmentalized by role. As a result, input and feedback may be provided at cross-purposes. Instead, it is best to accept each stakeholders' contributions, even if they don't align with their typical responsibilities. For example, an employer may design an assessment task, or a student may provide new ideas for teaching practice {% cite ferns_engaging_2021 %}.
 
 A collaborative approach may present challenges HEI work in departmental silos that are in highly bureaucratic structures. There are also structural challenges such as including tenured and occasional faculty in the planning and delivery of WIL activities {% cite kezar_redesigning_2006 %}.
 
 If all stakeholders share the values of a student-centred, innovative, and egalitarian approach to the change process, collaboration should happen more naturally {% cite kezar_redesigning_2006 %}.
 
--   {% cite kezar_redesigning_2006 %}
-    -   Having a well articulated mission that's clearly communicated to bring stakeholders together. Rearticulating the mission on a regular basis helps keep everyone on track 
-    -   Talks about building a coalition, p.15
-
+Talks about building a coalition, p.15, {% cite kezar_redesigning_2006 %}
 
 ### Co-Design with Students
 
 -   {% cite de_oliveira_how_2023 %}: has a definition and more benefits of collaborative leadership.
 -   Case studies from Queensland University of Technology’s Design Futures initiative demonstrate that co-governed WIL committees—comprising 40% industry representatives, 30% faculty, 20% students, and 10% administrators—increase partnership longevity by 63% compared to top-down models."
--   Communication strategies: Broadcasting WIL messages and best practices to all stakeholders is crucial {% cite ferns_driving_2016 %}, {% cite bendermacher_unravelling_2017 %}, {% cite pundyke_change_2020 %}
--   More on stakeholder communication: {% cite cooper_university_2016 %}
+
 -   {% cite davis_work_2014 %}
 - Kezar has alot to say about [leading change in HE](https://scholar.google.ca/citations?user=LF9HFAQAAAAJ&hl=en&inst=8545375229648679180&oi=sra)
 -   [Peter Gronn](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Peter+Gronn&btnG=&inst=8545375229648679180): Distributed leadership
