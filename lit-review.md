@@ -69,11 +69,17 @@ Despite the many benefits WIL brings to the college and to the region's graphic 
 
 Both institutions and organizations participating in WIL need to navigate fluctuations in supply and demand of opportunities. The region's employers have challenges all their own, financial, workload and staffing constraints being chief among them. Furthermore, they may be faced with more institutional processes (bureaucracy) than they're used to when dealing with the college. Employers also need to manage student and college expectations as to placement duration, and the type of projects they undertake while at work. Student quality is also an unpredictable factor for employers {% cite clayton_australias_2019 %}, {% cite jackson_employer_2017 %}, {% cite sattler_work-integrated_2011 %}.
 
+Add a transition text to launch into the themes.
+
 <h2 class="center-text">Theme #1: Collaborative Leadership</h2>
 
 “*Excellence occurs in the company of others.*”, Hannah Arendt
 
 Wood and Gray {% cite wood_toward_1991 %} have formulated a definition of collaborative leadership that aligns well with the desired leadership approach for this change process: “Collaboration occurs when a group of autonomous stakeholders of a problem domain engage in an interactive process, using shared rules, norms, and structures to act or decide on issues related to that domain” (p. 143) The central idea of using collaborative leadership is to bring together stakeholders to participate in planning and decision-making, giving input and agency to everyone involved, including students. Collaboration comes with its own intrinsic rewards, like meeting new individuals inside and outside the college, and accomplishing goals an individual alone could not attain {% cite kezar_redesigning_2006 %}.
+
+However, there is a gap between the idealized definition of collaboration by Wood & Gray and experiences in the Graphic Design program. The definition may conflict with the college's bureaucratic structures. If WIL is currently organized in a siloed manner rather than collaboratively, there's a risk that participation is compartmentalized by role, requiring existing leadership models to adapt from a top-down to an egalitarian approach.
+
+If all stakeholders share the values of a student-centred, innovative, and egalitarian approach to the change process, collaboration should happen more naturally {% cite kezar_redesigning_2006 %}.
 
 #### Open Communications
 
@@ -85,13 +91,23 @@ Positive, motivating outcomes result from open communications. Take participant 
 
 The first and most important message to share is the vision for the proposed change {% cite kotter_leading_2007 %}. Having a well articulated vision that is clearly communicated brings stakeholders together with a clear understanding of each others' expectations {% cite cooper_university_2016 %}, {% cite fleming_successful_2018 %}. Re-articulating the vision on a regular basis helps keep everyone on track {% cite kezar_redesigning_2006 %}. Likewise, dissemination of WIL best practices to all stakeholders promotes their use {% cite ferns_driving_2016 %}.
 
-#### Challenges to Collaboration
+<!-- Talks about building a coalition, p.15, {% cite kezar_redesigning_2006 %} -->
 
-If WIL is organized in a siloed manner rather than collaboratively, there's a risk that participation is compartmentalized by role. As a result, input and feedback may be provided at cross-purposes. Instead, it is best to accept each stakeholders' contributions, even if they don't align with their typical responsibilities. For example, an employer may design an assessment task, or a student may provide new ideas for teaching practice {% cite ferns_engaging_2021 %}.
+### Co-Design with Students
 
-A collaborative approach may present challenges HEI work in departmental silos that are in highly bureaucratic structures. There are also structural challenges such as including tenured and occasional faculty in the planning and delivery of WIL activities {% cite kezar_redesigning_2006 %}.
+-   {% cite de_oliveira_how_2023 %}: has a definition and more benefits of collaborative leadership.
+-   Case studies from Queensland University of Technology’s Design Futures initiative demonstrate that co-governed WIL committees—comprising 40% industry representatives, 30% faculty, 20% students, and 10% administrators—increase partnership longevity by 63% compared to top-down models."
 
-If all stakeholders share the values of a student-centred, innovative, and egalitarian approach to the change process, collaboration should happen more naturally {% cite kezar_redesigning_2006 %}.
+-   {% cite davis_work_2014 %}
+- Kezar has alot to say about [leading change in HE](https://scholar.google.ca/citations?user=LF9HFAQAAAAJ&hl=en&inst=8545375229648679180&oi=sra)
+-   [Peter Gronn](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Peter+Gronn&btnG=&inst=8545375229648679180): Distributed leadership
+-   {% cite kezar_change_2013 %}: Encounters with Resistance and Obstacles
+-   {% cite kezar_how_2018 %}: Understanding, Leading, and Enacting Change
+
+-   Deming, to read:
+    -   {% cite hughey_application_2000 %}:
+    -   {% cite stensaasen_application_1995 %}:
+    -   {% cite temponi_continuous_2005 %}: 
 
 ### Build a Guiding Coalition
 
@@ -101,7 +117,18 @@ The team holds strategic planning sessions to explore and identify roles and res
 
 A collaborative approach is useful, where stakeholders share a language, mutual understanding and trust to achieve learning outcomes {% cite fleming_successful_2018 %} {% cite henderson_strengthening_2017 %} {% cite lauer_change_2021 %}.
 
-Employers play a central role in assessing student success while learning in the workplace. Consequently, employers and faculty need to employ a collaborative approach to ensure students have attained requisite learning outcomes through a rigorous, coordinated assessment process {% cite henderson_strengthening_2017 %} 
+Employers play a central role in assessing student success while learning in the workplace. Consequently, employers and faculty need to employ a collaborative approach to ensure students have attained requisite learning outcomes through a rigorous, coordinated assessment process {% cite henderson_strengthening_2017 %}
+
+- Story telling:
+    -   {% cite sundin_rethinking_2018 %}
+    -   {% cite franz_extension_2016 %}
+    -   {% cite andrews_telling_2018 %}
+-   {% cite schaub_failure_2018 %}: Building a successful team
+-   Challenges about getting engagement for the change process. How leaders can overcome resistance {% cite drew_issues_2010 %}.
+-   collective decision-making, {% cite henderson_strengthening_2017 %}
+-   {% cite henderson_strengthening_2017 %} outlines the details about the roles of each stakeholder for WIL. It also lists the contributions of each stakeholder.
+-   This article explores the argument that a potentially significant reason for failure of change efforts is a lack of alignment between the value system of the change intervention and of those members of an organization undergoing the change. {% cite burnes_success_2011 %}
+{% cite ansell_collaborative_2008 %}: Collaborative Governance in Theory and Practice  
 
 -   Leadership expertise requires experience and refinement [Patton](./bibliography/patton_many_2021.html)
 
@@ -119,13 +146,68 @@ Integrating the Prosci ADKAR (Awareness, Desire, Knowledge, Ability, Reinforceme
 
 The Plan phase incorporate ADKAR's Awareness and Desire elements to ensure stakeholders understand why change is needed and want to participate. The Do phase applies ADKAR's Knowledge and Ability components to ensure people have the information and skills needed to implement the planned changes. The Study phase evaluates both process outcomes and individual adoption, identifying barriers in each individual's change journey. Finally, the Act Phase uses ADKAR's Reinforcement strategies to sustain changes while making necessary adjustments to the overall approach.
 
+
+To read:
+-   {% cite peus_leading_2009 %}: Lots of content about resistance to change here.
+-   {% cite peus_leading_2009 %}: The article discusses the variables that have been identified as success factors for organizational change initiatives. These include individual difference variables and objective characteristics of the changes, but in particular aspects of the implementation, such as fairness and trust, adequate communication strategies, leadership, and participation.
+-   {% cite lester_work-integrated_2016  %}
+-   [Failure of leadership](./bibliography/kunert_failure_2018-1.html)
+-   [Failure of organizational change](./bibliography/burnes_success_2011.html)
+-   Why transformation fails [Kotter](./bibliography/kotter_leading_2007.html)
+-   Leaders navigate competing tensions, maintain academic quality, and manage both fiscal and human resources in institutions that often have decentralized leadership. [Drew](./bibliography/drew_issues_2010.html)
+-   [Conner](./bibliography/conner_committing_1992.html): *Committing to Change* addresses stages of commitment.
+-   [Lauer's book](./bibliography/lauer_change_2021.html) on change management
+-   Leading change in HE [Herman & Loewenstein](./bibliography/herman_evidencebased_2017.html)
+-   {% cite rousseau_evidence-based_2022 %}: Four sources of evidence
+-   {% cite barends_evidence-based_2014 %}: Sources of evidence
+
+
 <h2 class="center-text">Theme #2: Sustained, Inclusive Stakeholder Engagement</h2>
 
 ...
 
+Compatibility, commitment, and communications are critical success factors for sustainable relationships {% cite fleming_successful_2018 %}.
+
+Employers are unlikely to host a student if their experience is not a positive one. Likewise, the college is not going to partner with an employer that has not offered a quality learning environment. This is an issue of compatibility. {% cite fleming_successful_2018 %}.
+
+-   {% cite kezar_redesigning_2006 %} talks about *integrating structures* for collaboration, which means building structures that support collaboration. This can include communications platforms allowing stakeholders to communicate with as little friction as possible. It's about integrating infrastructures between stakeholders.
+-   {% cite grashow_practice_nodate %}: Not sure about this one. it's a section of a book. I may need to go look for the book chapters if there's anything of use.
+-   {% cite ferns_engaging_2021 %}
+    -   Curriculum co-creation makes it more engaging to diverse students
+    -   Addresses many good points about resistance and obstacles to employer participation.
+-   Employers are more inclined to advance discussions and make the required commitments to supervision, evaluation, and feedback in order to ensure high-quality student outcomes if they see the possible advantages and benefits {% cite henderson_strengthening_2017 %}.
+-   Part of engaging employers as WIL participants is to prepare their staff to be educators in the workplace {% cite henderson_strengthening_2017 %}.
+-   {% cite ferns_enhancing_2016 %}: Engaging employers
+-   {% cite wait_multi-stakeholder_2016 %}: Multi-stakeholder work integrated learning model for higher education
+-   {% cite jackson_employer_2017 %}: Employer understanding of Work-Integrated Learning and the challenges of engaging in work placement opportunities
+
+
 <h2 class="center-text">Theme #3: Resource Allocation</h2>
 
 ...
+
+{% cite kezar_redesigning_2006 %} addresses offering rewards to socialize new faculty to an alternative approach to faculty work and to attract people to the campus who want to conduct collaborative work. In other words, offer a carrot. 
+
+An sufficient allocation of resources is an indication of commitment to the WIL endeavour {% cite fleming_successful_2018 %}.
+
+-   {% cite dean_resourcing_2023 %}
+-   {% cite bates_work-integrated_2011 %}
+-   {% cite brimble_will_2010 %}
+-   {% cite clayton_australias_2019 %}
+-   {% cite lester_work-integrated_2016  %}: Funding-backed policy is critical to the development of WIL activities.
+-   {% cite rook_challenges_2017 %}
+-   {% cite weisz_critical_2005 %}
+
+### Stakeholder Resistance
+
+#### Fear
+
+#### Risks
+
+Risks to stakeholders:
+-   {% cite effeney_risk_2020 %} p.5
+-   {% cite cameron_strategic_2017 %}
+
 
 ## Discussion
 
