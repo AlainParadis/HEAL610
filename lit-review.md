@@ -93,10 +93,39 @@ A collaborative approach may present challenges HEI work in departmental silos t
 
 If all stakeholders share the values of a student-centred, innovative, and egalitarian approach to the change process, collaboration should happen more naturally {% cite kezar_redesigning_2006 %}.
 
-Talks about building a coalition, p.15, {% cite kezar_redesigning_2006 %}
+### Build a Guiding Coalition
+
+Collaborative leadership serves as the foundation for driving this change initiative. The approach involves forming a guiding coalition, a WIL team, consisting of faculty members, students, industry partners, and college administrators. This coalition is composed of individuals with enough authority and influence to lead the change process. They spur stakeholders to work together, to implement needed strategies, and to oversee them during implementation {% cite kezar_redesigning_2006 %}.
+
+The team holds strategic planning sessions to explore and identify roles and responsibilities of each team member. A vision is formulated, including strategic goals of the team, that are aligned with the end state of embedded WIL in the Graphic Design program curriculum {% cite ferns_driving_2016 %}, {% cite lester_work-integrated_2016  %}.
+
+A collaborative approach is useful, where stakeholders share a language, mutual understanding and trust to achieve learning outcomes {% cite fleming_successful_2018 %} {% cite henderson_strengthening_2017 %} {% cite lauer_change_2021 %}.
+
+Employers play a central role in assessing student success while learning in the workplace. Consequently, employers and faculty need to employ a collaborative approach to ensure students have attained requisite learning outcomes through a rigorous, coordinated assessment process {% cite henderson_strengthening_2017 %} 
+
+-   Leadership expertise requires experience and refinement [Patton](./bibliography/patton_many_2021.html)
+
+### Fostering Readiness for Change 
+
+Then fostering their readiness to undertake the change initiative {% cite chappell_exploring_2016 %}, {% cite conner_committing_1992 %}, {% cite drew_issues_2010 %}, {% cite gelaidan_employee_2018 %}, {% cite janich_facilitator_2016 %}, {% cite radwan_lead_2020 %}. With this shared understanding, each party recognizes the benefits enjoyed by participating {% cite fleming_successful_2018 %}. This builds intrinsic motivation for continued engagement. Absent these robust relationships, distrust can build, resulting in abandonment by some. Creating a strong coalition of stakeholders with clear understanding of the merits of WIL participation ensures ongoing stakeholder engagement. Of the stakeholders, faculty hold a special position as the initiators of WIL activities.
+
+### Challenges
+
+Without continued faculty engagement in WIL activities, its quality and frequency diminish. Stirling {% cite stirling_practical_2024 %} highlights that instructors must educate themselves about their roles as WIL facilitators and design curriculum that connects with workplace practice. This adds to already burdensome workloads, which, if not included in their standard workload formula, is generally met with resistance {% cite sony_barriers_2020 %}. This lack of recognition is remedied by allocating financial and human resources as a matter of course. This ensures the continuation of WIL activities for the long term, weathering changes in faculty and administrative staff.
+
+### Integration of ADKAR & Deming
+
+Integrating the Prosci ADKAR (Awareness, Desire, Knowledge, Ability, Reinforcement) model with Deming's Plan-Do-Study-Act (PDSA) cycle creates a powerful framework for implementing and sustaining the WIL initiative in the program. The two approaches complement each other, with ADKAR providing a people-centred change leadership approach, and Deming's PDSA cycle offering the continuous improvement process.
+
+The Plan phase incorporate ADKAR's Awareness and Desire elements to ensure stakeholders understand why change is needed and want to participate. The Do phase applies ADKAR's Knowledge and Ability components to ensure people have the information and skills needed to implement the planned changes. The Study phase evaluates both process outcomes and individual adoption, identifying barriers in each individual's change journey. Finally, the Act Phase uses ADKAR's Reinforcement strategies to sustain changes while making necessary adjustments to the overall approach.
+
+<h2 class="center-text">Theme #2: Sustained, Inclusive Stakeholder Engagement</h2>
 
 ...
 
+<h2 class="center-text">Theme #3: Resource Allocation</h2>
+
+...
 
 ## Discussion
 
