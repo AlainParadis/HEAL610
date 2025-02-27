@@ -15,6 +15,15 @@ permalink: /
     2.  Make an argument for the importance of your proposed change process
     3.  Substantiate your change plan with evidence.
 
+-   Tie my writing into the Claim Statement.
+
+How am i going to use the content with the stakeholders?
+Apply it to my topic and 
+What does it mean when I'm ready to lead the process?
+What am I going to do with the evidence?
+Missing the synthisis. What does this mean for my change approach?
+Draw an inference of what the evidence means.
+
 <!-- 
 ## Notes
 
