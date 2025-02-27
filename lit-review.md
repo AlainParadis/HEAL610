@@ -8,7 +8,7 @@ In keeping with the mandate of Ontario’s publicly supported colleges to provid
 
 The review examines scholarly works published internationally addressing the challenges of implementing sustained, high-quality WIL in higher education, with a focus on leading and managing change. The scope includes peer-reviewed studies published from 1992 to 2024 analyzing stakeholder engagement barriers, and leadership strategies. This review aims to identify evidence-based practices for embedding WIL as a core pedagogical model while addressing faculty workload constraints and inconsistent industry participation.
 
-The analysis has the following structure: the background and context of the problem of practice, current deficiencies in WIL delivery leadership approaches, and mechanisms for sustaining engagement (...).
+The analysis has the following structure: the background and context of the problem of practice, the importance of WIL, why embedding it is important, the collaborative leadership approach, integration of ADKAR and PDSA, the approach to stakeholder engagement, and resource allocation.
 
 <span class="blue">[claim statement]</span> Embedding Work-Integrated Learning in Algonquin College's Graphic Design program is essential for enhancing student employability, building a strong industry talent pipeline, and maintaining faculty currency. Achieving this requires a collaborative leadership approach, sustained stakeholder engagement, and strategic resource allocation to align WIL initiatives with institutional objectives, address existing inconsistencies, and ensure the program’s long-term success.
 
@@ -32,17 +32,17 @@ Despite its importance, WIL is limited to a single fieldwork component in the fi
 
 ### The Importance of WIL to Each Stakeholder
 
-This insufficient integration fails to meet the demands of both students and industry partners {% cite edwards_integrating_2007 %}. Algonquin College recognizes a wide range of WIL typologies, including field projects, applied research projects, learning enterprises, and more {% cite algonquin_college_of_applied_arts_and_technology_wil_2019 %}, yet there is only one WIL experience at the end of the Program of Study. This delivers too little industry contact, too late in students’ education.
+This insufficient integration fails to meet the demands of both students and industry partners {% cite edwards_integrating_2007 %}. Algonquin College recognizes a wide range of WIL typologies, including field projects, applied research projects, learning enterprises, and more {% cite algonquin_college_of_applied_arts_and_technology_wil_2019 %}, yet there is only one WIL experience at the end of the Graphic Design Program of Study. This delivers too little industry contact, too late in students’ education.
 
 #### Importance to Students
 
 Learners benefit from earlier, consistent, high-quality WIL activities with models that are varied and innovative {% cite abeysekera_issues_2006 %}. A properly prepared aspiring graphic designer has WIL experiences of increasing intensity at all stages of their academic journey. They are exposed to theory then practice in a scaffolded structure progressing throughout the academic curriculum {% cite dean_institutional_2020 %}, {% cite doolan_benefits_2019 %}, {% cite dorland_entrepreneurial_2020 %}, {% cite jackson_employability_2015 %}, {% cite  mabungela_accelerating_2024 %}, {% cite orrell_good_2011 %}. This model builds momentum, making a smoother transition towards the workplace and future career success {% cite doolan_benefits_2019 %}, {% cite kay_emerging_2019 %}, {% cite stirling_practical_2024 %}, {% cite wyonch_class_2023 %} rather than an abrupt intensive experience at the end of their studies.
 
-Additionally, WIL experiences sooner in students' progress through the program support their choice of vocation early-on {% cite freudenberg_its_2008 %}, {% cite sachs_2017_2017 %}. Because WIL helps students clarify their career goals, they can use their experiences to determine if their choice of sector or industry is right for them {% cite billett_realising_2009 %}. It also bolsters their résumés with the addition of their WIL position. They can gain contracts in their field of practice, which can help build a professional network {% cite usher_why_2020 %}, {% cite jackson_impact_2023 %}, {% cite mabungela_accelerating_2024 %}, {% cite provosts_task_force_on_experiential_education_experiential_2017 %}, {% cite ross_developing_2019 %}, {% cite sattler_work-integrated_2011 %}, {% cite sattler_work-integrated_2012 %}.
+Additionally, WIL experiences sooner in students' progress through the program support their choice of vocation early-on {% cite freudenberg_its_2008 %}, {% cite sachs_2017_2017 %}. Because WIL helps students clarify their career goals, they can use their experiences to determine if their choice of sector or industry is right for them {% cite billett_realising_2009 %}, {% cite dorland_entrepreneurial_2020 %}. It also bolsters their résumés with the addition of their WIL position. They can gain contracts in their field of practice, which can help build a professional network {% cite usher_why_2020 %}, {% cite jackson_impact_2023 %}, {% cite mabungela_accelerating_2024 %}, {% cite provosts_task_force_on_experiential_education_experiential_2017 %}, {% cite ross_developing_2019 %}, {% cite sattler_work-integrated_2011 %}, {% cite sattler_work-integrated_2012 %}.
 
 Beyond the disciplinary expertise gained in the course of their regular studies, frequent WIL fosters the timely development of professional skills such as teamwork, communication, and problem-solving {% cite cutean_impact_2023 %}, {% cite crebert_developing_2004 %}, {% cite doolan_benefits_2019 %}, {% cite smith_impact_2014 %}. Finally, WIL plays a central role in supporting the development students' professional identity {% cite trede_role_2012 %}.
 
-In the academic context, students who participate in WIL have a higher GPA than those who do not. They are more satisfied with their programs, are less worried about their studies and experience superior labour market outcomes {% cite drysdale_motivation_2018 jackson_impact_2023 macdonald_realizing_2014 raelin_gendered_2014 parker_differential_2016 purdie_are_2013 raelin_gendered_2014 ramirez_academic_2015 %}
+In the academic context, students who participate in WIL have a higher GPA than those who do not. They are more satisfied with their programs, are less worried about their studies and experience superior labour market outcomes {% cite drysdale_motivation_2018 %},  {% cite jackson_impact_2023 %},  {% cite macdonald_realizing_2014 %}, {% cite raelin_gendered_2014 %}, {% cite parker_differential_2016 %} {% cite purdie_are_2013 %} {% cite raelin_gendered_2014 %} {% cite ramirez_academic_2015 %}
 
 In the professional context, almost half of Ontario’s higher education learners participate in some form of WIL to be better prepared for the workplace {% cite stirling_practical_2024 %}. Research shows that participants in WIL experience superior labour market outcomes, including a higher likelihood of employment and significantly higher incomes {% cite cheng_employability_2022 %}, {% cite wyonch_class_2023 %}.
 
@@ -206,19 +206,16 @@ Risks to stakeholders:
 
 ## Discussion
 
-> Critique and analysis of themes / trends in the literature  
-> Identification of where there might be voices / perspectives missing  
-> Identification of other gaps / anomalies
-> Problems, issues, or questions that arise from the literature review
 
 ## Conclusion
 
-> Summary of why / how the evidence you have reviewed supports your idea for a change management proposal
 
 ---
 
 <h2 class="center-text">Cited References</h2>
 
+<!-- 
 <div class="bibliography-list">
     {% bibliography --cited %}
 </div>
+ -->
