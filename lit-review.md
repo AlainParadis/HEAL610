@@ -95,6 +95,10 @@ If all stakeholders share the values of a student-centred, innovative, and egali
 
 Talks about building a coalition, p.15, {% cite kezar_redesigning_2006 %}
 
+...
+
+<!-- 
+
 ### Co-Design with Students
 
 -   {% cite de_oliveira_how_2023 %}: has a definition and more benefits of collaborative leadership.
@@ -203,6 +207,7 @@ An sufficient allocation of resources is an indication of commitment to the WIL 
 Risks to stakeholders:
 -   {% cite effeney_risk_2020 %} p.5
 -   {% cite cameron_strategic_2017 %}
+ -->
 
 ## Discussion
 
