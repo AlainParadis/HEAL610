@@ -25,13 +25,6 @@ p {
 a { color: var(--apple-blue); }
 a:hover { text-decoration: none; }
 
-nav a
-{
-	font-family: "IBM Plex Mono", serif;
-	font-weight: 700;
-	font-style: normal;
-}
-
 /* Base styles for the container */
 .container
 {
@@ -233,3 +226,64 @@ ul
 
 .PageNavigation .prev { text-align: left; }
 .PageNavigation .next { text-align: right; }
+
+/* Navigation styling */
+nav {
+  width: 100%;
+  padding: 1rem 0;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+  flex-wrap: wrap;
+}
+
+nav li {
+  margin: 0.5rem;
+}
+
+nav a {
+  font-weight: 700;
+  font-style: normal;
+  padding: 0.5rem;
+  display: block;
+  transition: color 0.3s ease;
+}
+
+nav a:hover {
+  color: var(--apple-blue);
+}
+
+
+/* Responsive navigation for smaller screens */
+@media screen and (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  nav li {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #5E5E5E;
+    margin: 0;
+  }
+  
+  nav li:last-child {
+    border-bottom: none;
+  }
+
+/* For very small screens */
+@media screen and (max-width: 480px) {
+  nav {
+    padding: 0.5rem 0;
+  }
+  
+  nav a {
+    padding: 0.75rem 0.5rem;
+  }
+}
