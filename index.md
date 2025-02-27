@@ -8,6 +8,14 @@ permalink: /
 
 [Moodle Assignment](https://moodle.royalroads.ca/moodle/mod/assign/view.php?id=783948)
 
+## Purpose
+
+-   The purpose of your literature review is really threefold:
+    1.  Provide a general overview of work previously done in this area
+    2.  Make an argument for the importance of your proposed change process
+    3.  Substantiate your change plan with evidence.
+
+<!-- 
 ## Notes
 
 -   Should I do a gap analysis to uncover shortcomings in student skills they could learn through WIL {% cite dorland_entrepreneurial_2020 %}
@@ -24,13 +32,6 @@ To read:
 -   Designing inclusive WIL {% cite bowen_examining_2020 %}
 -   Differences in WIL experiences by gender: {% cite paisey_developing_2010 %}
 -   WIL can ensure curriculum aligns with professional practice {% cite bowen_examining_2020 %}
-
-## Purpose
-
--   The purpose of your literature review is really threefold:
-    1.  Provide a general overview of work previously done in this area
-    2.  Make an argument for the importance of your proposed change process
-    3.  Substantiate your change plan with evidence.
     
 ## Standout Authors
 
@@ -105,3 +106,4 @@ To read:
 
 {% cite abeysekera_issues_2006 %}
 
+ -->
