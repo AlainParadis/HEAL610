@@ -8,7 +8,7 @@ source "https://rubygems.org"
 group :jekyll_plugins do
   gem "jekyll-scholar"
 end
-
+gem "uri", ">= 1.0.3"
 gem "jekyll", "~> 4.3.4"
 gem "liquid", "~> 4.0.4"
 gem "jekyll-datapage-generator"
