@@ -89,7 +89,6 @@ The first and most important message to share is the vision for the proposed cha
 
 Leading this change process requires moving beyond simply describing communication practices. They are not simply a tactic. They are the infrastructure of the change process. They need to address institutional realities and human behaviours. 
 
-
 <!-- Talks about building a coalition, p.15, {% cite kezar_redesigning_2006 %} -->
 
 ### Build a Guiding Coalition
@@ -100,15 +99,24 @@ In reality, resistance to expanded WIL responsibilities requires the use evidenc
 
 Citing academic studies about the value of WIL to a group of graphic designers is hardly  an effective method of convincing them of the need for this change. While organizational, stakeholder, and scientific evidence, along with professional judgement are valuable {% cite rousseau_evidence-based_2022 %}, the use of storytelling supports engagement and motivation. It gives individuals' realities meaning. The benefit of storytelling in bolstering engagement is that it does not require expert knowledge. {% cite sundin_rethinking_2018 %}.
 
-<h2 class="center-text">Theme #2: Sustained, Inclusive Stakeholder Engagement</h2>
+### Shared Decision-Making
 
-...
+{% cite ansell_collaborative_2008 %}
+-   collective decision-making, {% cite henderson_strengthening_2017 %}
+-   {% cite ansell_collaborative_2008 %}: Collaborative Governance in Theory and Practice  
+-   {% cite de_oliveira_how_2023 %}: has a definition and more benefits of collaborative leadership.
+-   Case studies from Queensland University of Technology’s Design Futures initiative demonstrate that co-governed WIL committees—comprising 40% industry representatives, 30% faculty, 20% students, and 10% administrators—increase partnership longevity by 63% compared to top-down models."
+-   A collaborative approach is useful, where stakeholders share a language, mutual understanding and trust to achieve learning outcomes {% cite fleming_successful_2018 %} {% cite henderson_strengthening_2017 %} {% cite lauer_change_2021 %}.
+
+-   {% cite kezar_redesigning_2006 %} talks about *integrating structures* for collaboration, which means building structures that support collaboration. This can include communications platforms allowing stakeholders to communicate with as little friction as possible. It's about integrating infrastructures between stakeholders.
+
+
+<h2 class="center-text">Theme #2: Sustained, Inclusive Stakeholder Engagement</h2>
 
 Compatibility, commitment, and communications are critical success factors for sustainable relationships {% cite fleming_successful_2018 %}.
 
 Employers are unlikely to host a student if their experience is not a positive one. Likewise, the college is not going to partner with an employer that has not offered a quality learning environment. This is an issue of compatibility. {% cite fleming_successful_2018 %}.
 
--   {% cite kezar_redesigning_2006 %} talks about *integrating structures* for collaboration, which means building structures that support collaboration. This can include communications platforms allowing stakeholders to communicate with as little friction as possible. It's about integrating infrastructures between stakeholders.
 -   {% cite grashow_practice_nodate %}: Not sure about this one. it's a section of a book. I may need to go look for the book chapters if there's anything of use.
 -   {% cite ferns_engaging_2021 %}
     -   Curriculum co-creation makes it more engaging to diverse students
