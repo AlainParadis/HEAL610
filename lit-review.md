@@ -95,24 +95,6 @@ Leading this change process requires moving beyond simply describing communicati
 
 <!-- Talks about building a coalition, p.15, {% cite kezar_redesigning_2006 %} -->
 
-<!-- 
-### Co-Design with Students
-
--   {% cite de_oliveira_how_2023 %}: has a definition and more benefits of collaborative leadership.
--   Case studies from Queensland University of Technology’s Design Futures initiative demonstrate that co-governed WIL committees—comprising 40% industry representatives, 30% faculty, 20% students, and 10% administrators—increase partnership longevity by 63% compared to top-down models."
-
--   {% cite davis_work_2014 %}
-- Kezar has alot to say about [leading change in HE](https://scholar.google.ca/citations?user=LF9HFAQAAAAJ&hl=en&inst=8545375229648679180&oi=sra)
--   [Peter Gronn](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Peter+Gronn&btnG=&inst=8545375229648679180): Distributed leadership
--   {% cite kezar_change_2013 %}: Encounters with Resistance and Obstacles
--   {% cite kezar_how_2018 %}: Understanding, Leading, and Enacting Change
-
--   Deming, to read:
-    -   {% cite hughey_application_2000 %}:
-    -   {% cite stensaasen_application_1995 %}:
-    -   {% cite temponi_continuous_2005 %}: 
- -->
-
 ### Build a Guiding Coalition
 
 Collaborative leadership serves as the foundation for driving this change initiative. The approach involves forming a guiding coalition, a WIL team, consisting of faculty members, upper-level students capable of articulating experiential learning needs, industry partners invested in talent pipeline development, and college administrators to address institutional barriers. These participants have sufficient authority and influence to lead the change process. They spur stakeholders to work together, to implement needed strategies, and to oversee them during implementation {% cite kezar_redesigning_2006 %}. Kotter's research emphasizes that transformative change cannot be driven solely in a top-down manner. It requires an inclusive team with authority, expertise, and credibility. The coalition's effectiveness hinges on members' perceived legitimacy across stakeholder groups {% cite kotter_leading_2007 %}.
