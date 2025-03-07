@@ -68,6 +68,8 @@ The workload for faculty facilitating WIL is substantial {% cite clark_power_201
 
 Embedding WIL as a learning model in the Program of Study ensures it persists. It also improves quality, notwithstanding institutional changes or budgetary constraints {% cite jackson_embedding_2021 %}. Institutional recognition of WIL as a learning model in the Graphic Design program contributes to its quality {% cite patrick_wil_2008 %}, {% cite rosenbaum_planned_2018 %}. With WIL integrated throughout the Program of Study, the college can measure quality through its institutional key performance indicators such as retention, graduation, and post-graduation sector-specific employment rates {% cite mcrae_work-integrated_2018 %}. These results allow stakeholders to respond with adjustments to WIL practice in a continuous improvement process {% cite deming_pdsa_nodate %}, {% cite bobby_abcs_2014 %}. Formalizing the inclusion of WIL in the Graphic Design program bolsters its quality into the future. This demonstrates a commitment by the college to endorse WIL as part of its vision of experiential learning {% cite fleming_successful_2018 %}.
 
+Embedding WIL in the program comes with certain risks. After having invested considerable time in establishing and nurturing industry relationships, employer agencies can change ownership or close. From the students' perspective, participating in design projects alongside professional graphic designers can cause a certain amount of trepidation. Faculty could face burnout, considering the substantial additional work in facilitating WIL activities.
+
 (Add a transition text to launch into the themes.)
 
 <h2 class="center-text">Theme #1: Collaborative Leadership</h2>
