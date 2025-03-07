@@ -117,22 +117,6 @@ Integrating the Prosci ADKAR (Awareness, Desire, Knowledge, Ability, Reinforceme
 
 The Plan phase incorporate ADKAR's Awareness and Desire elements to ensure stakeholders understand why change is needed and want to participate. The Do phase applies ADKAR's Knowledge and Ability components to ensure people have the information and skills needed to implement the planned changes. The Study phase evaluates both process outcomes and individual adoption, identifying barriers in each individual's change journey. Finally, the Act Phase uses ADKAR's Reinforcement strategies to sustain changes while making necessary adjustments to the overall approach.
 
-
-To read:
--   {% cite peus_leading_2009 %}: Lots of content about resistance to change here.
--   {% cite peus_leading_2009 %}: The article discusses the variables that have been identified as success factors for organizational change initiatives. These include individual difference variables and objective characteristics of the changes, but in particular aspects of the implementation, such as fairness and trust, adequate communication strategies, leadership, and participation.
--   {% cite lester_work-integrated_2016  %}
--   [Failure of leadership](./bibliography/kunert_failure_2018-1.html)
--   [Failure of organizational change](./bibliography/burnes_success_2011.html)
--   Why transformation fails [Kotter](./bibliography/kotter_leading_2007.html)
--   Leaders navigate competing tensions, maintain academic quality, and manage both fiscal and human resources in institutions that often have decentralized leadership. [Drew](./bibliography/drew_issues_2010.html)
--   [Conner](./bibliography/conner_committing_1992.html): *Committing to Change* addresses stages of commitment.
--   [Lauer's book](./bibliography/lauer_change_2021.html) on change management
--   Leading change in HE [Herman & Loewenstein](./bibliography/herman_evidencebased_2017.html)
--   {% cite rousseau_evidence-based_2022 %}: Four sources of evidence
--   {% cite barends_evidence-based_2014 %}: Sources of evidence
-
-
 <h2 class="center-text">Theme #2: Sustained, Inclusive Stakeholder Engagement</h2>
 
 ...
