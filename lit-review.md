@@ -89,6 +89,8 @@ Positive, motivating outcomes result from open communications. Take participant 
 
 The first and most important message to share is the vision for the proposed change {% cite kotter_leading_2007 %}. Having a well articulated vision that is clearly communicated brings stakeholders together with a clear understanding of each others' expectations {% cite cooper_university_2016 %}, {% cite fleming_successful_2018 %}. Re-articulating the vision on a regular basis helps keep everyone on track {% cite kezar_redesigning_2006 %}. Likewise, dissemination of WIL best practices to all stakeholders promotes their use {% cite ferns_driving_2016 %}.
 
+Leading this change process requires moving beyond simply describing communication practices. They're not simply a tactic. They are the infrastructure of the change process. They need to address institutional realities and human behaviours. Adopting a multi-level messaging approach which ranges from broadcast using digital newsletters and LMS announcements, to peer-to-peer dialogue using Slack or Teams mitigates cynicism and formalizes best practices into policy.
+
 <!-- Talks about building a coalition, p.15, {% cite kezar_redesigning_2006 %} -->
 
 ### Co-Design with Students
