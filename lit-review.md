@@ -99,13 +99,10 @@ Leading this change process requires moving beyond simply describing communicati
 
 Collaborative leadership serves as the foundation for driving this change initiative. The approach involves forming a guiding coalition, a WIL team, consisting of faculty members, upper-level students capable of articulating experiential learning needs, industry partners invested in talent pipeline development, and college administrators to address institutional barriers. These participants have sufficient authority and influence to lead the change process. They spur stakeholders to work together, to implement needed strategies, and to oversee them during implementation {% cite kezar_redesigning_2006 %}. Kotter's research emphasizes that transformative change cannot be driven solely in a top-down manner. It requires an inclusive team with authority, expertise, and credibility. The coalition's effectiveness hinges on members' perceived legitimacy across stakeholder groups {% cite kotter_leading_2007 %}.
 
-In reality, resistance to expanded WIL responsibilities requires the coalition to use evidence-based persuasion techniques. For instance, by comparing WIL's higher graduate employment rates {% cite cheng_employability_2022 %} with current student knowledge gaps, the coalition can create an analytical and an emotional appeal {% cite kotter_leading_2012 %}.
+In reality, resistance to expanded WIL responsibilities requires the use evidence-based persuasion techniques. For instance, comparing WIL's higher graduate employment rates {% cite cheng_employability_2022 %} with current student knowledge gaps can create a persuasive analytical and emotional appeal {% cite kotter_leading_2012 %}.
 
-#### Storytelling
+Citing academic studies about the value of WIL to a group of graphic designers is hardly  an effective method of convincing them of the need for this change. While organizational, stakeholder, and scientific evidence, along with professional judgement are valuable {% cite rousseau_evidence-based_2022 %}, the use of storytelling supports engagement and motivation. It gives individuals' realities meaning. The benefit of storytelling in bolstering engagement is that it does not require expert knowledge. {% cite sundin_rethinking_2018 %}.
 
-Storytelling makes individuals' realities meaning. It can motivate and engage stakeholders. The benefit of storytelling in bolstering engagement is that it does not require expert knowledge. {% cite sundin_rethinking_2018 %}.
-
--   ~~{% cite andrews_telling_2018 %}~~
 -   {% cite badke-schaub_failure_2018 %}: Building a successful team
 -   Challenges about getting engagement for the change process. How leaders can overcome resistance {% cite drew_issues_2010 %}.
 -   collective decision-making, {% cite henderson_strengthening_2017 %}
