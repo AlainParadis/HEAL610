@@ -103,15 +103,6 @@ In reality, resistance to expanded WIL responsibilities requires the use evidenc
 
 Citing academic studies about the value of WIL to a group of graphic designers is hardly  an effective method of convincing them of the need for this change. While organizational, stakeholder, and scientific evidence, along with professional judgement are valuable {% cite rousseau_evidence-based_2022 %}, the use of storytelling supports engagement and motivation. It gives individuals' realities meaning. The benefit of storytelling in bolstering engagement is that it does not require expert knowledge. {% cite sundin_rethinking_2018 %}.
 
--   {% cite badke-schaub_failure_2018 %}: Building a successful team
--   Challenges about getting engagement for the change process. How leaders can overcome resistance {% cite drew_issues_2010 %}.
--   collective decision-making, {% cite henderson_strengthening_2017 %}
--   {% cite henderson_strengthening_2017 %} outlines the details about the roles of each stakeholder for WIL. It also lists the contributions of each stakeholder.
--   This article explores the argument that a potentially significant reason for failure of change efforts is a lack of alignment between the value system of the change intervention and of those members of an organization undergoing the change. {% cite burnes_success_2011 %}
-{% cite ansell_collaborative_2008 %}: Collaborative Governance in Theory and Practice  
-
--   Leadership expertise requires experience and refinement [Patton](./bibliography/patton_many_2021.html)
-
 ### Fostering Readiness for Change 
 
 Then fostering their readiness to undertake the change initiative {% cite chappell_exploring_2016 %}, {% cite conner_committing_1992 %}, {% cite drew_issues_2010 %}, {% cite gelaidan_employee_2018 %}, {% cite janich_facilitator_2016 %}, {% cite radwan_lead_2020 %}. With this shared understanding, each party recognizes the benefits enjoyed by participating {% cite fleming_successful_2018 %}. This builds intrinsic motivation for continued engagement. Absent these robust relationships, distrust can build, resulting in abandonment by some. Creating a strong coalition of stakeholders with clear understanding of the merits of WIL participation ensures ongoing stakeholder engagement. Of the stakeholders, faculty hold a special position as the initiators of WIL activities.
