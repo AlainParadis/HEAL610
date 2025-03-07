@@ -93,6 +93,7 @@ Leading this change process requires moving beyond simply describing communicati
 
 <!-- Talks about building a coalition, p.15, {% cite kezar_redesigning_2006 %} -->
 
+<!-- 
 ### Co-Design with Students
 
 -   {% cite de_oliveira_how_2023 %}: has a definition and more benefits of collaborative leadership.
@@ -108,6 +109,7 @@ Leading this change process requires moving beyond simply describing communicati
     -   {% cite hughey_application_2000 %}:
     -   {% cite stensaasen_application_1995 %}:
     -   {% cite temponi_continuous_2005 %}: 
+ -->
 
 ### Build a Guiding Coalition
 
