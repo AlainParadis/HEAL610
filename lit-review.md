@@ -131,7 +131,7 @@ Employers play a central role in assessing student success while learning in the
 
 Storytelling makes individuals' realities meaning. It can motivate and engage stakeholders. The benefit of storytelling in bolstering engagement is that it does not require expert knowledge. {% cite sundin_rethinking_2018 %}.
 
--   {% cite andrews_telling_2018 %}
+-   ~~{% cite andrews_telling_2018 %}~~
 -   {% cite badke-schaub_failure_2018 %}: Building a successful team
 -   Challenges about getting engagement for the change process. How leaders can overcome resistance {% cite drew_issues_2010 %}.
 -   collective decision-making, {% cite henderson_strengthening_2017 %}
