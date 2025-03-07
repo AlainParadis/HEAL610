@@ -67,13 +67,13 @@ Embedding WIL as a learning model in the Program of Study ensures it persists. I
 
 Embedding WIL in the program comes with certain risks. After having invested considerable time in establishing and nurturing industry relationships, employer agencies can change ownership or close. From the students' perspective, participating in design projects alongside professional graphic designers can cause a certain amount of trepidation. Faculty could face burnout, considering the substantial additional work in facilitating WIL activities. Proving return-on-investment data to secure ongoing institutional support needs to be addressed.
 
-(Add a transition text to launch into the themes.)
+[Add a transition text to launch into the themes.]
 
 <h2 class="center-text">Theme #1: Collaborative Leadership</h2>
 
 “*Excellence occurs in the company of others.*”, Hannah Arendt
 
-Wood and Gray {% cite wood_toward_1991 %} have formulated a definition of collaborative leadership that aligns well with the desired leadership approach for this change process: “Collaboration occurs when a group of autonomous stakeholders of a problem domain engage in an interactive process, using shared rules, norms, and structures to act or decide on issues related to that domain” (p. 143) The central idea of using collaborative leadership is to bring together stakeholders to participate in planning and decision-making, giving input and agency to everyone involved, including students. Collaboration comes with its own intrinsic rewards, like meeting new individuals inside and outside the college, and accomplishing goals an individual alone could not attain {% cite kezar_redesigning_2006 %}.
+Wood and Gray {% cite wood_toward_1991 %} have formulated a definition of collaborative leadership that aligns well with the desired leadership approach for this change process: “Collaboration occurs when a group of autonomous stakeholders of a problem domain engage in an interactive process, using shared rules, norms, and structures to act or decide on issues related to that domain” (p. 143) The motivator for using collaborative leadership for this change initiative is to bring together stakeholders to participate in planning and decision-making, giving input and agency to everyone involved, including students. Collaboration comes with its own intrinsic rewards, like meeting new individuals inside and outside the college, and accomplishing goals an individual alone could not attain {% cite kezar_redesigning_2006 %}.
 
 However, there is a gap between the idealized definition of collaboration by Wood & Gray and experiences in the Graphic Design program. The definition may conflict with the college's bureaucratic structures. If WIL is currently organized in a siloed manner rather than collaboratively, there's a risk that participation is compartmentalized by role, requiring existing leadership models to adapt from a top-down to an egalitarian approach. If all stakeholders share the values of a student-centred, innovative, and egalitarian approach to the change process, collaboration should happen more naturally {% cite kezar_redesigning_2006 %}.
 
