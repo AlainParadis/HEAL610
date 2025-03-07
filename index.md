@@ -27,6 +27,35 @@ Draw an inference of what the evidence means.
 <!-- 
 ## Notes
 
+-   {% cite badke-schaub_failure_2018 %}: Building a successful team
+-   Challenges about getting engagement for the change process. How leaders can overcome resistance {% cite drew_issues_2010 %}.
+-   collective decision-making, {% cite henderson_strengthening_2017 %}
+-   {% cite henderson_strengthening_2017 %} outlines the details about the roles of each stakeholder for WIL. It also lists the contributions of each stakeholder.
+-   This article explores the argument that a potentially significant reason for failure of change efforts is a lack of alignment between the value system of the change intervention and of those members of an organization undergoing the change. {% cite burnes_success_2011 %}
+{% cite ansell_collaborative_2008 %}: Collaborative Governance in Theory and Practice  
+
+-   Leadership expertise requires experience and refinement [Patton](./bibliography/patton_many_2021.html)
+
+### Co-Design with Students
+
+-   {% cite de_oliveira_how_2023 %}: has a definition and more benefits of collaborative leadership.
+-   Case studies from Queensland University of Technology’s Design Futures initiative demonstrate that co-governed WIL committees—comprising 40% industry representatives, 30% faculty, 20% students, and 10% administrators—increase partnership longevity by 63% compared to top-down models."
+
+-   {% cite davis_work_2014 %}
+- Kezar has alot to say about [leading change in HE](https://scholar.google.ca/citations?user=LF9HFAQAAAAJ&hl=en&inst=8545375229648679180&oi=sra)
+-   [Peter Gronn](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Peter+Gronn&btnG=&inst=8545375229648679180): Distributed leadership
+-   {% cite kezar_change_2013 %}: Encounters with Resistance and Obstacles
+-   {% cite kezar_how_2018 %}: Understanding, Leading, and Enacting Change
+
+-   Deming, to read:
+    -   {% cite hughey_application_2000 %}:
+    -   {% cite stensaasen_application_1995 %}:
+    -   {% cite temponi_continuous_2005 %}: 
+
+-   The team holds strategic planning sessions to explore and identify roles and responsibilities of each team member. A vision is formulated, including strategic goals of the team, that are aligned with the end state of embedded WIL in the Graphic Design program curriculum {% cite ferns_driving_2016 %}, {% cite lester_work-integrated_2016  %}.
+-   A collaborative approach is useful, where stakeholders share a language, mutual understanding and trust to achieve learning outcomes {% cite fleming_successful_2018 %} {% cite henderson_strengthening_2017 %} {% cite lauer_change_2021 %}.
+-   Employers play a central role in assessing student success while learning in the workplace. Consequently, employers and faculty need to employ a collaborative approach to ensure students have attained requisite learning outcomes through a rigorous, coordinated assessment process {% cite henderson_strengthening_2017 %}
+-   Leading this change process requires moving beyond simply describing communication practices. They're not simply a tactic. They are the infrastructure of the change process. They need to address institutional realities and human behaviours. Adopting a multi-level messaging approach which ranges from broadcast using digital newsletters and LMS announcements, to peer-to-peer dialogue using Slack or Teams mitigates cynicism and formalizes best practices into policy.
 -   Should I do a gap analysis to uncover shortcomings in student skills they could learn through WIL {% cite dorland_entrepreneurial_2020 %}
 -   Arguing the value of embedding WIL.
 -   I should be stating that I limited my research. The formats, etc...
