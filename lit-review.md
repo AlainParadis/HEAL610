@@ -100,12 +100,6 @@ In reality, resistance to expanded WIL responsibilities requires the use evidenc
 
 Citing academic studies about the value of WIL to a group of graphic designers is hardly  an effective method of convincing them of the need for this change. While organizational, stakeholder, and scientific evidence, along with professional judgement are valuable {% cite rousseau_evidence-based_2022 %}, the use of storytelling supports engagement and motivation. It gives individuals' realities meaning. The benefit of storytelling in bolstering engagement is that it does not require expert knowledge. {% cite sundin_rethinking_2018 %}.
 
-### Integration of PDSA
-
-Integrating the Prosci ADKAR (Awareness, Desire, Knowledge, Ability, Reinforcement) model with Deming's Plan-Do-Study-Act (PDSA) cycle creates a powerful framework for implementing and sustaining the WIL initiative in the program. The two approaches complement each other, with ADKAR providing a people-centred change leadership approach, and Deming's PDSA cycle offering the continuous improvement process.
-
-The Plan phase incorporate ADKAR's Awareness and Desire elements to ensure stakeholders understand why change is needed and want to participate. The Do phase applies ADKAR's Knowledge and Ability components to ensure people have the information and skills needed to implement the planned changes. The Study phase evaluates both process outcomes and individual adoption, identifying barriers in each individual's change journey. Finally, the Act Phase uses ADKAR's Reinforcement strategies to sustain changes while making necessary adjustments to the overall approach.
-
 <h2 class="center-text">Theme #2: Sustained, Inclusive Stakeholder Engagement</h2>
 
 ...
