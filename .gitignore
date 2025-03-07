@@ -14,4 +14,5 @@ _site/
 .bundle/
 vendor/
 .DS_Store
-index.md
+
+notes.md
