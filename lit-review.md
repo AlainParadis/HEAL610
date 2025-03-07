@@ -119,14 +119,6 @@ Collaborative leadership serves as the foundation for driving this change initia
 
 In reality, resistance to expanded WIL responsibilities requires the coalition to use evidence-based persuasion techniques. For instance, by comparing WIL's higher graduate employment rates {% cite cheng_employability_2022 %} with current student knowledge gaps, the coalition can create an analytical and an emotional appeal {% cite kotter_leading_2012 %}.
 
-<!-- 
-The team holds strategic planning sessions to explore and identify roles and responsibilities of each team member. A vision is formulated, including strategic goals of the team, that are aligned with the end state of embedded WIL in the Graphic Design program curriculum {% cite ferns_driving_2016 %}, {% cite lester_work-integrated_2016  %}.
-
-A collaborative approach is useful, where stakeholders share a language, mutual understanding and trust to achieve learning outcomes {% cite fleming_successful_2018 %} {% cite henderson_strengthening_2017 %} {% cite lauer_change_2021 %}.
-
-Employers play a central role in assessing student success while learning in the workplace. Consequently, employers and faculty need to employ a collaborative approach to ensure students have attained requisite learning outcomes through a rigorous, coordinated assessment process {% cite henderson_strengthening_2017 %}
- -->
-
 #### Storytelling
 
 Storytelling makes individuals' realities meaning. It can motivate and engage stakeholders. The benefit of storytelling in bolstering engagement is that it does not require expert knowledge. {% cite sundin_rethinking_2018 %}.
