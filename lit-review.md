@@ -127,11 +127,12 @@ A collaborative approach is useful, where stakeholders share a language, mutual 
 Employers play a central role in assessing student success while learning in the workplace. Consequently, employers and faculty need to employ a collaborative approach to ensure students have attained requisite learning outcomes through a rigorous, coordinated assessment process {% cite henderson_strengthening_2017 %}
  -->
 
-- Story telling:
-    -   {% cite sundin_rethinking_2018 %}
-    -   {% cite franz_extension_2016 %}
-    -   {% cite andrews_telling_2018 %}
--   {% cite schaub_failure_2018 %}: Building a successful team
+#### Storytelling
+
+Storytelling makes individuals' realities meaning. It can motivate and engage stakeholders. The benefit of storytelling in bolstering engagement is that it does not require expert knowledge. {% cite sundin_rethinking_2018 %}.
+
+-   {% cite andrews_telling_2018 %}
+-   {% cite badke-schaub_failure_2018 %}: Building a successful team
 -   Challenges about getting engagement for the change process. How leaders can overcome resistance {% cite drew_issues_2010 %}.
 -   collective decision-making, {% cite henderson_strengthening_2017 %}
 -   {% cite henderson_strengthening_2017 %} outlines the details about the roles of each stakeholder for WIL. It also lists the contributions of each stakeholder.
