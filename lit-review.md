@@ -113,13 +113,19 @@ Leading this change process requires moving beyond simply describing communicati
 
 ### Build a Guiding Coalition
 
-Collaborative leadership serves as the foundation for driving this change initiative. The approach involves forming a guiding coalition, a WIL team, consisting of faculty members, students, industry partners, and college administrators. This coalition is composed of individuals with enough authority and influence to lead the change process. They spur stakeholders to work together, to implement needed strategies, and to oversee them during implementation {% cite kezar_redesigning_2006 %}.
+Collaborative leadership serves as the foundation for driving this change initiative. The approach involves forming a guiding coalition, a WIL team, consisting of faculty members, upper-level students capable of articulating experiential learning needs, industry partners invested in talent pipeline development, and college administrators to address institutional barriers. This coalition is composed of individuals with enough authority and influence to lead the change process. They spur stakeholders to work together, to implement needed strategies, and to oversee them during implementation {% cite kezar_redesigning_2006 %}.
 
+Kotter's research emphasizes that transformative change cannot be driven solely in a top-down manner. It requires an inclusive team with authority, expertise, and credibility. The coalition's effectiveness hinges on members' perceived legitimacy across stakeholder groups {% cite kotter_leading_2007 %}.
+
+Initial resistance to expanded WIL responsibilities requires the coalition to use evidence-based persuasion techniques. For instance, by comparing WIL's higher graduate employment rates {% cite cheng_employability_2022 %} with current student knowledge gaps, the coalition can create an analytical and an emotional appeal {% cite kotter_leading_2012 %}.
+
+<!-- 
 The team holds strategic planning sessions to explore and identify roles and responsibilities of each team member. A vision is formulated, including strategic goals of the team, that are aligned with the end state of embedded WIL in the Graphic Design program curriculum {% cite ferns_driving_2016 %}, {% cite lester_work-integrated_2016  %}.
 
 A collaborative approach is useful, where stakeholders share a language, mutual understanding and trust to achieve learning outcomes {% cite fleming_successful_2018 %} {% cite henderson_strengthening_2017 %} {% cite lauer_change_2021 %}.
 
 Employers play a central role in assessing student success while learning in the workplace. Consequently, employers and faculty need to employ a collaborative approach to ensure students have attained requisite learning outcomes through a rigorous, coordinated assessment process {% cite henderson_strengthening_2017 %}
+ -->
 
 - Story telling:
     -   {% cite sundin_rethinking_2018 %}
