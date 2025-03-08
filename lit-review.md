@@ -8,7 +8,7 @@ In keeping with the mandate of Ontario’s publicly supported colleges to provid
 
 The review examines scholarly works published internationally addressing the challenges of implementing sustained, high-quality WIL in higher education, with a focus on leading and managing change. The scope includes peer-reviewed studies published from 1992 to 2024 analyzing stakeholder engagement barriers, and leadership strategies. There is an emphasis on Canadian content, accompanied by many sources from Australia. This review aims to identify evidence-based practices for embedding WIL as a core pedagogical model while addressing faculty workload constraints and inconsistent industry participation.
 
-The analysis has the following structure: the background and context of the problem of practice, the importance of WIL, why embedding it is important, the collaborative leadership approach, integration of PDSA, the approach to stakeholder engagement.
+The analysis has the following structure: the background and context of the problem of practice; the importance of WIL; why embedding it is important; the collaborative leadership approach; sustained, inclusive stakeholder engagement; discussion and conclusion.
 
 <span class="blue">[claim statement]</span> Embedding Work-Integrated Learning in Algonquin College's Graphic Design program is essential for enhancing student employability, building a strong industry talent pipeline, and maintaining faculty currency. Achieving this requires a collaborative leadership approach and sustained stakeholder engagement to align WIL initiatives with institutional objectives, address existing inconsistencies, and ensure the program’s long-term success.
 
@@ -120,17 +120,6 @@ Research demonstrates that removing structural barriers significantly improves a
 Effective support strategies include personalized coaching, specialized pre-employment training focused on self-advocacy and disclosure strategies, and flexible work structures {% cite lamper_accessible_2024 %}. Additionally, engaging industry partners in equity discussions and developing formal EDI policies rather than case-by-case approaches is essential for creating inclusive workplace environments {% cite itano-boase_exploring_2021 %}, {% cite tunny_future_2022 %}.
 
 The evidence suggests that truly inclusive WIL requires removing arbitrary requirements, providing specialized support throughout the WIL process, engaging industry partners in creating inclusive workplaces, and advocating for policy reforms to expand eligibility criteria for government funding programs {% cite itano-boase_exploring_2021 %}, {% cite tunny_future_2022 %}{% cite lamper_accessible_2024 %}.
-
----
-
-Doing so is crucial because it minimizes resistance. It aligns the change initiative with the organization’s identity. Ignoring these factors can lead to disengagement, as stakeholders may bristle at changes that conflict with the organization’s cultural values.
-
--   {% cite lester_work-integrated_2016 %} has a lot of on barriers to engagement on p.17.
--   {% cite ruskin_engaging_2021 %}
-    -   Addresses many good points about resistance and obstacles to employer participation.
--   Employers are more inclined to advance discussions and make the required commitments to supervision, evaluation, and feedback in order to ensure high-quality student outcomes if they see the possible advantages and benefits {% cite henderson_strengthening_2017 %}.
--   {% cite jackson_employer_2017 %}: Employer understanding of Work-Integrated Learning and the challenges of engaging in work placement opportunities
-
 
 ## Discussion
 
