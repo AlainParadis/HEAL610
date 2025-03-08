@@ -110,6 +110,11 @@ Sustained engagement ensures that WIL initiatives evolve beyond ad hoc activitie
 
 An inclusive approach to engagement has all stakeholders co-creating WIL experiences. Aligning expectations requires participants to build trust and a shared vision through transparent communication {% cite fleming_successful_2018 %}. Inclusive engagement has students as co-creators rather than passive recipients of the curriculum. This fosters ownership of their learning and bridges the gap between school assignments and professional projects {% cite ruskin_engaging_2021 %}. Furthermore, respectful treatment and fair processes encourage stakeholder participation, leading to more effective and sustainable change. Such practices prevent alienation and enhance motivation, ultimately supporting the success of the change initiative {% cite herman_evidencebased_2017 %}.
 
+DEI WIL
+-   {% cite chatoor_student_2023 %}
+-   {% cite lamper_accessible_2024 %}
+-   {% cite tunny_future_2022 %}
+
 An organizational change initiative cannot happen in a vacuum. It is more likely to proceed with less friction if the organization’s existing ethos, values and norms are understood and integrated into the change process {% cite mueller_best_2016 %}. Doing so is crucial because it minimizes resistance. It aligns the change initiative with the organization’s identity. Ignoring these factors can lead to disengagement, as stakeholders may bristle at changes that conflict with the organization’s cultural values.
 
 For WIL engagement to be effective, it must be beneficial to all participants {% cite ferns_driving_2016 %}. Employers are unlikely to host a student if their experience is not a positive one. Likewise, the college is not going to partner with an employer that has not offered a quality learning environment. This is an issue of compatibility. {% cite fleming_successful_2018 %}.
