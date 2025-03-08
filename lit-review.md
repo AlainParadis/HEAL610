@@ -28,6 +28,8 @@ Though definitions of WIL vary broadly in the literature, Work-Integrated Learni
 
 In recent years, WIL's acceptance as a valued learning model has grown, as has its provision in higher education {% cite chatoor_student_2023 %}, {% cite jackson_embedding_2021 %}, {% cite smigiel_managing_2015 %}, {% cite tunny_future_2022 %}, {% cite ross_developing_2019 %}. WIL is particularly relevant in collaborative fields {% cite tezcan_scaffolded_2020 %}, {% cite smith_impact_2014 %} such as graphic design, where mentorship and professional engagement play pivotal roles in shaping students’ skills and career readiness {% cite cutean_impact_2023 %}, {% cite mcrae_work-integrated_2018 %}, {% cite smith_impact_2014 %}.
 
+Here, Deming's PDSA cycle offers a structured approach to phased WIL integration across semesters. The Plan phase maps incremental workplace skill development against existing curriculum. The Do stage might implement in-class industry projects before scaling to full fieldwork in third year. This aligns with evidence that scaffolded WIL yields higher graduation rates compared to the current single-fieldwork model.
+
 The Graphic Design program is six semesters long, running in the fall and winter semesters. Despite its importance, WIL is limited to a single fieldwork component in the final semester {% cite  algonquin_college_of_applied_arts_and_technology_graphic_2024 %}. During five of the six semesters students participate in no WIL activities at all. As for the present state of program-industry relations, the faculty have their own expansive professional networks, but the program itself does little official outreach to the region's employers to communicate the value of WIL. Inclusion of stakeholder perspectives in the curriculum design is almost non-existent. Faculty participation in WIL is minimal.
 
 ### The Importance of WIL to Each Stakeholder
@@ -64,6 +66,14 @@ The reality on the ground is that the workload for faculty facilitating WIL is s
 Embedding WIL as a learning model in the Program of Study ensures it persists. It also improves quality, notwithstanding institutional changes or budgetary constraints {% cite jackson_embedding_2021 %}. Institutional recognition of WIL as a learning model in the Graphic Design program contributes to its quality {% cite patrick_wil_2008 %}, {% cite rosenbaum_planned_2018 %}. With WIL integrated throughout the Program of Study, the college can measure quality through its institutional key performance indicators such as retention, graduation, and post-graduation sector-specific employment rates {% cite mcrae_work-integrated_2018 %}. These results allow stakeholders to respond with adjustments to WIL practice in a continuous improvement process {% cite deming_pdsa_nodate %}, {% cite bobby_abcs_2014 %}. Formalizing the inclusion of WIL in the Graphic Design program bolsters its quality into the future. This demonstrates a commitment by the college to endorse WIL as part of its vision of experiential learning {% cite fleming_successful_2018 %}.
 
 Embedding WIL in the program comes with certain risks. After having invested considerable time in establishing and nurturing industry relationships, employer agencies can change ownership or close. From the students' perspective, participating in design projects alongside professional graphic designers can cause a certain amount of trepidation. Faculty could face burnout, considering the substantial additional work in facilitating WIL activities. Proving return-on-investment data to secure ongoing institutional support needs to be addressed.
+
+#### An Iterative Approach to Change
+
+By analyzing iterative improvement methods, collaborative leadership, and inclusive partnership models, this review demonstrates how scaffolded WIL experiences enhance employability while addressing systemic inequities.
+
+Embedding WIL as a learning model in the Graphic Design program represents a critical strategy for aligning educational outcomes with industry demands. 
+
+The establishment of WIL oversight using PDSA milestones supported by PDSA training for stakeholders. Faculty uses data-driven curriculum adjustment. Employers provide constructive student feedback. Students use reflective practice strategies.
 
 [Add a transition text to launch into the themes.]
 
