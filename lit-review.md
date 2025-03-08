@@ -51,9 +51,6 @@ Employers play a crucial role in WIL initiatives. By participating, they also be
 
 The region's employers have challenges all their own, financial, workload and staffing constraints being chief among them. Furthermore, they may be faced with more bureaucratic, inflexible and time-consuming institutional processes than they are used to when dealing with the college. The Graphic Design program is primarily concerned with the curriculum rather than relevance to practice. The college also has its own culture and language which may not be particularly intelligible to an outsider {% cite lester_work-integrated_2016 %} Employers also need to manage student and college expectations as to placement duration, and the type of projects they undertake while at work. Student quality is also an unpredictable factor for employers {% cite clayton_australias_2019 %}, {% cite jackson_employer_2017 %}, {% cite sattler_work-integrated_2011 %}.
 
-A common complaint reported from employers' perspectives is that they perceive institutions as bureaucratic and slow, inflexible, not understanding the needs and timetables of business, concerned with academic curricula and theory-driven teaching rather than relevance to practice, and steeped in their own language, which may differ between institutions and not be particularly precise or intelligible
-
-
 #### Importance to the College
 
 Embedding WIL pays dividends to faculty as it does for the institution as a whole. For Algonquin College, incorporating meaningful experiential learning opportunities keeps students engaged academically, reducing dropout rates {% cite billett_realising_2009 %}, {% cite mcbeath_work-integrated_2018 %}, {% cite parker_differential_2016 %}. A robust WIL program positions the institution as a leader in experiential education, attracting prospective students and industry partners alike {% cite mcrae_work-integrated_2018 %}, {% cite patrick_wil_2008 %}, {% cite sachs_2017_2017 %}, {% cite stirling_practical_2024 %}. Embedded WIL supports the college’s commitment to preparing graduates for the workforce while fulfilling its mandate under the Ontario Colleges of Applied Arts and Technology Act {% cite canlii_ontario_2017 %}. It is a vehicle for facilitating strong partnerships with industry which lead to better engagement and retention rates {% cite ferns_driving_2016 %}, {% cite patrick_wil_2008 %}. Though in the National Capital Region, the college faces the challenge of placing fairly large student cohorts with a finite number of employers. The program is reliant on a limited number of employers that are prepared to host students.
@@ -112,13 +109,15 @@ An inclusive approach to engagement has all stakeholders co-creating WIL experie
 
 For WIL engagement to be effective, it must be beneficial to all participants {% cite ferns_driving_2016 %}. Employers are unlikely to host a student if their experience is not a positive one. Likewise, the college is not going to partner with an employer that has not offered a quality learning environment. This is an issue of compatibility. {% cite fleming_successful_2018 %}.
 
-DEI WIL
--   {% cite bowen_examining_2020 %}
--   {% cite chatoor_student_2023 %}
--   {% cite lamper_accessible_2024 %}
--   {% cite tunny_future_2022 %}
+---
 
-An organizational change initiative cannot happen in a vacuum. It is more likely to proceed with less friction if the organization’s existing ethos, values and norms are understood and integrated into the change process {% cite mueller_best_2016 %}. Doing so is crucial because it minimizes resistance. It aligns the change initiative with the organization’s identity. Ignoring these factors can lead to disengagement, as stakeholders may bristle at changes that conflict with the organization’s cultural values.
+Multiple studies document concerning patterns of underrepresentation and inequitable experiences. Gender-based disparities are particularly pronounced. Students with disabilities face barriers throughout the WIL process, from application (23% versus 13% for students without disabilities) to workplace integration, where they're more likely to feel ignored (27% versus 17%){% cite chatoor_student_2023 %}. Similarly, immigrant students encounter significantly more obstacles at every stage, being 23% more likely to experience barriers during placements {% cite chatoor_student_2023 %}. Not all WIL formats yield equal benefits. Work-based WIL (internships, placements) demonstrates the strongest positive impact on employment outcomes, with participants 32% more likely to obtain full-time employment and 37% less likely to feel overqualified compared to non-participants {% cite jackson_impact_2023 %}. In contrast, non-workplace WIL (classroom projects, simulations) shows significantly weaker outcomes, with participants 14% less likely to secure full-time employment {% cite jackson_impact_2023 %}.
+
+
+
+---
+
+Doing so is crucial because it minimizes resistance. It aligns the change initiative with the organization’s identity. Ignoring these factors can lead to disengagement, as stakeholders may bristle at changes that conflict with the organization’s cultural values.
 
 -   {% cite lester_work-integrated_2016 %} has a lot of on barriers to engagement on p.17.
 -   {% cite ruskin_engaging_2021 %}
