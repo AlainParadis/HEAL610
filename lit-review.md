@@ -4,13 +4,13 @@ layout: default
 ---
 <h2 class="center-text">Leading and Managing Change at Algonquin College</h2>
 
-In keeping with the mandate of Ontario’s publicly supported colleges to provide a labour force that's workplace ready {% cite canlii_ontario_2017 %}, the Graphic Design program at Algonquin College has maintained strong relationships with local, sector-specific employers. A key component of the program’s ties to industry is the provision of Work-Integrated Learning (WIL), though its quality and consistency is deteriorating with time. <span class="blue">This paper presents a literature review focused on leading and managing an organizational change process to embed Work-Integrated Learning as a learning model in the Graphic Design program at Algonquin College. Grounded in the ADKAR change model and Deming’s continuous improvement framework, this review contends that WIL’s long-term viability depends on sustained stakeholder engagement, collaborative leadership, and strategic resource allocation.</span>
+In keeping with the mandate of Ontario’s publicly supported colleges to provide a labour force that's workplace ready {% cite canlii_ontario_2017 %}, the Graphic Design program at Algonquin College has maintained strong relationships with local, sector-specific employers. A key component of the program’s ties to industry is the provision of Work-Integrated Learning (WIL), though its quality and consistency is deteriorating with time. <span class="blue">This paper presents a literature review focused on leading and managing an organizational change process to embed Work-Integrated Learning as a learning model in the Graphic Design program at Algonquin College. Grounded in the ADKAR change model and Deming’s continuous improvement framework, this review contends that WIL’s long-term viability depends on sustained stakeholder engagement and collaborative leadership.</span>
 
 The review examines scholarly works published internationally addressing the challenges of implementing sustained, high-quality WIL in higher education, with a focus on leading and managing change. The scope includes peer-reviewed studies published from 1992 to 2024 analyzing stakeholder engagement barriers, and leadership strategies. This review aims to identify evidence-based practices for embedding WIL as a core pedagogical model while addressing faculty workload constraints and inconsistent industry participation.
 
-The analysis has the following structure: the background and context of the problem of practice, the importance of WIL, why embedding it is important, the collaborative leadership approach, integration of ADKAR and PDSA, the approach to stakeholder engagement, and resource allocation.
+The analysis has the following structure: the background and context of the problem of practice, the importance of WIL, why embedding it is important, the collaborative leadership approach, integration of PDSA, the approach to stakeholder engagement.
 
-<span class="blue">[claim statement]</span> Embedding Work-Integrated Learning in Algonquin College's Graphic Design program is essential for enhancing student employability, building a strong industry talent pipeline, and maintaining faculty currency. Achieving this requires a collaborative leadership approach, sustained stakeholder engagement, and strategic resource allocation to align WIL initiatives with institutional objectives, address existing inconsistencies, and ensure the program’s long-term success.
+<span class="blue">[claim statement]</span> Embedding Work-Integrated Learning in Algonquin College's Graphic Design program is essential for enhancing student employability, building a strong industry talent pipeline, and maintaining faculty currency. Achieving this requires a collaborative leadership approach and sustained stakeholder engagement to align WIL initiatives with institutional objectives, address existing inconsistencies, and ensure the program’s long-term success.
 
 <h2 class="center-text">Background</h2>
 
@@ -125,30 +125,6 @@ An organizational change initiative cannot happen in a vacuum. It is more likely
     -   Addresses many good points about resistance and obstacles to employer participation.
 -   Employers are more inclined to advance discussions and make the required commitments to supervision, evaluation, and feedback in order to ensure high-quality student outcomes if they see the possible advantages and benefits {% cite henderson_strengthening_2017 %}.
 -   {% cite jackson_employer_2017 %}: Employer understanding of Work-Integrated Learning and the challenges of engaging in work placement opportunities
-
-<h2 class="center-text">Theme #3: Resource Allocation</h2>
-
-{% cite kezar_redesigning_2006 %} addresses offering rewards to socialize new faculty to an alternative approach to faculty work and to attract people to the campus who want to conduct collaborative work. In other words, offer a carrot. 
-
-An sufficient allocation of resources is an indication of commitment to the WIL endeavour {% cite fleming_successful_2018 %}.
-
--   {% cite dean_resourcing_2023 %}
--   {% cite bates_work-integrated_2011 %}
--   {% cite brimble_will_2010 %}
--   {% cite clayton_australias_2019 %}
--   {% cite lester_work-integrated_2016  %}: Funding-backed policy is critical to the development of WIL activities.
--   {% cite rook_challenges_2017 %}
--   {% cite weisz_critical_2005 %}
-
-### Stakeholder Resistance
-
-#### Fear
-
-#### Risks
-
-Risks to stakeholders:
--   {% cite effeney_risk_2020 %} p.5
--   {% cite cameron_strategic_2017 %}
 
 
 ## Discussion
