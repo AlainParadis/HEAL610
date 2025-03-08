@@ -106,32 +106,29 @@ Citing academic studies about the value of WIL to a group of graphic designers i
 
 Embedding WIL in the Graphic Design program requires sustained, inclusive engagement with stakeholders to align the curriculum with industry practice. Research underscores that a collaborative approach, which prioritizes open communication and shared decision-making, are critical for overcoming barriers to effective WIL implementation {% cite henderson_strengthening_2017 %}, {% cite jackson_employer_2017 %}, {% cite ruskin_engaging_2021 %}. Compatibility, commitment, and communications are critical success factors for sustainable relationships {% cite fleming_successful_2018 %}. Conversely, inconsistent communication undermines employer participation in WIL {% cite jackson_employer_2017 %} {% cite ferns_enhancing_2016 %}. Recurring points of contact, such as bi-annual Program Advisory Meetings or frequent digital communications foster trust and transparency {% cite jackson_employer_2017 %}.
 
-Sustained engagement ensures that WIL initiatives evolve beyond ad hoc activities to integrated parts of the curriculum. It relies on embedding WIL into the program's yearly workflows, such as faculty assignments and workload allocations, and program quality reviews. Dedicated WIL coordinators integrated in the faculty can maintain stakeholder relationships and align activities with curriculum {% cite ferns_driving_2016 %}. It also ensures that stakeholder input informs ever-evolving curriculum based on industry trends. Such collaboration prevents misalignment between curriculum and employer expectations, a common issue in WIL programs {% cite jackson_employer_2017 %}. A practical example of such engagement could be iterative workshops where industry professionals critique student portfolios, faculty adjust assessment criteria, and students share their perceptions of skill gaps.
+Sustained engagement ensures that WIL initiatives evolve beyond ad hoc activities to integrated parts of the curriculum. It relies on embedding WIL into the program's yearly workflows, such as faculty assignments and workload allocations, and program quality reviews. Dedicated WIL coordinators integrated in the faculty can maintain stakeholder relationships and align activities with curriculum {% cite ferns_driving_2016 %}. From the employers' perspective part of engaging as WIL participants is to prepare their staff to be educators in the workplace {% cite henderson_strengthening_2017 %}.
 
-An inclusive approach to engagement has all stakeholders co-creating WIL experiences. Aligning expectations requires participants to build trust and a shared vision through transparent communication {% cite fleming_successful_2018 %}. Inclusive engagement has students as co-creators rather than passive recipients of the curriculum. This fosters ownership of their learning and bridges the gap between school assignments and professional projects {% cite ruskin_engaging_2021 %}. Furthermore, respectful treatment and fair processes encourage stakeholder participation, leading to more effective and sustainable change. Such practices prevent alienation and enhance motivation, ultimately supporting the success of the change initiative {% cite herman_evidencebased_2017 %}.
+Ongoing engagement also ensures that stakeholder input informs ever-evolving curriculum based on industry trends. Such collaboration prevents misalignment between curriculum and employer expectations, a common issue in WIL programs {% cite jackson_employer_2017 %}, {% cite stirling_practical_2024 %}. A practical example of such engagement could be iterative workshops where industry professionals critique student portfolios, faculty adjust assessment criteria, and students share their perceptions of skill gaps.
+
+An inclusive approach to engagement has all stakeholders co-creating WIL experiences {% cite carmichael_curriculum-aligned_2018 %}, {% cite dorland_entrepreneurial_2020 %}. Aligning expectations requires participants to build trust and a shared vision through transparent communication {% cite fleming_successful_2018 %}. Inclusive engagement has students as co-creators rather than passive recipients of the curriculum. This fosters ownership of their learning and bridges the gap between school assignments and professional projects {% cite ruskin_engaging_2021 %}. Furthermore, respectful treatment and fair processes encourage stakeholder participation, leading to more effective and sustainable change. Such practices prevent alienation and enhance motivation, ultimately supporting the success of the change initiative {% cite herman_evidencebased_2017 %}.
+
+For WIL engagement to be effective, it must be beneficial to all participants {% cite ferns_driving_2016 %}. Employers are unlikely to host a student if their experience is not a positive one. Likewise, the college is not going to partner with an employer that has not offered a quality learning environment. This is an issue of compatibility. {% cite fleming_successful_2018 %}.
 
 DEI WIL
+-   {% cite bowen_examining_2020 %}
 -   {% cite chatoor_student_2023 %}
 -   {% cite lamper_accessible_2024 %}
 -   {% cite tunny_future_2022 %}
 
 An organizational change initiative cannot happen in a vacuum. It is more likely to proceed with less friction if the organization’s existing ethos, values and norms are understood and integrated into the change process {% cite mueller_best_2016 %}. Doing so is crucial because it minimizes resistance. It aligns the change initiative with the organization’s identity. Ignoring these factors can lead to disengagement, as stakeholders may bristle at changes that conflict with the organization’s cultural values.
 
-For WIL engagement to be effective, it must be beneficial to all participants {% cite ferns_driving_2016 %}. Employers are unlikely to host a student if their experience is not a positive one. Likewise, the college is not going to partner with an employer that has not offered a quality learning environment. This is an issue of compatibility. {% cite fleming_successful_2018 %}.
-
-{% cite lester_work-integrated_2016 %} has a lot of on barriers to engagement on p.17.
+-   {% cite lester_work-integrated_2016 %} has a lot of on barriers to engagement on p.17.
 -   {% cite ruskin_engaging_2021 %}
-    -   Curriculum co-creation makes it more engaging to diverse students
     -   Addresses many good points about resistance and obstacles to employer participation.
 -   Employers are more inclined to advance discussions and make the required commitments to supervision, evaluation, and feedback in order to ensure high-quality student outcomes if they see the possible advantages and benefits {% cite henderson_strengthening_2017 %}.
--   Part of engaging employers as WIL participants is to prepare their staff to be educators in the workplace {% cite henderson_strengthening_2017 %}.
--   {% cite wait_multi-stakeholder_2016 %}: Multi-stakeholder work integrated learning model for higher education
 -   {% cite jackson_employer_2017 %}: Employer understanding of Work-Integrated Learning and the challenges of engaging in work placement opportunities
 
-
 <h2 class="center-text">Theme #3: Resource Allocation</h2>
-
-...
 
 {% cite kezar_redesigning_2006 %} addresses offering rewards to socialize new faculty to an alternative approach to faculty work and to attract people to the campus who want to conduct collaborative work. In other words, offer a carrot. 
 
