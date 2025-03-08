@@ -20,12 +20,6 @@ Though definitions of WIL vary broadly in the literature, Work-Integrated Learni
 
 ### Why is the Change Needed?
 
-<!--
--   What is the current state?
--   Why is WIL important to stakeholders?
--   Why is embedding it important?
--->
-
 In recent years, WIL's acceptance as a valued learning model has grown, as has its provision in higher education {% cite chatoor_student_2023 %}, {% cite jackson_embedding_2021 %}, {% cite smigiel_managing_2015 %}, {% cite tunny_future_2022 %}, {% cite ross_developing_2019 %}. WIL is particularly relevant in collaborative fields {% cite tezcan_scaffolded_2020 %}, {% cite smith_impact_2014 %} such as graphic design, where mentorship and professional engagement play pivotal roles in shaping students’ skills and career readiness {% cite cutean_impact_2023 %}, {% cite mcrae_work-integrated_2018 %}, {% cite smith_impact_2014 %}.
 
 Here, Deming's PDSA cycle offers a structured approach to phased WIL integration across semesters. The Plan phase maps incremental workplace skill development against existing curriculum. The Do stage might implement in-class industry projects before scaling to full fieldwork in third year. This aligns with evidence that scaffolded WIL yields higher graduation rates compared to the current single-fieldwork model.
