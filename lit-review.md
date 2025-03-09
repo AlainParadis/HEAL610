@@ -51,9 +51,9 @@ Embedding WIL pays dividends to faculty as it does for the institution as a whol
 
 Faculty members also benefit from embedding WIL in the curriculum, principally by enhancing their currency. Engaging with industry partners ensures curriculum remains aligned with current professional practices and trends. Partnering with employers provides faculty with insights into workplace demands, enabling them to design more consequential learning experiences in the classroom. Faculty gain opportunities to expand their networks and stay connected to industry developments, enhancing their teaching effectiveness {% cite abeysekera_issues_2006 %}, {% cite ferns_driving_2016 %}, {% cite patrick_wil_2008 %}, {% cite provosts_task_force_on_experiential_education_experiential_2017 %}, {% cite stirling_practical_2024 %}, {% cite vailasseri_embedding_2021 %}.
 
-<!-- START: to review/edit -->
+<div class="to_edit">
 In this case, PDSA's iterative structure enables continuous faculty development through Study phase analysis of industry engagement hours vs. curriculum updates, and Act phase adjustments to professional development allocations. This mirrors successful implementations where PDSA-driven feedback loops increased faculty industry currency {% cite patrick_wil_2008 %}, {% cite stirling_practical_2024 %}.
-<!-- END: to review/edit -->
+</div>
 
 The reality on the ground is that the workload for faculty facilitating WIL is substantial and is often met with resistance {% cite clark_power_2016 %} {% cite sony_barriers_2020 %}. Stirling {% cite stirling_practical_2024 %} highlights that instructors must educate themselves about their roles as WIL facilitators and design curriculum that connects with workplace practice. They often receive insufficient training and recognition for this additional work {% cite doolan_benefits_2019 %}, {% cite jackson_work-integrated_2024 %}, {% cite sattler_work-integrated_2011 %}.
 
@@ -63,7 +63,8 @@ Embedding WIL as a learning model in the Program of Study ensures it persists. I
 
 Embedding WIL in the program comes with certain risks. After having invested considerable time in establishing and nurturing industry relationships, employer agencies can change ownership or close. From the students' perspective, participating in design projects alongside professional graphic designers can cause a certain amount of trepidation. Faculty could face burnout, considering the substantial additional work in facilitating WIL activities. Proving return-on-investment data to secure ongoing institutional support needs to be addressed.
 
-<!-- START: to review/edit -->
+
+<div class="to_edit">
 Current Text: "Embedding WIL... comes with certain risks."
 PDSA Mitigation:
 "PDSA's incremental approach reduces implementation risks:
@@ -71,7 +72,8 @@ Small-scale Do phases test employer capacity before full rollout
 Study phases identify faculty workload issues early
 Act phases institutionalize successful support structures
 Canadian nursing programs using this method reduced burnout rates by 41% [Doolan et al., 2019][Jackson, 2024]."
-<!-- END: to review/edit -->
+</div>
+
 
 #### An Iterative Approach to Change
 
@@ -109,14 +111,16 @@ Leading this change process requires moving beyond simply describing communicati
 
 Collaborative leadership serves as the foundation for driving this change initiative. The approach involves forming a guiding coalition, a WIL team, consisting of faculty members, upper-level students capable of articulating experiential learning needs, industry partners invested in talent pipeline development, and college administrators to address institutional barriers. These participants have sufficient authority and influence to lead the change process. They spur stakeholders to work together, to implement needed strategies, and to oversee them during implementation {% cite kezar_redesigning_2006 %}. Kotter's research emphasizes that transformative change cannot be driven solely in a top-down manner. It requires an inclusive team with authority, expertise, and credibility. The coalition's effectiveness hinges on members' perceived legitimacy across stakeholder groups {% cite kotter_leading_2007 %}.
 
-<!-- START: to review/edit -->
+
+<div class="to_edit">
 PDSA provides natural checkpoints for coalition governance
 Plan: Collaborative needs assessment workshops
 Do: Pilot WIL models with coalition oversight
 Study: Joint analysis of stakeholder satisfaction metrics
 Act: Revised membership criteria based on performance data
 This structure addresses power imbalances noted in 78% of collaborative initiatives {% cite kezar_redesigning_2006 %}, {% cite wood_toward_1991 %}
-<!-- END: to review/edit -->
+</div>
+
 
 In reality, resistance to expanded WIL responsibilities requires the use evidence-based persuasion techniques. For instance, comparing WIL's higher graduate employment rates {% cite cheng_employability_2022 %} with current student knowledge gaps can create a persuasive analytical and emotional appeal {% cite kotter_leading_2012 %}.
 
@@ -142,7 +146,7 @@ Not all WIL formats yield equal benefits. Work-based WIL like fieldwork demonstr
 
 Research demonstrates that removing structural barriers significantly improves access. For example, eliminating GPA requirements for students with disabilities since there is very little association between Grade Point Averages and WIL success {% cite lamper_accessible_2024 %}.
 
-<!-- START: to review/edit -->
+<div class="to_edit">
 Current Text: "Research demonstrates that removing structural barriers..."
 PDSA Application:
 "PDSA enables evidence-based equity interventions:
@@ -151,7 +155,7 @@ Do: Pilot anonymized portfolio reviews
 Study: Compare placement rates across demographic groups
 Act: Scale successful accommodations institutionally
 This method eliminated gender disparities in 82% of RMIT design placements [Lamper & Benner, 2024][Tunny et al., 2022].
-<!-- END: to review/edit -->
+</div>
 
 Effective support strategies include personalized coaching, specialized pre-employment training focused on self-advocacy and disclosure strategies, and flexible work structures {% cite lamper_accessible_2024 %}. Additionally, engaging industry partners in equity discussions and developing formal EDI policies rather than case-by-case approaches is essential for creating inclusive workplace environments {% cite itano-boase_exploring_2021 %}, {% cite tunny_future_2022 %}.
 

@@ -22,6 +22,14 @@ p {
   text-indent: 3em;
 }
 
+pre
+{
+	color: var(--apple-blue);
+	text-indent: 0;
+}
+
+
+
 a { color: var(--apple-blue); }
 a:hover { text-decoration: none; }
 
@@ -61,9 +69,8 @@ a:hover { text-decoration: none; }
 	
 	blockquote
 	{
-		background: #EBEBEB;
-		border: solid 1px #919191;
-		color: #919191;
+		border-left: solid 3px var (--apple-blue);
+		color: var (--apple-blue);
 		padding: 0 0.5rem;
 	}
 }
@@ -80,18 +87,23 @@ a:hover { text-decoration: none; }
 	
 	blockquote
 	{
-		background: #212121;
-		border: solid 1px #919191;
-		max-width: 90%;
+		margin-left: -1rem;
+		padding-left: 1rem;
+		border-left: solid 5px #FF9300;
 		color: #919191;
-		font-size: .85rem;
-		margin: 2rem 0;
-		padding: 0 0.5rem;
-		line-height: 1.5rem;
 	}
 	
 	h1, h2, h3, h4, h5, h6 { color: #D6D6D6; }
 }
+
+.to_edit {
+		margin-left: -1rem;
+		padding-left: 1rem;
+		border-left: solid 5px #FF9300;
+		color: #5E5E5E;
+}
+
+.to_edit a { color: #005493; }
 
 table {
     border-collapse: collapse;
