@@ -119,6 +119,19 @@ The evidence supporting faculty currency through industry engagement presents a 
 
 ## Conclusion
 
+The literature reviewed provides compelling evidence supporting the implementation of a comprehensive Work-Integrated Learning framework within Algonquin College's Graphic Design program. This evidence-based approach to change management reveals several key insights that directly inform the proposed transformation.
+
+The research consistently demonstrates that WIL initiatives significantly enhance student employability by developing essential professional competencies that extend beyond technical skills. Students engaged in authentic workplace experiences develop the communication abilities, problem-solving approaches, and collaborative mindsets that employers consistently identify as critical attributes for success in the design industry. This alignment between educational outcomes and industry needs creates a powerful rationale for embedding WIL as a core component of the curriculum rather than an optional add-on.
+
+The evidence further supports the assertion that a collaborative leadership approach is essential for successful WIL implementation. Studies examining effective WIL programs highlight the importance of distributed leadership models that engage stakeholders at all levels—from institutional administration to program faculty to industry partners. This collaborative approach creates the shared ownership necessary to sustain WIL initiatives beyond initial implementation, addressing the challenge of inconsistent application that has hindered previous efforts.
+
+Faculty currency emerges as both a beneficiary of and contributor to successful WIL programs. The literature demonstrates that faculty who maintain active industry connections through WIL supervision and partnership development remain current with evolving professional practices, enhancing their instructional effectiveness. This creates a positive feedback loop where faculty currency strengthens WIL experiences, which in turn further enhances faculty professional development.
+
+Perhaps most significantly, the research validates the importance of systematic stakeholder engagement in creating sustainable WIL programs. Successful models consistently feature structured approaches to identifying, engaging, and maintaining relationships with industry partners, creating clear value propositions for all participants. This evidence directly informs the proposed change management approach, which prioritizes relationship-building and stakeholder communication as foundational elements.
+
+The literature also acknowledges the challenges inherent in WIL implementation, particularly regarding resource allocation, assessment standardization, and balancing competing priorities. By recognizing these potential barriers, the proposed change management plan incorporates strategies to address them proactively, including phased implementation, regular evaluation cycles, and dedicated coordination resources.
+
+In conclusion, the evidence reviewed provides a robust foundation for embedding WIL in Algonquin College's Graphic Design program through a collaborative leadership approach. By aligning with institutional objectives, addressing existing inconsistencies, and ensuring sustained stakeholder engagement, this evidence-based change initiative promises to enhance student employability, strengthen industry partnerships, and maintain faculty currency—ultimately securing the program's long-term success in an evolving educational and professional landscape.
 
 ---
 
