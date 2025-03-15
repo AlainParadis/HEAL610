@@ -103,24 +103,9 @@ For WIL engagement to be effective, it must be beneficial to all participants {%
 
 #### EDI in WIL
 
-Multiple studies document concerning patterns of underrepresentation and inequitable experiences. Gender-based disparities are particularly pronounced. Students with disabilities face barriers throughout the WIL process, from application to workplace integration, where they are more likely to feel ignored {% cite chatoor_student_2023 %}. Similarly, immigrant students encounter significantly more obstacles at every stage, being  more likely to experience barriers during placements {% cite chatoor_student_2023 %}.
+Multiple studies document concerning patterns of underrepresentation and inequitable experiences. Gender-based disparities are particularly pronounced. Students with disabilities face barriers throughout the WIL process {% cite jackson_impact_2023 %}, from application to workplace integration, where they are more likely to feel ignored {% cite chatoor_student_2023 %}. Similarly, immigrant students encounter significantly more obstacles at every stage, being  more likely to experience barriers during placements {% cite chatoor_student_2023 %}.
 
-Not all WIL formats yield equal benefits. Work-based WIL like fieldwork demonstrates the strongest positive impact on employment outcomes, with participants more likely to obtain full-time employment and less likely to feel overqualified compared to non-participants {% cite jackson_impact_2023 %}. In contrast, non-workplace WIL like classroom projects shows significantly weaker outcomes, with participants less likely to secure full-time employment {% cite jackson_impact_2023 %}.
-
-Research demonstrates that removing structural barriers significantly improves access. For example, eliminating GPA requirements for students with disabilities since there is very little association between Grade Point Averages and WIL success {% cite lamper_accessible_2024 %}.
-
-<div class="to_edit">
-Current Text: "Research demonstrates that removing structural barriers..."
-PDSA Application:
-"PDSA enables evidence-based equity interventions:
-Plan: Set EDI benchmarks using intersectional data
-Do: Pilot anonymized portfolio reviews
-Study: Compare placement rates across demographic groups
-Act: Scale successful accommodations institutionally
-This method eliminated gender disparities in 82% of RMIT design placements [Lamper & Benner, 2024][Tunny et al., 2022].
-</div>
-
-Effective support strategies include personalized coaching, specialized pre-employment training focused on self-advocacy and disclosure strategies, and flexible work structures {% cite lamper_accessible_2024 %}. Additionally, engaging industry partners in equity discussions and developing formal EDI policies rather than case-by-case approaches is essential for creating inclusive workplace environments {% cite itano-boase_exploring_2021 %}, {% cite tunny_future_2022 %}.
+Research demonstrates that removing structural barriers significantly improves access. For example, eliminating GPA requirements for students with disabilities, since there is very little association between Grade Point Averages and WIL success {% cite lamper_accessible_2024 %}, {% cite tunny_future_2022 %}. In this scenario, PDSA enables evidence-based equity measures. First, EDI benchmarks are set. An activity such as an anonymized portfolio review is held, followed by a comparison of placement rates across demographic groups. Then, support strategies are be scaled across the program's WIL activities. Effective strategies include personalized coaching, specialized pre-employment training focused on self-advocacy and disclosure strategies, and flexible work structures {% cite lamper_accessible_2024 %}. Additionally, engaging industry partners in equity discussions and developing formal EDI policies rather than case-by-case approaches is essential for creating inclusive workplace environments {% cite itano-boase_exploring_2021 %}, {% cite tunny_future_2022 %}.
 
 The evidence suggests that truly inclusive WIL requires removing arbitrary requirements, providing specialized support throughout the WIL process, engaging industry partners in creating inclusive workplaces, and advocating for policy reforms to expand eligibility criteria for government funding programs {% cite itano-boase_exploring_2021 %}, {% cite tunny_future_2022 %}{% cite lamper_accessible_2024 %}.
 
