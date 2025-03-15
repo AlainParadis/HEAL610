@@ -28,7 +28,7 @@ pre
 	text-indent: 0;
 }
 
-h2 { text-align: center; }
+h1, h2 { text-align: center; }
 
 a { color: var(--apple-blue); }
 a:hover { text-decoration: none; }
