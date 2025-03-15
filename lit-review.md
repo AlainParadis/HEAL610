@@ -111,7 +111,7 @@ The evidence suggests that truly inclusive WIL requires removing arbitrary requi
 
 ## Discussion
 
-This review of literature reveals several interconnected themes that support the implementation of WIL in the Graphic Design program at Algonquin College. The evidence consistently demonstrates that WIL initiatives enhance student employability by bridging theoretical knowledge with practical application. However, this relationship is more complex than presented. While studies show positive outcomes, they frequently focus on immediate employment rather than long-term career sustainability.
+This literature review reveals several interconnected themes that support the implementation of WIL in the Graphic Design program at Algonquin College. The evidence consistently demonstrates that WIL initiatives enhance student employability by bridging theoretical knowledge with practical application. However, this relationship is more complex and nuanced. While studies show positive outcomes, they frequently focus on immediate employment rather than future career sustainability. Furthermore, they do not address students' adaptability to changing industry demands over a longer period of time.
 
 The literature emphasizes stakeholder collaboration as essential for successful WIL implementation, yet there appears to be an imbalance in how different stakeholders' needs are prioritized. Industry partners' requirements often take precedence over educational objectives, potentially creating tension between commercial expectations and pedagogical goals. This raises questions about how to maintain academic integrity while satisfying industry demands.
 
