@@ -55,35 +55,17 @@ In this case, PDSA's iterative cycle enables continuous faculty development thro
 
 The reality on the ground is that the workload for faculty facilitating WIL is substantial and is often met with resistance {% cite clark_power_2016 %} {% cite sony_barriers_2020 %}. Stirling {% cite stirling_practical_2024 %} highlights that instructors must educate themselves about their roles as WIL facilitators and design curriculum that connects with workplace practice. They often receive insufficient training and recognition for this additional work {% cite doolan_benefits_2019 %}, {% cite jackson_work-integrated_2024 %}, {% cite sattler_work-integrated_2011 %}.
 
-In the literature, the principal argument against WIL is that it focuses too heavily on employability, on responding to industry needs, and on the activity itself rather than pedagogy and academic rigour. There are important questions that need addressing. Does the curriculum in the program align with the activities experienced during WIL? Does knowledge from the classroom transfer to the workplace? Is there sufficient reflection on the students' part to internalize what was learned during WIL {% cite orrell_good_2011 %}? {% cite stirling_practical_2024 %}, {% cite thornton_moore_forms_2010 %} These issues need resolution in the process of embedding WIL in the Graphic Design program.
+In the literature, the principal argument against WIL is that it focuses too heavily on employability, on responding to industry needs, and on the activity itself rather than pedagogy and academic rigour. There are important questions that need addressing. Does the curriculum in the program align with the activities experienced during WIL? Does knowledge from the classroom transfer to the workplace? Is there sufficient reflection on the students' part to internalize what was learned during WIL {% cite orrell_good_2011 %}? {% cite stirling_practical_2024 %}, {% cite thornton_moore_forms_2010 %} These issues need addressing and resolution in the process of embedding WIL in the Graphic Design program.
 
 ### Embedding for Consistency
 
 Embedding WIL as a learning model in the Program of Study ensures it persists. It also improves quality, notwithstanding institutional changes or budgetary constraints {% cite jackson_embedding_2021 %}. Institutional recognition of WIL as a learning model in the Graphic Design program contributes to its quality {% cite patrick_wil_2008 %}, {% cite rosenbaum_planned_2018 %}. With WIL integrated throughout the Program of Study, the college can measure quality through its institutional key performance indicators such as retention, graduation, and post-graduation sector-specific employment rates {% cite mcrae_work-integrated_2018 %}. These results allow stakeholders to respond with adjustments to WIL practice in a continuous improvement process {% cite deming_pdsa_nodate %}, {% cite bobby_abcs_2014 %}. Formalizing the inclusion of WIL in the Graphic Design program bolsters its quality into the future. Embedding PDSA into program review cycles creates institutional memory for quality control. The Plan stage checks WIL KPIs against college priorities; while the Do stage implements scaffolded WIL activities. The Act phase adjusts faculty-employer strategies annually. This approach ensures the continuous improvement {% cite ferns_driving_2016 %}, {% cite kay_emerging_2019 %} of WIL in the Graphic Design program.
 
-Embedding WIL in the program comes with certain risks. After having invested considerable time in establishing and nurturing industry relationships, employer agencies can change ownership or close. From the students' perspective, participating in design projects alongside professional graphic designers can cause a certain amount of trepidation. Faculty could face burnout, considering the substantial additional work in facilitating WIL activities. Proving return-on-investment data to secure ongoing institutional support needs to be addressed.
-
-
-<div class="to_edit">
-Current Text: "Embedding WIL... comes with certain risks."
-PDSA Mitigation:
-"PDSA's incremental approach reduces implementation risks:
-Small-scale Do phases test employer capacity before full rollout
-Study phases identify faculty workload issues early
-Act phases institutionalize successful support structures
-Canadian nursing programs using this method reduced burnout rates by 41% [Doolan et al., 2019][Jackson, 2024]."
-</div>
-
+Embedding WIL in the program comes with certain risks that can be mitigated by PDSA's incremental approach. Small-scale Do phases test employer capacity before fully rolling out larger scale WIL activities. Likewise, participating in entry-level design projects alongside professional graphic designers can reduce early-level student trepidation. The Study phase identifies faculty workload issues early. The Act phase institutionalizes support structures for all stakeholders, reducing the risk of disengagement or burnout. Proving return-on-investment data to secure ongoing institutional support needs to be addressed {% cite doolan_benefits_2019 %}, {% cite jackson_work-integrated_2024 %}.
 
 #### An Iterative Approach to Change
 
-By analyzing iterative improvement methods, collaborative leadership, and inclusive partnership models, this review demonstrates how scaffolded WIL experiences enhance employability while addressing systemic inequities.
-
-Embedding WIL as a learning model in the Graphic Design program represents a critical strategy for aligning educational outcomes with industry demands. 
-
-The establishment of WIL oversight using PDSA milestones supported by PDSA training for stakeholders. Faculty uses data-driven curriculum adjustment. Employers provide constructive student feedback. Students use reflective practice strategies.
-
-[needs editing] - What follows is a description of the approach to leading and managing change to embed WIL in the Graphic Design program. It is a two-pronged approach which takes a collaborative approach to leadership which focuses on sustained, inclusive stakeholder engagement.
+By addressing collaborative leadership and inclusive partnership models, this review demonstrates how scaffolded WIL experiences enhance student employability while responding to industry needs, and supporting faculty development when tested at a small-scale, then scaling successful activities to minimize disruptions. It shows that embedding WIL as a learning model in the Graphic Design program represents a critical strategy for aligning educational outcomes with industry demands.
 
 ## Theme #1: Collaborative Leadership
 
