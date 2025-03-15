@@ -28,7 +28,7 @@ pre
 	text-indent: 0;
 }
 
-
+h2 { text-align: center; }
 
 a { color: var(--apple-blue); }
 a:hover { text-decoration: none; }
@@ -95,6 +95,8 @@ a:hover { text-decoration: none; }
 	
 	h1, h2, h3, h4, h5, h6 { color: #D6D6D6; }
 }
+
+
 
 .to_edit {
 		margin-left: -1rem;
