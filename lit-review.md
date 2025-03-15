@@ -83,7 +83,7 @@ Embedding WIL as a learning model in the Graphic Design program represents a cri
 
 The establishment of WIL oversight using PDSA milestones supported by PDSA training for stakeholders. Faculty uses data-driven curriculum adjustment. Employers provide constructive student feedback. Students use reflective practice strategies.
 
-[Add a transition text to launch into the themes.]
+[needs editing] - What follows is a description of the approach to leading and managing change to embed WIL in the Graphic Design program. It is a two-pronged approach which takes a collaborative approach to leadership which focuses on sustained, inclusive stakeholder engagement.
 
 <h2 class="center-text">Theme #1: Collaborative Leadership</h2>
 
@@ -124,7 +124,7 @@ This structure addresses power imbalances noted in 78% of collaborative initiati
 
 In reality, resistance to expanded WIL responsibilities requires the use evidence-based persuasion techniques. For instance, comparing WIL's higher graduate employment rates {% cite cheng_employability_2022 %} with current student knowledge gaps can create a persuasive analytical and emotional appeal {% cite kotter_leading_2012 %}.
 
-Citing academic studies about the value of WIL to a group of graphic designers is hardly  an effective method of convincing them of the need for this change. While organizational, stakeholder, and scientific evidence, along with professional judgement are valuable {% cite rousseau_evidence-based_2022 %}, the use of storytelling supports engagement and motivation. It gives individuals' realities meaning. The benefit of storytelling in bolstering engagement is that it does not require expert knowledge. {% cite sundin_rethinking_2018 %}.
+Citing academic studies about the value of WIL to a group of graphic designers is hardly  an effective method of convincing them of the need for this change. While organizational, stakeholder, and scientific evidence, along with professional judgement are valuable {% cite barends_search_2014 %}, {% cite rousseau_evidence-based_2022 %}, the use of storytelling supports engagement and motivation. It gives individuals' realities meaning. The benefit of storytelling in bolstering engagement is that it does not require expert knowledge. {% cite sundin_rethinking_2018 %}.
 
 <h2 class="center-text">Theme #2: Sustained, Inclusive Stakeholder Engagement</h2>
 
