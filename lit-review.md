@@ -135,8 +135,7 @@ In conclusion, the evidence reviewed provides a robust foundation for embedding 
 
 ## Cited References
 
-<!-- 
 <div class="bibliography-list">
     {% bibliography --cited %}
 </div>
- -->
+
