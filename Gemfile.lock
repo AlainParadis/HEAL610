@@ -31,7 +31,7 @@ GEM
       time (< 1.0)
     csl-styles (2.0.1)
       csl (~> 2.0)
-    csv (3.3.2)
+    csv (3.3.4)
     date (3.4.1)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
@@ -198,7 +198,7 @@ PLATFORMS
 
 DEPENDENCIES
   base64 (~> 0.2.0)
-  csv (~> 3.2)
+  csv (~> 3.3)
   jekyll (~> 4.3.4)
   jekyll-datapage-generator
   jekyll-scholar
