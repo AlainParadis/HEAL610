@@ -1,0 +1,18 @@
+current directory: /Users/paradia/Sites/HEAL610/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/paradia/.rubies/ruby-3.3.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/paradia/Sites/HEAL610/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250214-51702-ijopv3 sitelibdir\=./.gem.20250214-51702-ijopv3 clean
+
+current directory: /Users/paradia/Sites/HEAL610/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250214-51702-ijopv3 sitelibdir\=./.gem.20250214-51702-ijopv3
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/paradia/Sites/HEAL610/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250214-51702-ijopv3 sitelibdir\=./.gem.20250214-51702-ijopv3 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250214-51702-ijopv3/racc
+
+current directory: /Users/paradia/Sites/HEAL610/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250214-51702-ijopv3 sitelibdir\=./.gem.20250214-51702-ijopv3 clean

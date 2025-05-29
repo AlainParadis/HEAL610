@@ -1,0 +1,303 @@
+:root
+{
+	--background-color: white;
+	--text-color-black: black;
+	--apple-blue: #007aff;
+}
+
+body
+{
+	font-family: "IBM Plex Mono", serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+	background-color: var(--background-color);
+	color: var(--text-color);
+}
+
+p {
+  text-indent: 3em;
+}
+
+pre
+{
+	color: var(--apple-blue);
+	text-indent: 0;
+}
+
+h1, h2 { text-align: center; }
+
+a { color: var(--apple-blue); }
+a:hover { text-decoration: none; }
+
+/* Base styles for the container */
+.container
+{
+	max-width: 1200px;
+	/* Standard width for desktops */
+	margin: 0 auto;
+	/* Centers the container horizontally */
+	padding: 0 15px;
+	/* Adds some padding on smaller screens */
+}
+
+/* Responsive layout for smaller screens */
+
+@media screen and (max-width: 768px)
+{
+	.container
+	{
+		max-width: 100%;
+		/* Allows the container to take full width on smaller devices */
+		padding: 0 10px;
+		/* Adjusts padding for smaller screens */
+	}
+}
+
+/* Light mode */
+
+@media (prefers-color-scheme: light)
+{
+	:root
+	{
+		--background-color: white;
+		--text-color-black: black;
+	}
+	
+	blockquote
+	{
+		border-left: solid 3px var (--apple-blue);
+		color: var (--apple-blue);
+		padding: 0 0.5rem;
+	}
+}
+
+/* Dark mode */
+
+@media (prefers-color-scheme: dark)
+{
+	:root
+	{
+		--background-color: #121212;
+		--text-color: #A9A9A9;
+	}
+	
+	blockquote
+	{
+		margin-left: -1rem;
+		padding-left: 1rem;
+		border-left: solid 5px #FF9300;
+		color: #919191;
+	}
+	
+	h1, h2, h3, h4, h5, h6 { color: #D6D6D6; }
+}
+
+
+
+.to_edit {
+		margin-left: -1rem;
+		padding-left: 1rem;
+		border-left: solid 5px #FF9300;
+		color: #5E5E5E;
+}
+
+.to_edit a { color: #005493; }
+
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid #919191;
+	padding: 4px;
+}
+
+/* Additional styling for headers */
+.center-text { text-align: center; }
+.right-text { text-align: right; }
+.center { margin: 0 auto; }
+.ml-15 { margin-left: 1.5rem; }
+.ml-25 { margin-left: 2.5rem; }
+.ml-35 { margin-left: 3.5rem; }
+.ml-45 { margin-left: 5.5rem; }
+
+hr
+{
+	border: 0;
+	height: 0;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+	border-bottom: 1px solid #007aff;
+}
+
+.blue { color: var(--apple-blue); }
+.bold { font-weight: bold; }
+
+ul
+{
+	/*     margin-left: 3.5rem; */
+	padding-top: 0;
+	/*     border: 1px #000 solid; */
+}
+
+/* Search bar styling */
+#search-container { margin-bottom: 1rem; }
+
+#searchField
+{
+	width: 90%;
+	padding: 0.5em;
+	font-size: 1rem;
+	margin-left: 2.5rem;
+}
+
+/* Responsive adjustments for smaller screens */
+
+@media (max-width: 768px)
+{
+	.table-row
+	{
+		flex-direction: column;
+		/* Stack columns vertically on small screens */
+		border-right: none;
+		/* Remove vertical separator for stacked layout */
+	}
+}
+
+/* Bibliography styling */
+.bibliography-list
+{
+	margin: 1rem;
+	padding: 1rem;
+}
+
+.bibliography-list ol
+{
+	list-style-type: none;
+	/* Removes numbering */
+	padding-left: 0;
+	/* Removes default padding */
+}
+
+.bibliography-entry
+{
+	margin-bottom: 1rem;
+	/* Add space between entries */
+	text-indent: -2.5rem;
+	/* Negative indent for the first line */
+	padding-left: 3.5rem;
+	/* Indent all other lines */
+}
+
+.abstract
+{
+	border-bottom: solid 1px #A9A9A9;
+	padding-bottom: 1rem;
+	margin-bottom: 2rem;
+	margin-left: 3.5rem;
+}
+
+.reference-entry
+{
+	margin-bottom: 2em;
+	padding: 1rem;
+	border-bottom: 1px solid #eee;
+}
+
+.reference-title
+{
+	font-weight: bold;
+	font-size: 1.1em;
+	margin-bottom: 0.5em;
+}
+
+.reference-authors
+{
+	font-style: italic;
+	margin-bottom: 0.3em;
+}
+
+.reference-details { font-size: 0.9em; }
+.reference-links { margin-top: 0.5em; }
+
+.doi-link
+{
+	padding: 0.2em 0.5em;
+	background: #f5f5f5;
+	border-radius: 3px;
+	text-decoration: none;
+}
+
+/* References Details page next and previous navigation */
+.PageNavigation
+{
+	display: flex;
+	justify-content: space-between;
+	margin: 20px 0;
+}
+
+.PageNavigation .prev { text-align: left; }
+.PageNavigation .next { text-align: right; }
+
+/* Navigation styling */
+nav {
+  width: 100%;
+  padding: 1rem 0;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+  flex-wrap: wrap;
+}
+
+nav li {
+  margin: 0.5rem;
+}
+
+nav a {
+  font-weight: 700;
+  font-style: normal;
+  padding: 0.5rem;
+  display: block;
+  transition: color 0.3s ease;
+}
+
+nav a:hover {
+  color: var(--apple-blue);
+}
+
+
+/* Responsive navigation for smaller screens */
+@media screen and (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  nav li {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #5E5E5E;
+    margin: 0;
+  }
+  
+  nav li:last-child {
+    border-bottom: none;
+  }
+
+/* For very small screens */
+@media screen and (max-width: 480px) {
+  nav {
+    padding: 0.5rem 0;
+  }
+  
+  nav a {
+    padding: 0.75rem 0.5rem;
+  }
+}

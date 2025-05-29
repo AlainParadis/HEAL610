@@ -1,0 +1,18 @@
+current directory: /Users/paradia/Sites/HEAL610/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.3/ext/stringio
+/Users/paradia/.rubies/ruby-3.3.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/paradia/Sites/HEAL610/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.3/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250217-56807-9v7slu sitelibdir\=./.gem.20250217-56807-9v7slu clean
+
+current directory: /Users/paradia/Sites/HEAL610/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.3/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250217-56807-9v7slu sitelibdir\=./.gem.20250217-56807-9v7slu
+compiling stringio.c
+linking shared-object stringio.bundle
+
+current directory: /Users/paradia/Sites/HEAL610/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.3/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250217-56807-9v7slu sitelibdir\=./.gem.20250217-56807-9v7slu install
+/usr/bin/install -c -m 0755 stringio.bundle ./.gem.20250217-56807-9v7slu
+
+current directory: /Users/paradia/Sites/HEAL610/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.3/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250217-56807-9v7slu sitelibdir\=./.gem.20250217-56807-9v7slu clean
