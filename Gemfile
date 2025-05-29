@@ -18,7 +18,7 @@ ruby "3.3.4"
 # gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
 
 # Required for Ruby ≥3.4 compatibility
-gem "csv", "~> 3.2"
+gem 'csv', '3.3.4'
 gem "base64", "~> 0.2.0"
 gem "webrick", "~> 1.9.1"
 gem "rake", "13.2.1"
