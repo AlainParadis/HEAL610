@@ -19,7 +19,7 @@ ruby "3.3.4"
 
 # Required for Ruby ≥3.4 compatibility
 gem 'csv', '3.3.4'
-gem "base64", "~> 0.2.0"
+gem "base64", "~> 0.3.0"
 gem "webrick", "~> 1.9.1"
 gem "rake", "13.2.1"
 
