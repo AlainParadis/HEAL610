@@ -21,7 +21,7 @@ ruby "3.3.4"
 gem 'csv', '3.3.4'
 gem "base64", "~> 0.2.0"
 gem "webrick", "~> 1.9.1"
-gem "rake", "13.2.1"
+gem "rake", "13.3.0"
 
 # Future-proofing for upcoming Ruby versions
 if Gem::Version.new(RUBY_VERSION) >= Gem::Version.new("3.4")
