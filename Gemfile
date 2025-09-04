@@ -26,5 +26,5 @@ gem "rake", "13.2.1"
 # Future-proofing for upcoming Ruby versions
 if Gem::Version.new(RUBY_VERSION) >= Gem::Version.new("3.4")
   gem "logger", "~> 1.6"
-  gem "bigdecimal", "~> 3.1"
+  gem "bigdecimal", "~> 3.2"
 end
